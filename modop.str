@@ -1,11 +1,10 @@
 
-#,Perimetre,Nature,Theme,Acronyme,Opérateur,Intitulé,Nouveaute,Commentaire,MotsClefs,Lien,DisponibilitéDonnées,CGU,DocumentationTechnique,DocumentationMéthodologique,ExempleRéutilisation,ChampGéographique,Maille,NiveauRestitution,Format,NombreJeuxDonnées,Millésimes
 
 
 
-
-#;Perimetre;Nature;Theme;Acronyme;Opérateur;Intitulé;Nouveaute;Commentaire;MotsClefs;Lien;DisponibilitéDonnées;CGU;DocumentationTechnique;DocumentationMéthodologique;ExempleRéutilisation;ChampGéographique;Maille;NiveauRestitution;Format;NombreJeuxDonnées;Millésimes
+TYPE_ENTITE;NOM_ENTITE;NOM_BASE;DESCRIPTIF;POLPUBLIQUE;STATUT;MOTS_CLEFS;ORIGINE;EXTENSION;COUV_GEO;PROD_TEMPS;VOLUMETRIE;SOCLE_TECH;EFFORT_EXPORT;CONFIDENTIALITE;SENSIBILITE;DIFFUSION_ACTUELLE;PERSP_OPENDATA;EFFORT_REUSE;URL_DATA;LICENCE;FORMATS;PERIODICITE;NOMBRE;OBS
 
 
 http://www.csvjson.com/csv2json
+
 
