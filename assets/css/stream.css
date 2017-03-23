@@ -1,0 +1,55 @@
+.sidebar.col-md-3{
+  padding: 0px;
+}
+
+.sidebar .well, .thumbnail{
+  border-radius: 0px;
+  /* background-color: #EEE; */
+  background-color: #FFF;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+
+.sidebar h4{
+  padding-left: 0px;
+}
+
+.sidebar .row{
+  border-bottom: 2px solid #20B2AA;
+  margin-bottom: 10px;
+}
+
+.sidebar .progress{
+  margin-bottom: 0px;
+  margin-top: 12px;
+  float: right;
+  padding-left: 0;
+  padding-right: 0;
+  border-radius: 0;
+}
+
+.sidebar .progress-bar{
+  background-color: #F08080;
+  border-radius: 0;
+}
+
+.sidebar legend{
+  font-size: 18px;
+  font-weight: 300
+}
+
+
+.search-icon{
+  position: relative;
+  margin-top: -25px;
+  display: inline-block;
+  width: 28px;
+  height: 14px;
+  line-height: 14px;
+  vertical-align: middle;
+  background-color: transparent;
+  font-size: 20px;
+  color: #222;
+  float: right;
+}
+

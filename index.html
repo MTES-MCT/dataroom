@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <link href="assets/semantic/semantic.min.css" media="screen" rel="stylesheet" type="text/css">
+  <link href="assets/css/mystyle.css" media="screen" rel="stylesheet" type="text/css">
+  <script src="assets/js/jquery-1.11.3.min.js" type="text/javascript"></script>
+  <script src="assets/js/jquery-ui-1.10.2.custom.min.js" type="text/javascript"></script>
+  <script src="assets/js/filter.min.js" type="text/javascript"></script>
+  <script src="assets/js/mustache.min.js" type="text/javascript"></script>
+  <script src="assets/semantic/semantic.min.js" type="text/javascript"></script>
+  <script src="data/data.js" type="text/javascript"></script>
+  <script src="auto.js" type="text/javascript"></script>
+  <title>#DataRoom | inventaire des données du MEEM & du MLHD</title>
+</head>
+<body>
+  <div class="ui hidden divider"></div>
+  <div class="ui container grid">
+    <div class="row ui conteneurblue">
+      <div class="two wide column"><img class="ui image" src="assets/img/logo_marianne.png" alt="Logo Ministère"></div><div class="ui blue horizontal label massive">#Data<br />Room</div> 
+      <div class="eleven wide column titre centered">Inventaire des données du MEEM & du MLHD</div>
+    </div>
+    <div class="row container">
+      <div class="four wide column center aligned">
+        <div class="ui container">
+          <div class="ui container statistic">
+            <div class="value">
+              <span id="mydata_count">0</span>
+            </div>
+            <div class="label">jeux de données</div>
+          </div>
+          <div class="ui container">+ d'infos sur : <a href="http://www.developpement-durable.gouv.fr/">MEEM</a> - <a href="http://logement.gouv.fr">MLHD</a></div>
+          <div class="ui container icon input">
+            <i class="search icon"></i>
+            <input type="text" id="searchbox" placeholder="Chercher&hellip;" fjs-search>
+          </div>
+          <div class="ui container">
+            <div class="ui container"><a href="javascript:window.location.reload()">(supprimer les filtres)</a></div>
+          </div>
+          <div class="ui container left aligned" id="target">Chargement...</div>
+        </div>
+      </div>
+      <div class="one wide column"></div>
+      <div class="eleven wide column ui container">
+        <div class="movies content row" id="movies" fjs-items="template=#data-template"></div>
+      </div>
+    </div>
+    <div class="row center aligned container">
+      <div class="sixteen wide column">
+        <span class="text-muted small">© 2017 - Ministère de l'Environnement, de l'Energie et de la Mer - Ministère du Logement et de l'Habitat Durable</span>
+      </div>
+    </div>
+  </body>
+  </html>
+
+  <script id="data-template" type="text/html">
+    <div class="ui raised segment">
+      <p class="ui blue ribbon label"><%= NOM_BASE %></p>
+          <% if(URL_DATA) { %><button class="ui right floated button mini"><a target="_blank" class="label label-success" href="<%= URL_DATA %>"><i class="download orange icon"></i>Télécharger</a></button><% } %>
+      <p></p>
+      <div class="ui two column grid">
+        <div class="column"> 
+          <div class="ui segments">
+            <div class="ui segment">
+              <p>Type de service : <%= TYPE_ENTITE %></p>
+              <p>Nom du service : <%= NOM_ENTITE %></p>
+              <p>Politique publique : <%= POLPUBLIQUE %></p>
+              <p>Origine de la donnée : <%= ORIGINE %></p>
+              <p><div class="ui horizontal labels">Mots-clefs : 
+                  <% var mywords=MOTS_CLEFS.split(';') ; for (index=0;index<mywords.length;++index) { %>
+                  <a class="ui label" href="javascript:document.getElementById('searchbox').focus();searchbox.value='<%= mywords[index] %>';FJS.filter();"><%= mywords[index] %></a>
+                  <% } %>
+                </div></p>
+            </div>
+          </div>
+        </div>
+        <div class="column">
+          <div class="ui segments">
+            <div class="ui segment">
+                <% if(PROD_TEMPS) { %><p>Profondeur temporelle : <%= PROD_TEMPS %></p><% } %>
+                <% if(VOLUMETRIE) { %><p>Volumétrie estimée : <%= VOLUMETRIE %></p><% } %>
+                <% if(SENSIBILITE) { %><p>Confidentialité : <%= SENSIBILITE %></p><% } %>
+                <% if(CONFIDENTIALITE) { %><p>Confidentialité (détail) : <%= CONFIDENTIALITE %></p><% } %>
+                <% if(LICENCE) { %><p>Licence / conditions d'usage : <%= LICENCE %></p><% } else { %><p><i>Licence non précisée</i></p><% } %>
+                
+                <p><div class="ui labels">
+                  <% var mywords=FORMATS.split(';') ; if (mywords.length > 1) { %>
+                  Formats : <% for (index=0;index<mywords.length;++index) { %>
+                  <a class="ui label" href="javascript:document.getElementById('searchbox').focus();searchbox.value='<%= mywords[index] %>';FJS.filter();"><%= mywords[index] %></a>
+                  <% }} else { %>
+                  <i>Format non précisé</i>
+                  <% } %></div></p>
+                
+                <% if(COUV_GEO) { %><p>Couverture géo : <%= COUV_GEO %></p><% } %>
+            </div>
+          </div>
+        </div>
+        <div class="ui container">
+          <p><%= linkify(DESCRIPTIF) %></p><br />
+        </div>
+      </div>
+    </script>
+
+<!-- <script id="genre_template" type="text/html">
+  <div class="checkbox">
+    <label>
+      <input type="checkbox" value="<%= genre %>"> <%= genre %>
+    </label>
+  </div>
+</script> -->
+
+<script id="template" type="x-tmpl-mustache">
+
+  <div class="well">
+    <fieldset id="type_entite_criteria">
+      <legend>Types de service</legend>
+      {{#TYPE_ENTITE}}
+      <div id="type_entite">
+        <div class="radio" fjs-criteria="field=TYPE_ENTITE,ele=#type_entites input:radio">
+          <label>
+            <input type="radio" name="type_entite" value="{{.}}">
+            <span>{{.}}</span>
+          </label>
+        </div>
+      </div>
+      {{/TYPE_ENTITE}}
+    </fieldset>
+  </div>
+
+  <div class="well">
+    <fieldset id="licence_criteria">
+      <legend>Licence</legend>
+      {{#LICENCE}}{{#.}}
+      <div id="licence">
+        <div class="radio" fjs-criteria="field=LICENCE,ele=#licences input:radio">
+          <label>
+            <input type="radio" name="licence" value="{{.}}">
+            <span>{{.}}</span>
+          </label>
+        </div>
+      </div>
+      {{/.}}{{/LICENCE}}
+    </fieldset>
+  </div>
+
+  <div class="well">
+    <fieldset id="nom_entite_criteria">
+      <legend>Entité</legend>
+      {{#NOM_ENTITE}}{{#.}}
+      <div id="entite">
+        <div class="radio" fjs-criteria="field=NOM_ENTITE,ele=#entites input:radio">
+          <label>
+            <input type="radio" name="entite" value="{{.}}">
+            <span>{{.}}</span>
+          </label>
+        </div>
+      </div>
+      {{/.}}{{/NOM_ENTITE}}
+    </fieldset>
+  </div>
+
+  <div class="well">
+    <fieldset id="couv_geo_criteria">
+      <legend>Zone géographique</legend>
+      {{#COUV_GEO}}{{#.}}
+      <div id="couv_geo">
+        <div class="radio" fjs-criteria="field=COUV_GEO,ele=#couv_geos input:radio">
+          <label>
+            <input type="radio" name="geo" value="{{.}}">
+            <span>{{.}}</span>
+          </label>
+        </div>
+      </div>
+      {{/.}}{{/COUV_GEO}}
+    </fieldset>
+  </div>
+
+</script>
