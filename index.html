@@ -55,7 +55,7 @@
 
   <script id="data-template" type="text/html">
     <div class="ui raised segment">
-      <p class="ui blue ribbon label"><%= NOM_BASE %></p>
+      <p class="ui blue ribbon label"><%= NOM_BASE %></p> <%= DESCRIPTIF_COURT %>
           <% if(URL_DATA) { %><button class="ui right floated button mini"><a target="_blank" class="label label-success" href="<%= URL_DATA %>"><i class="download orange icon"></i>Télécharger</a></button><% } %>
       <p></p>
       <div class="ui two column grid">
@@ -96,7 +96,7 @@
           </div>
         </div>
         <div class="ui container">
-          <p><%= linkify(DESCRIPTIF) %></p><br />
+          <p><%= linkify(DESCRIPTIF_LONG) %></p><br />
         </div>
       </div>
     </script>
