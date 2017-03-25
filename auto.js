@@ -1,6 +1,6 @@
 $(document).ready(function(){
 
-  var filteringData = {'TYPE_ENTITE': [], 'COUV_GEO': [], 'LICENCE': [], 'NOM_ENTITE': []}
+  var filteringData = {'TYPE_ENTITE': [], 'COUV_GEO': [], 'POLPUBLIQUE': [], 'LICENCE': [], 'NOM_ENTITE': []}
 
   filteringDataKeys = Object.keys( filteringData );
 
@@ -36,6 +36,7 @@ $(document).ready(function(){
   FJS.addCriteria({field: 'LICENCE', ele: '#licence_criteria input:radio'});
   FJS.addCriteria({field: 'COUV_GEO', ele: '#couv_geo_criteria input:radio'});
   FJS.addCriteria({field: 'NOM_ENTITE', ele: '#nom_entite_criteria input:radio'});
+  FJS.addCriteria({field: 'POLPUBLIQUE', ele: '#polpublique_criteria input:radio'});
   FJS.filter();
 
   window.FJS = FJS;

@@ -160,6 +160,22 @@
   </div>
 
   <div class="well">
+    <fieldset id="polpublique_criteria">
+      <legend>Politique publique</legend>
+      {{#POLPUBLIQUE}}{{#.}}
+      <div id="couv_geo">
+        <div class="radio" fjs-criteria="field=POLPUBLIQUE,ele=#polpubliques input:radio">
+          <label>
+            <input type="radio" name="polpublique" value="{{.}}">
+            <span>{{.}}</span>
+          </label>
+        </div>
+      </div>
+      {{/.}}{{/POLPUBLIQUE}}
+    </fieldset>
+  </div>
+
+  <div class="well">
     <fieldset id="couv_geo_criteria">
       <legend>Zone géographique</legend>
       {{#COUV_GEO}}{{#.}}
