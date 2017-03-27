@@ -5,6 +5,8 @@ cvstojson to generate json from cvs.
 # TODO
 (rien pour le moment !)
 
+27/03/2017
+- Ajout d'un bouton pour signaler une anomalie
 
 24/03/2017
 - Première version de l'inventaire et de l'interface

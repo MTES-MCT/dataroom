@@ -55,9 +55,12 @@
 
   <script id="data-template" type="text/html">
     <div class="ui raised segment">
-      <p class="ui blue ribbon label"><%= NOM_BASE %></p> <%= DESCRIPTIF_COURT %>
-          <% if(URL_DATA) { %><button class="ui right floated button mini"><a target="_blank" class="label label-success" href="<%= URL_DATA %>"><i class="download orange icon"></i>Télécharger</a></button><% } %>
-      <p></p>
+      <p class="ui blue ribbon label"><%= NOM_BASE %></p> 
+          <div class="ui tiny basic icon buttons compact">
+            <button class="ui button orange"><a href="mailto:noreply@developpement-durable.gouv.fr?subject=(dataroom) anomalie signalée sur la source de donnée <%= NOM_BASE %>" ><i class="mail orange icon"></i> Signaler une anomalie</a></button>
+            <% if(URL_DATA) { %><button class="ui button"><a target="_blank" href="<%= URL_DATA %>"><i class="external square blue icon"></i> Accès aux données</a></button><% } %>
+          </div>
+      <p><%= DESCRIPTIF_COURT %></p>
       <div class="ui two column grid">
         <div class="column"> 
           <div class="ui segments">
