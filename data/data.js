@@ -26,7 +26,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 56
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -55,7 +56,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 52
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -84,7 +86,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 52
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -113,7 +116,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 56
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -142,7 +146,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 52
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -171,7 +176,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 48
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -200,7 +206,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 52
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -229,7 +236,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 56
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -258,7 +266,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 37
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -287,7 +296,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 41
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -316,7 +326,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 41
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -345,7 +356,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 37
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -374,7 +386,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "Annuelle",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 48
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -403,7 +416,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 52
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -432,7 +446,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 41
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -461,7 +476,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 37
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -490,7 +506,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 41
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -519,7 +536,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 37
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -548,7 +566,8 @@ var mydata = [
     "FORMATS": "HTML",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 44
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -577,7 +596,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 33
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -606,7 +626,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 37
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -635,7 +656,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 33
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -664,7 +686,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public"
+    "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
+    "QUALITE": 33
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -693,7 +716,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public"
+    "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
+    "QUALITE": 37
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -722,7 +746,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public"
+    "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
+    "QUALITE": 37
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -751,7 +776,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public"
+    "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
+    "QUALITE": 37
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -780,7 +806,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public"
+    "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -809,7 +836,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public"
+    "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -838,7 +866,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public"
+    "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
+    "QUALITE": 30
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -867,7 +896,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public"
+    "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
+    "QUALITE": 30
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -896,7 +926,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public"
+    "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
+    "QUALITE": 30
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -925,7 +956,8 @@ var mydata = [
     "FORMATS": "HTML ; PDF ; XLS",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public"
+    "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
+    "QUALITE": 52
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -954,7 +986,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public"
+    "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
+    "QUALITE": 22
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -983,7 +1016,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public"
+    "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
+    "QUALITE": 30
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -1012,7 +1046,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public"
+    "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -1041,7 +1076,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public"
+    "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -1070,7 +1106,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public"
+    "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -1099,7 +1136,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public"
+    "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -1128,7 +1166,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public"
+    "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
+    "QUALITE": 22
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -1157,7 +1196,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public"
+    "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
+    "QUALITE": 30
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -1186,7 +1226,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public"
+    "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
+    "QUALITE": 22
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -1215,7 +1256,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public"
+    "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -1244,7 +1286,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -1273,7 +1316,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -1302,7 +1346,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public"
+    "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -1331,7 +1376,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public"
+    "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -1360,7 +1406,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public"
+    "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -1389,7 +1436,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public"
+    "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -1418,7 +1466,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public"
+    "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
+    "QUALITE": 30
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -1447,7 +1496,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public"
+    "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -1476,7 +1526,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public"
+    "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
+    "QUALITE": 37
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -1505,7 +1556,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public"
+    "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
+    "QUALITE": 22
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -1534,7 +1586,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public"
+    "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
+    "QUALITE": 30
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -1563,7 +1616,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 33
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -1592,7 +1646,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 33
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -1621,7 +1676,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 33
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -1650,7 +1706,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 37
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -1679,7 +1736,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 19
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -1708,7 +1766,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 19
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -1737,7 +1796,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 33
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -1766,7 +1826,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 33
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -1795,7 +1856,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public"
+    "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -1824,7 +1886,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 30
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -1853,7 +1916,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 41
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -1882,7 +1946,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 33
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -1911,7 +1976,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 37
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -1940,7 +2006,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 37
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -1969,7 +2036,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 37
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -1998,7 +2066,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 37
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -2027,7 +2096,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 33
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -2056,7 +2126,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 41
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -2085,7 +2156,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 41
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -2114,7 +2186,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 37
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -2143,7 +2216,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 41
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -2172,7 +2246,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public"
+    "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -2201,7 +2276,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 33
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -2230,7 +2306,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 33
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -2259,7 +2336,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public"
+    "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
+    "QUALITE": 44
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -2288,7 +2366,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 41
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -2317,7 +2396,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 19
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -2346,7 +2426,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 19
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -2375,7 +2456,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 19
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -2404,7 +2486,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 22
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -2433,7 +2516,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 15
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -2462,7 +2546,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 19
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -2491,7 +2576,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 22
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -2520,7 +2606,8 @@ var mydata = [
     "FORMATS": "XLS",
     "PERIODICITE": "Hebdomadaire",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 52
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -2549,7 +2636,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 48
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -2578,7 +2666,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 48
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -2607,7 +2696,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 48
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -2636,7 +2726,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 44
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -2665,7 +2756,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 56
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -2694,7 +2786,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 48
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -2723,7 +2816,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 44
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -2752,7 +2846,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 52
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -2781,7 +2876,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 52
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -2810,7 +2906,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "Annuel, depuis 1999 Années 2014-2016 en cours",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 52
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -2839,7 +2936,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 48
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -2868,7 +2966,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 44
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -2897,7 +2996,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 33
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -2926,7 +3026,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 30
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -2955,7 +3056,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 37
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -2984,7 +3086,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 33
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -3013,7 +3116,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 33
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -3042,7 +3146,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 33
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -3071,7 +3176,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 44
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -3100,7 +3206,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 44
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -3129,7 +3236,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 37
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -3158,7 +3266,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 44
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -3187,7 +3296,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 19
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -3216,7 +3326,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 33
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -3245,7 +3356,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 44
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -3274,7 +3386,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 48
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -3303,7 +3416,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 44
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -3332,7 +3446,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 44
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -3361,7 +3476,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 44
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -3390,7 +3506,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 44
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -3419,7 +3536,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 44
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -3448,7 +3566,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 44
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -3477,7 +3596,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 44
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -3506,7 +3626,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 48
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -3535,7 +3656,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 48
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -3564,7 +3686,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 44
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -3593,7 +3716,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 44
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -3622,7 +3746,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 44
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -3651,7 +3776,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 44
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -3680,7 +3806,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 44
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -3709,7 +3836,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 44
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -3738,7 +3866,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 44
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -3767,7 +3896,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 48
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -3796,7 +3926,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 48
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -3825,7 +3956,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "Annuelle",
     "NOMBRE": "47 établissements",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 33
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -3854,7 +3986,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "Annuelle",
     "NOMBRE": "7 000 établissements",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 33
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -3883,7 +4016,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "Apériodique",
     "NOMBRE": "4 727 individu",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 37
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -3912,7 +4046,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "2 400 chefs de famille",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 30
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -3941,7 +4076,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "Trimestrielle",
     "NOMBRE": "12 000 programmes par trimestre",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 37
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -3970,7 +4106,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "Annuelle",
     "NOMBRE": "4,8 millions de logements / 800 bailleurs sociaux",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 37
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -3999,7 +4136,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "Annuelle",
     "NOMBRE": "110 000 permis en 2009",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 37
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -4028,7 +4166,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "Supérieure à un an",
     "NOMBRE": "Environ 7 500 établissements",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 33
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -4057,7 +4196,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "Apériodique",
     "NOMBRE": "8 000 logements",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 30
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -4086,7 +4226,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "Mensuelle",
     "NOMBRE": "2 600 entreprises",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 33
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -4115,7 +4256,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "Mensuelle",
     "NOMBRE": "7 800 entreprises",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 37
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -4144,7 +4286,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "Trimestrielle",
     "NOMBRE": "5 800 permis",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 37
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -4173,7 +4316,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "7 506 entreprises",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 33
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -4202,7 +4346,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "80 000 véhicules",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 33
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -4231,7 +4376,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "Trimestrielle",
     "NOMBRE": "30 entreprises",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 37
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -4260,7 +4406,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "Trimestrielle",
     "NOMBRE": "Près de 2000 établissements et 20 000 conducteurs routiers",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 41
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -4289,7 +4436,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "Tous les 5 à 6 ans",
     "NOMBRE": "25 000 véhicules en 2012",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 37
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -4318,7 +4466,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "Tous les 10 à 15 ans",
     "NOMBRE": "20 200 ménages",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 37
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -4347,7 +4496,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "Apériodique",
     "NOMBRE": "15 000 autocars",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 37
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -4376,7 +4526,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "Apériodique",
     "NOMBRE": "2 000 unités sur 4 000 entrepôts",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 37
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -4405,7 +4556,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "Apériodique",
     "NOMBRE": "4 789 entreprises",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 37
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -4434,7 +4586,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "Apériodique",
     "NOMBRE": "30 500 véhicules",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 37
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -4463,7 +4616,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "Apériodique",
     "NOMBRE": "20 000 véhicules automoteurs spécialisés",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 37
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -4492,7 +4646,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "Trimestrielle",
     "NOMBRE": "20 chargeurs",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 37
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -4521,7 +4676,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "Annuelle",
     "NOMBRE": "245 opérateurs",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 37
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -4550,7 +4706,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "Annuelle",
     "NOMBRE": "150 entreprises en 201",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 37
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -4579,7 +4736,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "Annuelle",
     "NOMBRE": "4900 centrales",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 37
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -4608,7 +4766,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "Annuelle",
     "NOMBRE": "47 établissements en 2014",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 33
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -4637,7 +4796,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "Mensuelle",
     "NOMBRE": "47 établissements",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 33
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -4666,7 +4826,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "Semestrielle",
     "NOMBRE": "170 fournisseurs",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 33
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -4695,7 +4856,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "Annuelle",
     "NOMBRE": "520 établissements",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 33
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -4724,7 +4886,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "Annuelle",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 30
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -4753,7 +4916,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "Annuelle",
     "NOMBRE": "50 unités environ",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 33
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -4782,7 +4946,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -4811,7 +4976,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 30
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -4840,7 +5006,8 @@ var mydata = [
     "FORMATS": "WMS ; WMTS",
     "PERIODICITE": "Tous les quatre ans",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 74
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -4869,7 +5036,8 @@ var mydata = [
     "FORMATS": "TJS ; XLS ; CSV",
     "PERIODICITE": "Annuelle",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 70
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -4898,7 +5066,8 @@ var mydata = [
     "FORMATS": "TJS ; XLS ; CSV",
     "PERIODICITE": "Annuelle",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 67
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -4927,7 +5096,8 @@ var mydata = [
     "FORMATS": "XLS ; CSV ; IVT",
     "PERIODICITE": "Mensuelle ; Annuelle",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 67
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -4956,7 +5126,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 52
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -4985,7 +5156,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 22
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -5014,7 +5186,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 48
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -5043,7 +5216,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 41
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -5072,7 +5246,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 44
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -5101,7 +5276,8 @@ var mydata = [
     "FORMATS": "à préciser",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 48
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -5130,7 +5306,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 30
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -5159,7 +5336,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 44
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -5188,7 +5366,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 30
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -5217,7 +5396,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 30
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -5246,7 +5426,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "Tous les 10 ans",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 41
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -5275,7 +5456,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 41
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -5304,7 +5486,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 37
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -5333,7 +5516,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 33
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -5362,7 +5546,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 41
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -5391,7 +5576,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 41
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -5420,7 +5606,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 37
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -5449,7 +5636,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr"
+    "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr",
+    "QUALITE": 52
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -5478,7 +5666,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr"
+    "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr",
+    "QUALITE": 44
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -5507,7 +5696,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr"
+    "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr",
+    "QUALITE": 41
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -5536,7 +5726,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr"
+    "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr",
+    "QUALITE": 37
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -5565,7 +5756,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr"
+    "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr",
+    "QUALITE": 41
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -5594,7 +5786,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr"
+    "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr",
+    "QUALITE": 41
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -5623,7 +5816,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr"
+    "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr",
+    "QUALITE": 44
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -5652,7 +5846,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr"
+    "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr",
+    "QUALITE": 41
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -5681,7 +5876,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr"
+    "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr",
+    "QUALITE": 41
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -5710,7 +5906,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr"
+    "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr",
+    "QUALITE": 48
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -5739,7 +5936,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr"
+    "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr",
+    "QUALITE": 52
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -5768,7 +5966,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr"
+    "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr",
+    "QUALITE": 44
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -5797,7 +5996,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr"
+    "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr",
+    "QUALITE": 41
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -5826,7 +6026,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr"
+    "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr",
+    "QUALITE": 48
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -5855,7 +6056,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr"
+    "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr",
+    "QUALITE": 44
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -5884,7 +6086,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr"
+    "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr",
+    "QUALITE": 37
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -5913,7 +6116,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr"
+    "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr",
+    "QUALITE": 48
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -5942,7 +6146,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr"
+    "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr",
+    "QUALITE": 48
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -5971,7 +6176,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr"
+    "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr",
+    "QUALITE": 48
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -6000,7 +6206,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr"
+    "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr",
+    "QUALITE": 44
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -6029,7 +6236,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr"
+    "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr",
+    "QUALITE": 41
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -6058,7 +6266,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr"
+    "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr",
+    "QUALITE": 41
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -6087,7 +6296,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr"
+    "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr",
+    "QUALITE": 41
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -6116,7 +6326,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr"
+    "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr",
+    "QUALITE": 41
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -6145,7 +6356,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr"
+    "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr",
+    "QUALITE": 41
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -6174,7 +6386,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr"
+    "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr",
+    "QUALITE": 41
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -6203,7 +6416,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr"
+    "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr",
+    "QUALITE": 41
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -6232,7 +6446,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr"
+    "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr",
+    "QUALITE": 44
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -6261,7 +6476,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr"
+    "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr",
+    "QUALITE": 48
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -6290,7 +6506,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr"
+    "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr",
+    "QUALITE": 48
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -6319,7 +6536,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 41
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -6348,7 +6566,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 37
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -6377,7 +6596,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 33
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -6406,7 +6626,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 33
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -6435,7 +6656,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 37
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -6464,7 +6686,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 33
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -6493,7 +6716,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 41
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -6522,7 +6746,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 44
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -6551,7 +6776,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 33
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -6580,7 +6806,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 41
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -6609,7 +6836,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 41
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -6638,7 +6866,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 44
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -6667,7 +6896,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 44
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -6696,7 +6926,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 44
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -6725,7 +6956,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 44
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -6754,7 +6986,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 44
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -6783,7 +7016,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 44
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -6812,7 +7046,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "Données IGN Gratuites pour tous les usages"
+    "OBS": "Données IGN Gratuites pour tous les usages",
+    "QUALITE": 22
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -6841,7 +7076,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "Données IGN Gratuites pour tous les usages"
+    "OBS": "Données IGN Gratuites pour tous les usages",
+    "QUALITE": 22
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -6870,7 +7106,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "Données IGN Gratuites pour tous les usages"
+    "OBS": "Données IGN Gratuites pour tous les usages",
+    "QUALITE": 22
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -6899,7 +7136,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "Données IGN Gratuites pour tous les usages"
+    "OBS": "Données IGN Gratuites pour tous les usages",
+    "QUALITE": 22
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -6928,7 +7166,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "Données IGN Gratuites pour tous les usages"
+    "OBS": "Données IGN Gratuites pour tous les usages",
+    "QUALITE": 22
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -6957,7 +7196,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "Données IGN Gratuites pour tous les usages"
+    "OBS": "Données IGN Gratuites pour tous les usages",
+    "QUALITE": 22
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -6986,7 +7226,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "Données IGN Gratuites pour tous les usages"
+    "OBS": "Données IGN Gratuites pour tous les usages",
+    "QUALITE": 22
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -7015,7 +7256,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "Données IGN Gratuites pour tous les usages"
+    "OBS": "Données IGN Gratuites pour tous les usages",
+    "QUALITE": 22
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -7044,7 +7286,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "Données IGN Gratuites pour tous les usages"
+    "OBS": "Données IGN Gratuites pour tous les usages",
+    "QUALITE": 22
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -7073,7 +7316,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "Données IGN Gratuites pour tous les usages"
+    "OBS": "Données IGN Gratuites pour tous les usages",
+    "QUALITE": 22
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -7102,7 +7346,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "Données IGN avec redevance, gratuites pour les missions de service public"
+    "OBS": "Données IGN avec redevance, gratuites pour les missions de service public",
+    "QUALITE": 22
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -7131,7 +7376,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "Données IGN avec redevance, gratuites pour les missions de service public"
+    "OBS": "Données IGN avec redevance, gratuites pour les missions de service public",
+    "QUALITE": 22
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -7160,7 +7406,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "Données IGN avec redevance, gratuites pour les missions de service public"
+    "OBS": "Données IGN avec redevance, gratuites pour les missions de service public",
+    "QUALITE": 22
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -7189,7 +7436,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "Données IGN avec redevance, gratuites pour les missions de service public"
+    "OBS": "Données IGN avec redevance, gratuites pour les missions de service public",
+    "QUALITE": 37
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -7218,7 +7466,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "Données IGN avec redevance, gratuites pour les missions de service public"
+    "OBS": "Données IGN avec redevance, gratuites pour les missions de service public",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -7247,7 +7496,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "Données IGN avec redevance, gratuites pour les missions de service public"
+    "OBS": "Données IGN avec redevance, gratuites pour les missions de service public",
+    "QUALITE": 37
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -7276,7 +7526,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "Données IGN avec redevance, gratuites pour les missions de service public"
+    "OBS": "Données IGN avec redevance, gratuites pour les missions de service public",
+    "QUALITE": 37
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -7305,7 +7556,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "Données IGN avec redevance, gratuites pour les missions de service public"
+    "OBS": "Données IGN avec redevance, gratuites pour les missions de service public",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -7334,7 +7586,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "Données IGN avec redevance, gratuites pour les missions de service public"
+    "OBS": "Données IGN avec redevance, gratuites pour les missions de service public",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -7363,7 +7616,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "Données IGN avec redevance, gratuites pour les missions de service public"
+    "OBS": "Données IGN avec redevance, gratuites pour les missions de service public",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -7392,7 +7646,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "Données IGN avec redevance"
+    "OBS": "Données IGN avec redevance",
+    "QUALITE": 37
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -7421,7 +7676,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "Données IGN avec redevance"
+    "OBS": "Données IGN avec redevance",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -7450,7 +7706,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "Données IGN avec redevance"
+    "OBS": "Données IGN avec redevance",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -7479,7 +7736,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "Données IGN avec redevance"
+    "OBS": "Données IGN avec redevance",
+    "QUALITE": 44
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -7508,7 +7766,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "Données IGN avec redevance"
+    "OBS": "Données IGN avec redevance",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -7537,7 +7796,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "Données IGN avec redevance"
+    "OBS": "Données IGN avec redevance",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -7566,7 +7826,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "Données IGN avec redevance"
+    "OBS": "Données IGN avec redevance",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -7595,7 +7856,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "Données IGN avec redevance"
+    "OBS": "Données IGN avec redevance",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -7624,7 +7886,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "Données IGN avec redevance"
+    "OBS": "Données IGN avec redevance",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -7653,7 +7916,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "Données IGN avec redevance"
+    "OBS": "Données IGN avec redevance",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -7682,7 +7946,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "Données IGN avec redevance"
+    "OBS": "Données IGN avec redevance",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -7711,7 +7976,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "Données IGN avec redevance"
+    "OBS": "Données IGN avec redevance",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -7740,7 +8006,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "Données IGN avec redevance"
+    "OBS": "Données IGN avec redevance",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -7769,7 +8036,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "Données IGN avec redevance"
+    "OBS": "Données IGN avec redevance",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -7798,7 +8066,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "Données IGN avec redevance"
+    "OBS": "Données IGN avec redevance",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -7827,7 +8096,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "Données IGN avec redevance"
+    "OBS": "Données IGN avec redevance",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -7856,7 +8126,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "Données IGN avec redevance"
+    "OBS": "Données IGN avec redevance",
+    "QUALITE": 37
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -7885,7 +8156,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "Données IGN avec redevance"
+    "OBS": "Données IGN avec redevance",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -7914,7 +8186,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "Données IGN avec redevance"
+    "OBS": "Données IGN avec redevance",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -7943,7 +8216,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "Données IGN avec redevance"
+    "OBS": "Données IGN avec redevance",
+    "QUALITE": 41
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -7972,7 +8246,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 30
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -8001,7 +8276,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 33
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -8030,7 +8306,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 19
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -8059,7 +8336,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 37
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -8088,7 +8366,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 19
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -8117,7 +8396,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 44
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -8146,7 +8426,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 37
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -8175,7 +8456,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 41
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -8204,7 +8486,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 33
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -8233,7 +8516,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 37
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -8262,7 +8546,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 52
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -8291,7 +8576,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 37
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -8320,7 +8606,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 37
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -8349,7 +8636,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 37
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -8378,7 +8666,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 37
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -8407,7 +8696,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 41
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -8436,7 +8726,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 30
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -8465,7 +8756,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 30
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -8494,7 +8786,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 30
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -8523,7 +8816,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 30
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -8552,7 +8846,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 30
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -8581,7 +8876,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 30
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -8610,7 +8906,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 30
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -8639,7 +8936,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 30
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -8668,7 +8966,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 30
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -8697,7 +8996,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 30
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -8726,7 +9026,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 30
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -8755,7 +9056,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 30
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -8784,7 +9086,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 30
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -8813,7 +9116,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 30
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -8842,7 +9146,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 30
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -8871,7 +9176,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 30
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -8900,7 +9206,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 30
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -8929,7 +9236,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 30
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -8958,7 +9266,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 30
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -8987,7 +9296,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 37
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -9016,7 +9326,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 37
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -9045,7 +9356,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 33
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -9074,7 +9386,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 37
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -9103,7 +9416,8 @@ var mydata = [
     "FORMATS": "WMS ; WFS",
     "PERIODICITE": "Annuelle",
     "NOMBRE": "",
-    "OBS": "Est-ce un doublon avec la BDCathage de l'IGN ?"
+    "OBS": "Est-ce un doublon avec la BDCathage de l'IGN ?",
+    "QUALITE": 52
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -9132,7 +9446,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "Bi-annuel",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 41
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -9161,7 +9476,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 37
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -9190,7 +9506,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "Annuelle",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 44
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -9219,7 +9536,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "Annuelle",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 41
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -9248,7 +9566,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 41
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -9277,7 +9596,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 37
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -9306,7 +9626,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 33
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -9335,7 +9656,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 33
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -9364,7 +9686,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 37
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -9393,7 +9716,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 30
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -9422,7 +9746,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 37
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -9451,7 +9776,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 37
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -9480,7 +9806,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 41
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -9509,7 +9836,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 37
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -9538,7 +9866,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 37
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -9567,7 +9896,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 41
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -9596,7 +9926,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 41
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -9625,7 +9956,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 41
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -9654,7 +9986,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "Tous les 6 ans",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 48
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -9683,7 +10016,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 41
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -9712,7 +10046,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 37
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -9741,7 +10076,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 37
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -9770,7 +10106,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 37
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -9799,7 +10136,8 @@ var mydata = [
     "FORMATS": "XML ; SHP ; GML",
     "PERIODICITE": "Annuelle",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 48
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -9828,7 +10166,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 44
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -9857,7 +10196,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 37
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -9886,7 +10226,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 37
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -9915,7 +10256,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 37
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -9944,7 +10286,8 @@ var mydata = [
     "FORMATS": "SHP ; MIF-MID ; WFS",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 41
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -9973,7 +10316,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 41
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -10002,7 +10346,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 41
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -10031,7 +10376,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 22
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -10060,7 +10406,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 33
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -10089,7 +10436,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 37
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -10118,7 +10466,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 41
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -10147,7 +10496,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 37
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -10176,7 +10526,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 37
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -10205,7 +10556,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 37
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -10234,7 +10586,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 37
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -10263,7 +10616,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "RPD : Réseau public de distribution - DCP* : données confidentielles au titre de la réglementation relative à la protection des Informations Commercialement Sensibles - ICS** : données confidentielles au titre de la protection des Données à Caractère Personnel, conformément aux lois Informatique et Libertés - Indus***. : données confidentielles au titre de la protection du secret industriel et commercial - Sec**** : données confidentielles au titre de la préservation de la sécurité des biens et des personnes"
+    "OBS": "RPD : Réseau public de distribution - DCP* : données confidentielles au titre de la réglementation relative à la protection des Informations Commercialement Sensibles - ICS** : données confidentielles au titre de la protection des Données à Caractère Personnel, conformément aux lois Informatique et Libertés - Indus***. : données confidentielles au titre de la protection du secret industriel et commercial - Sec**** : données confidentielles au titre de la préservation de la sécurité des biens et des personnes",
+    "QUALITE": 41
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -10292,7 +10646,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "RPD : Réseau public de distribution - DCP* : données confidentielles au titre de la réglementation relative à la protection des Informations Commercialement Sensibles - ICS** : données confidentielles au titre de la protection des Données à Caractère Personnel, conformément aux lois Informatique et Libertés - Indus***. : données confidentielles au titre de la protection du secret industriel et commercial - Sec**** : données confidentielles au titre de la préservation de la sécurité des biens et des personnes"
+    "OBS": "RPD : Réseau public de distribution - DCP* : données confidentielles au titre de la réglementation relative à la protection des Informations Commercialement Sensibles - ICS** : données confidentielles au titre de la protection des Données à Caractère Personnel, conformément aux lois Informatique et Libertés - Indus***. : données confidentielles au titre de la protection du secret industriel et commercial - Sec**** : données confidentielles au titre de la préservation de la sécurité des biens et des personnes",
+    "QUALITE": 41
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -10321,7 +10676,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "RPD : Réseau public de distribution - DCP* : données confidentielles au titre de la réglementation relative à la protection des Informations Commercialement Sensibles - ICS** : données confidentielles au titre de la protection des Données à Caractère Personnel, conformément aux lois Informatique et Libertés - Indus***. : données confidentielles au titre de la protection du secret industriel et commercial - Sec**** : données confidentielles au titre de la préservation de la sécurité des biens et des personnes"
+    "OBS": "RPD : Réseau public de distribution - DCP* : données confidentielles au titre de la réglementation relative à la protection des Informations Commercialement Sensibles - ICS** : données confidentielles au titre de la protection des Données à Caractère Personnel, conformément aux lois Informatique et Libertés - Indus***. : données confidentielles au titre de la protection du secret industriel et commercial - Sec**** : données confidentielles au titre de la préservation de la sécurité des biens et des personnes",
+    "QUALITE": 41
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -10350,7 +10706,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "RPD : Réseau public de distribution - DCP* : données confidentielles au titre de la réglementation relative à la protection des Informations Commercialement Sensibles - ICS** : données confidentielles au titre de la protection des Données à Caractère Personnel, conformément aux lois Informatique et Libertés - Indus***. : données confidentielles au titre de la protection du secret industriel et commercial - Sec**** : données confidentielles au titre de la préservation de la sécurité des biens et des personnes"
+    "OBS": "RPD : Réseau public de distribution - DCP* : données confidentielles au titre de la réglementation relative à la protection des Informations Commercialement Sensibles - ICS** : données confidentielles au titre de la protection des Données à Caractère Personnel, conformément aux lois Informatique et Libertés - Indus***. : données confidentielles au titre de la protection du secret industriel et commercial - Sec**** : données confidentielles au titre de la préservation de la sécurité des biens et des personnes",
+    "QUALITE": 41
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -10379,7 +10736,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "RPD : Réseau public de distribution - DCP* : données confidentielles au titre de la réglementation relative à la protection des Informations Commercialement Sensibles - ICS** : données confidentielles au titre de la protection des Données à Caractère Personnel, conformément aux lois Informatique et Libertés - Indus***. : données confidentielles au titre de la protection du secret industriel et commercial - Sec**** : données confidentielles au titre de la préservation de la sécurité des biens et des personnes"
+    "OBS": "RPD : Réseau public de distribution - DCP* : données confidentielles au titre de la réglementation relative à la protection des Informations Commercialement Sensibles - ICS** : données confidentielles au titre de la protection des Données à Caractère Personnel, conformément aux lois Informatique et Libertés - Indus***. : données confidentielles au titre de la protection du secret industriel et commercial - Sec**** : données confidentielles au titre de la préservation de la sécurité des biens et des personnes",
+    "QUALITE": 41
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -10408,7 +10766,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "RPD : Réseau public de distribution - DCP* : données confidentielles au titre de la réglementation relative à la protection des Informations Commercialement Sensibles - ICS** : données confidentielles au titre de la protection des Données à Caractère Personnel, conformément aux lois Informatique et Libertés - Indus***. : données confidentielles au titre de la protection du secret industriel et commercial - Sec**** : données confidentielles au titre de la préservation de la sécurité des biens et des personnes"
+    "OBS": "RPD : Réseau public de distribution - DCP* : données confidentielles au titre de la réglementation relative à la protection des Informations Commercialement Sensibles - ICS** : données confidentielles au titre de la protection des Données à Caractère Personnel, conformément aux lois Informatique et Libertés - Indus***. : données confidentielles au titre de la protection du secret industriel et commercial - Sec**** : données confidentielles au titre de la préservation de la sécurité des biens et des personnes",
+    "QUALITE": 41
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -10437,7 +10796,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "RPD : Réseau public de distribution - DCP* : données confidentielles au titre de la réglementation relative à la protection des Informations Commercialement Sensibles - ICS** : données confidentielles au titre de la protection des Données à Caractère Personnel, conformément aux lois Informatique et Libertés - Indus***. : données confidentielles au titre de la protection du secret industriel et commercial - Sec**** : données confidentielles au titre de la préservation de la sécurité des biens et des personnes"
+    "OBS": "RPD : Réseau public de distribution - DCP* : données confidentielles au titre de la réglementation relative à la protection des Informations Commercialement Sensibles - ICS** : données confidentielles au titre de la protection des Données à Caractère Personnel, conformément aux lois Informatique et Libertés - Indus***. : données confidentielles au titre de la protection du secret industriel et commercial - Sec**** : données confidentielles au titre de la préservation de la sécurité des biens et des personnes",
+    "QUALITE": 41
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -10466,7 +10826,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "RPD : Réseau public de distribution - DCP* : données confidentielles au titre de la réglementation relative à la protection des Informations Commercialement Sensibles - ICS** : données confidentielles au titre de la protection des Données à Caractère Personnel, conformément aux lois Informatique et Libertés - Indus***. : données confidentielles au titre de la protection du secret industriel et commercial - Sec**** : données confidentielles au titre de la préservation de la sécurité des biens et des personnes"
+    "OBS": "RPD : Réseau public de distribution - DCP* : données confidentielles au titre de la réglementation relative à la protection des Informations Commercialement Sensibles - ICS** : données confidentielles au titre de la protection des Données à Caractère Personnel, conformément aux lois Informatique et Libertés - Indus***. : données confidentielles au titre de la protection du secret industriel et commercial - Sec**** : données confidentielles au titre de la préservation de la sécurité des biens et des personnes",
+    "QUALITE": 41
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -10495,7 +10856,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "RPD : Réseau public de distribution - DCP* : données confidentielles au titre de la réglementation relative à la protection des Informations Commercialement Sensibles - ICS** : données confidentielles au titre de la protection des Données à Caractère Personnel, conformément aux lois Informatique et Libertés - Indus***. : données confidentielles au titre de la protection du secret industriel et commercial - Sec**** : données confidentielles au titre de la préservation de la sécurité des biens et des personnes"
+    "OBS": "RPD : Réseau public de distribution - DCP* : données confidentielles au titre de la réglementation relative à la protection des Informations Commercialement Sensibles - ICS** : données confidentielles au titre de la protection des Données à Caractère Personnel, conformément aux lois Informatique et Libertés - Indus***. : données confidentielles au titre de la protection du secret industriel et commercial - Sec**** : données confidentielles au titre de la préservation de la sécurité des biens et des personnes",
+    "QUALITE": 41
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -10524,7 +10886,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "RPD : Réseau public de distribution - DCP* : données confidentielles au titre de la réglementation relative à la protection des Informations Commercialement Sensibles - ICS** : données confidentielles au titre de la protection des Données à Caractère Personnel, conformément aux lois Informatique et Libertés - Indus***. : données confidentielles au titre de la protection du secret industriel et commercial - Sec**** : données confidentielles au titre de la préservation de la sécurité des biens et des personnes"
+    "OBS": "RPD : Réseau public de distribution - DCP* : données confidentielles au titre de la réglementation relative à la protection des Informations Commercialement Sensibles - ICS** : données confidentielles au titre de la protection des Données à Caractère Personnel, conformément aux lois Informatique et Libertés - Indus***. : données confidentielles au titre de la protection du secret industriel et commercial - Sec**** : données confidentielles au titre de la préservation de la sécurité des biens et des personnes",
+    "QUALITE": 41
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -10553,7 +10916,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "RPD : Réseau public de distribution - DCP* : données confidentielles au titre de la réglementation relative à la protection des Informations Commercialement Sensibles - ICS** : données confidentielles au titre de la protection des Données à Caractère Personnel, conformément aux lois Informatique et Libertés - Indus***. : données confidentielles au titre de la protection du secret industriel et commercial - Sec**** : données confidentielles au titre de la préservation de la sécurité des biens et des personnes"
+    "OBS": "RPD : Réseau public de distribution - DCP* : données confidentielles au titre de la réglementation relative à la protection des Informations Commercialement Sensibles - ICS** : données confidentielles au titre de la protection des Données à Caractère Personnel, conformément aux lois Informatique et Libertés - Indus***. : données confidentielles au titre de la protection du secret industriel et commercial - Sec**** : données confidentielles au titre de la préservation de la sécurité des biens et des personnes",
+    "QUALITE": 44
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -10582,7 +10946,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": "",
-    "OBS": "RPD : Réseau public de distribution - DCP* : données confidentielles au titre de la réglementation relative à la protection des Informations Commercialement Sensibles - ICS** : données confidentielles au titre de la protection des Données à Caractère Personnel, conformément aux lois Informatique et Libertés - Indus***. : données confidentielles au titre de la protection du secret industriel et commercial - Sec**** : données confidentielles au titre de la préservation de la sécurité des biens et des personnes"
+    "OBS": "RPD : Réseau public de distribution - DCP* : données confidentielles au titre de la réglementation relative à la protection des Informations Commercialement Sensibles - ICS** : données confidentielles au titre de la protection des Données à Caractère Personnel, conformément aux lois Informatique et Libertés - Indus***. : données confidentielles au titre de la protection du secret industriel et commercial - Sec**** : données confidentielles au titre de la préservation de la sécurité des biens et des personnes",
+    "QUALITE": 41
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -10611,7 +10976,8 @@ var mydata = [
     "FORMATS": "CSV ; JSON",
     "PERIODICITE": "",
     "NOMBRE": 42,
-    "OBS": "https://data.erdf.fr"
+    "OBS": "https://data.erdf.fr",
+    "QUALITE": 48
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -10640,7 +11006,8 @@ var mydata = [
     "FORMATS": "CSV ; JSON",
     "PERIODICITE": "",
     "NOMBRE": 50,
-    "OBS": "https://data.erdf.fr"
+    "OBS": "https://data.erdf.fr",
+    "QUALITE": 48
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -10669,7 +11036,8 @@ var mydata = [
     "FORMATS": "CSV ; JSON",
     "PERIODICITE": "",
     "NOMBRE": 72,
-    "OBS": "https://data.erdf.fr"
+    "OBS": "https://data.erdf.fr",
+    "QUALITE": 48
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -10698,7 +11066,8 @@ var mydata = [
     "FORMATS": "CSV ; JSON",
     "PERIODICITE": "",
     "NOMBRE": 50,
-    "OBS": "https://data.erdf.fr"
+    "OBS": "https://data.erdf.fr",
+    "QUALITE": 48
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -10727,7 +11096,8 @@ var mydata = [
     "FORMATS": "CSV ; JSON",
     "PERIODICITE": "",
     "NOMBRE": 24,
-    "OBS": "https://data.erdf.fr"
+    "OBS": "https://data.erdf.fr",
+    "QUALITE": 48
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -10756,7 +11126,8 @@ var mydata = [
     "FORMATS": "CSV ; JSON",
     "PERIODICITE": "",
     "NOMBRE": 1827,
-    "OBS": "https://data.erdf.fr"
+    "OBS": "https://data.erdf.fr",
+    "QUALITE": 48
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -10785,7 +11156,8 @@ var mydata = [
     "FORMATS": "CSV ; JSON",
     "PERIODICITE": "",
     "NOMBRE": 87696,
-    "OBS": "https://data.erdf.fr"
+    "OBS": "https://data.erdf.fr",
+    "QUALITE": 48
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -10814,7 +11186,8 @@ var mydata = [
     "FORMATS": "CSV ; JSON",
     "PERIODICITE": "",
     "NOMBRE": 87696,
-    "OBS": "https://data.erdf.fr"
+    "OBS": "https://data.erdf.fr",
+    "QUALITE": 48
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -10843,7 +11216,8 @@ var mydata = [
     "FORMATS": "CSV ; JSON",
     "PERIODICITE": "",
     "NOMBRE": 71,
-    "OBS": "https://data.erdf.fr"
+    "OBS": "https://data.erdf.fr",
+    "QUALITE": 48
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -10872,7 +11246,8 @@ var mydata = [
     "FORMATS": "CSV ; JSON",
     "PERIODICITE": "",
     "NOMBRE": 7,
-    "OBS": "https://data.erdf.fr"
+    "OBS": "https://data.erdf.fr",
+    "QUALITE": 48
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -10901,7 +11276,8 @@ var mydata = [
     "FORMATS": "CSV ; JSON",
     "PERIODICITE": "",
     "NOMBRE": 3,
-    "OBS": "https://data.erdf.fr"
+    "OBS": "https://data.erdf.fr",
+    "QUALITE": 48
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -10930,7 +11306,8 @@ var mydata = [
     "FORMATS": "CSV ; JSON",
     "PERIODICITE": "",
     "NOMBRE": 10,
-    "OBS": "https://data.erdf.fr"
+    "OBS": "https://data.erdf.fr",
+    "QUALITE": 48
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -10959,7 +11336,8 @@ var mydata = [
     "FORMATS": "CSV ; JSON",
     "PERIODICITE": "",
     "NOMBRE": 87696,
-    "OBS": "https://data.erdf.fr"
+    "OBS": "https://data.erdf.fr",
+    "QUALITE": 48
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -10988,7 +11366,8 @@ var mydata = [
     "FORMATS": "CSV ; JSON",
     "PERIODICITE": "",
     "NOMBRE": 9,
-    "OBS": "https://data.erdf.fr"
+    "OBS": "https://data.erdf.fr",
+    "QUALITE": 48
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -11017,7 +11396,8 @@ var mydata = [
     "FORMATS": "CSV ; JSON",
     "PERIODICITE": "",
     "NOMBRE": 7308,
-    "OBS": "https://data.erdf.fr"
+    "OBS": "https://data.erdf.fr",
+    "QUALITE": 48
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -11046,7 +11426,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": 2,
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -11075,7 +11456,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": 880,
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -11104,7 +11486,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": 1643,
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -11133,7 +11516,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": 1,
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -11162,7 +11546,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": 1,
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -11191,7 +11576,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": 1,
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -11220,7 +11606,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": 5900,
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -11249,7 +11636,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": 559,
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -11278,7 +11666,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": 365,
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -11307,7 +11696,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": 1550,
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -11336,7 +11726,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": 454,
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -11365,7 +11756,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": 10,
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -11394,7 +11786,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": 6319,
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -11423,7 +11816,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": 17,
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -11452,7 +11846,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": 47758,
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -11481,7 +11876,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": 6,
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -11510,7 +11906,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": 10,
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -11539,7 +11936,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": 34,
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -11568,7 +11966,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": 1,
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -11597,7 +11996,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": 812.32,
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -11626,7 +12026,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": 15,
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -11655,7 +12056,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": 3,
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -11684,7 +12086,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": 76,
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -11713,7 +12116,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": 80,
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -11742,7 +12146,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": 22,
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -11771,7 +12176,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": 218,
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -11800,7 +12206,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": 16,
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -11829,7 +12236,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": 755989,
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -11858,7 +12266,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": 57,
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 33
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -11887,7 +12296,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": 10,
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -11916,7 +12326,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": 1455,
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -11945,7 +12356,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": 3032,
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 30
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -11974,7 +12386,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": 2980,
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -12003,7 +12416,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": 19,
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -12032,7 +12446,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": 507,
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -12061,7 +12476,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": 55,
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -12090,7 +12506,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": 5,
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -12119,7 +12536,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": 50,
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -12148,7 +12566,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": 55,
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -12177,7 +12596,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": 84,
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -12206,7 +12626,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": 225,
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -12235,7 +12656,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": 30,
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -12264,7 +12686,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": 20,
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -12293,7 +12716,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": 320,
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -12322,7 +12746,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": 516,
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -12351,7 +12776,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": 76445,
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -12380,7 +12806,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": 687454,
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -12409,7 +12836,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": 151,
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -12438,7 +12866,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": 14,
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -12467,7 +12896,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": 44,
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -12496,7 +12926,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": 1,
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -12525,7 +12956,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": 22,
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -12554,7 +12986,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": 22,
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -12583,7 +13016,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": 1176,
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -12612,7 +13046,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": 9652,
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -12641,7 +13076,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": 1,
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -12670,7 +13106,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": 508,
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -12699,7 +13136,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": 88,
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -12728,7 +13166,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": 1,
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -12757,7 +13196,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": 264,
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -12786,7 +13226,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": 69,
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -12815,7 +13256,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": 379,
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -12844,7 +13286,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": 26,
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -12873,7 +13316,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": 401,
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -12902,7 +13346,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": 18,
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -12931,7 +13376,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": 10,
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -12960,7 +13406,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": 25,
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -12989,7 +13436,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": 11,
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -13018,7 +13466,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": 108,
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -13047,7 +13496,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": 19,
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -13076,7 +13526,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": 10,
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -13105,7 +13556,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": 11,
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -13134,7 +13586,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": 273,
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -13163,7 +13616,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": 88,
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -13192,7 +13646,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": 295,
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -13221,7 +13676,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": 505,
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -13250,7 +13706,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": 20,
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -13279,7 +13736,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": 1,
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -13308,7 +13766,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": 1,
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -13337,7 +13796,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": 5,
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -13366,7 +13826,8 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": 30,
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 26
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -13395,6 +13856,7 @@ var mydata = [
     "FORMATS": "",
     "PERIODICITE": "",
     "NOMBRE": 14,
-    "OBS": ""
+    "OBS": "",
+    "QUALITE": 26
   }
 ]
