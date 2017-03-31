@@ -90,3 +90,12 @@ function linkify(inputText) {
 
     return replacedText;
 }
+
+function qualcolor (val) {
+  switch (true) {
+    case (val<40): return "grey" ; break;
+    case (val<60): return "yellow" ; break;
+    case (val<80): return "olive" ; break;
+    default: return "green" ; break;
+  }
+}

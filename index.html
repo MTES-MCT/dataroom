@@ -66,10 +66,10 @@
     <div class="ui raised segment">
       <p class="ui blue ribbon label"><%= NOM_BASE %></p> 
           <div class="ui tiny basic icon buttons compact">
-            <button class="ui button orange"><a href="mailto:soes-webdata-contact@developpement-durable.gouv.fr?subject=(dataroom) anomalie signalée sur la source de donnée <%= NOM_BASE %>" ><i class="mail orange icon"></i> Signaler une anomalie</a></button>
+            <button class="ui button orange"><a href="mailto:soes-webdata-contact@developpement-durable.gouv.fr?subject=(dataroom) anomalie signalée sur la source de donnée <%= NOM_BASE %>&body=Bonjour,%0A%0AMerci de bien vouloir prendre en compte les modifications suivantes%0A%0ADescription%20longue%0ACouverture%20géographique%0AProfondeur%20temporelle%0AElément de volumétrie%0AEffort pour accéder aux données dans le SI%0ASensibilité des données%0ANiveau de diffusion publique actuelle%0APerspective opendata%0ALien vers les données%0ALicence%0AFormat des données%0APériodicité"><i class="mail orange icon"></i> Signaler une anomalie</a></button>
             <% if(URL_DATA) { %><button class="ui button"><a target="_blank" href="<%= URL_DATA %>"><i class="external square blue icon"></i> Accès aux données</a></button><% } %>
           </div>
-          <div class="ui grey tiny statistic right floated"><div class="value"><%= QUALITE %> %</div><div class="label">qualité</div></div>
+          <div class="ui label <%= qualcolor(QUALITE) %>"><i class="dashboard icon"></i><%= QUALITE %>%</div>
       <p><%= DESCRIPTIF_COURT %></p>
       <div class="ui two column grid">
         <div class="column"> 
