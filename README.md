@@ -1,4 +1,4 @@
-# DataRoom - Inventaire des données déténues par le MEEM & le MLHD
+# DataRoom - Inventaire des données détenues par le MEEM & le MLHD
 
 cvstojson to generate json from cvs.
 
