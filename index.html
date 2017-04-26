@@ -44,7 +44,7 @@
             <input type="text" id="searchbox" placeholder="Chercher&hellip;" fjs-search>
           </div>
           <div class="ui container">
-            <div class="ui container"><a href="javascript:window.location.reload()">(supprimer les filtres)</a></div>
+            <div class="ui container"><a href="#" onclick="javascript:window.location.reload()">(supprimer les filtres)</a></div>
           </div>
           <div class="ui container left aligned" id="target">Chargement...</div>
         </div>
@@ -81,7 +81,7 @@
               <p>Origine de la donnée : <%= ORIGINE %></p>
               <p><div class="ui horizontal labels">Mots-clefs : 
                   <% var mywords=MOTS_CLEFS.split(';') ; for (index=0;index<mywords.length;++index) { %>
-                  <a class="ui label" href="javascript:document.getElementById('searchbox').focus();searchbox.value='<%= mywords[index] %>';FJS.filter();"><%= mywords[index] %></a>
+                  <a class="ui label" href="#" onclick="javascript:document.getElementById('searchbox').focus();searchbox.value='<%= mywords[index] %>';FJS.filter();"><%= mywords[index] %></a>
                   <% } %>
                 </div></p>
             </div>
@@ -99,7 +99,7 @@
                 <p><div class="ui labels">
                   <% var mywords=FORMATS.split(';') ; if (mywords.length > 1) { %>
                   Formats : <% for (index=0;index<mywords.length;++index) { %>
-                  <a class="ui label" href="javascript:document.getElementById('searchbox').focus();searchbox.value='<%= mywords[index] %>';FJS.filter();"><%= mywords[index] %></a>
+                  <a class="ui label" href="#" onclick="javascript:document.getElementById('searchbox').focus();searchbox.value='<%= mywords[index] %>';FJS.filter();"><%= mywords[index] %></a>
                   <% }} else { %>
                   <i>Format non précisé</i>
                   <% } %></div></p>
