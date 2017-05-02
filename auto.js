@@ -1,5 +1,24 @@
 $(document).ready(function(){
 
+  function toDate(dateStr) {
+    const [day, month, year] = dateStr.split("/") ;
+    return new Date(year, month - 1, day) ;
+  }
+
+  function formattedDate(d = new Date) {
+    let month = String(d.getMonth() + 1);
+    let day = String(d.getDate());
+    const year = String(d.getFullYear());
+
+    if (month.length < 2) month = '0' + month;
+    if (day.length < 2) day = '0' + day;
+
+    return `${day}/${month}/${year}`;
+  }
+  var arr = $.map(mydata, function (o){ return toDate(o['DATEMAJ']); });
+  var datemax = new Date(Math.max.apply(this,arr)) ;
+  $('#mydata_maxdatemaj').text(formattedDate(datemax));
+
   var filteringData = {'TYPE_ENTITE': [], 'COUV_GEO': [], 'POLPUBLIQUE': [], 'LICENCE': [], 'NOM_ENTITE': []}
 
   filteringDataKeys = Object.keys( filteringData );
@@ -98,4 +117,8 @@ function qualcolor (val) {
     case (val<80): return "olive" ; break;
     default: return "green" ; break;
   }
+
+
+
+
 }
