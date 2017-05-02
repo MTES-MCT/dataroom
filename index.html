@@ -26,7 +26,7 @@
   <div class="ui hidden divider"></div>
   <div class="ui container grid">
     <div class="row ui conteneurblue">
-      <div class="two wide column"><img class="ui image" src="assets/img/logo_marianne.png" alt="Logo Ministère"></div><div class="ui blue horizontal label massive">#Data<br />Room</div> 
+      <div class="two wide column"><img class="ui image" src="assets/img/logo_marianne.png" alt="Logo Ministère"></div><div class="ui blue horizontal label massive">#Data<br />Room</div>
       <div class="eleven wide column titre centered">Inventaire des données du MEEM & du MLHD</div>
     </div>
     <div class="row container">
@@ -67,7 +67,7 @@
 
   <script id="data-template" type="text/html">
     <div class="ui raised segment">
-      <p class="ui blue ribbon label"><%= NOM_BASE %></p> 
+      <p class="ui blue ribbon label"><%= NOM_BASE %></p>
           <div class="ui tiny basic icon buttons compact">
             <button class="ui button orange"><a href="mailto:soes-webdata-contact@developpement-durable.gouv.fr?subject=(dataroom) anomalie signalée sur la source de donnée <%= NOM_BASE %>&body=Bonjour,%0A%0AMerci de bien vouloir prendre en compte les modifications suivantes%0A%0ADescription%20longue%0ACouverture%20géographique%0AProfondeur%20temporelle%0AElément de volumétrie%0AEffort pour accéder aux données dans le SI%0ASensibilité des données%0ANiveau de diffusion publique actuelle%0APerspective opendata%0ALien vers les données%0ALicence%0AFormat des données%0APériodicité"><i class="mail orange icon"></i> Signaler une anomalie</a></button>
             <% if(URL_DATA) { %><button class="ui button"><a target="_blank" href="<%= URL_DATA %>"><i class="external square blue icon"></i> Accès aux données</a></button><% } %>
@@ -75,14 +75,14 @@
           <div class="ui label <%= qualcolor(QUALITE) %>"><i class="dashboard icon"></i><%= QUALITE %>%</div>
       <p><%= DESCRIPTIF_COURT %></p>
       <div class="ui two column grid">
-        <div class="column"> 
+        <div class="column">
           <div class="ui segments">
             <div class="ui segment">
               <p>Type de service : <%= TYPE_ENTITE %></p>
               <p>Nom du service : <%= NOM_ENTITE %></p>
               <p>Politique publique : <%= POLPUBLIQUE %></p>
               <p>Origine de la donnée : <%= ORIGINE %></p>
-              <p><div class="ui horizontal labels">Mots-clefs : 
+              <p><div class="ui horizontal labels">Mots-clefs :
                   <% var mywords=MOTS_CLEFS.split(';') ; for (index=0;index<mywords.length;++index) { %>
                   <a class="ui label" href="#" onclick="javascript:document.getElementById('searchbox').focus();searchbox.value='<%= mywords[index] %>';FJS.filter();"><%= mywords[index] %></a>
                   <% } %>
@@ -98,7 +98,7 @@
                 <% if(SENSIBILITE) { %><p>Confidentialité : <%= SENSIBILITE %></p><% } %>
                 <% if(CONFIDENTIALITE) { %><p>Confidentialité (détail) : <%= CONFIDENTIALITE %></p><% } %>
                 <% if(LICENCE) { %><p>Licence / conditions d'usage : <%= LICENCE %></p><% } else { %><p><i>Licence non précisée</i></p><% } %>
-                
+
                 <p><div class="ui labels">
                   <% var mywords=FORMATS.split(';') ; if (mywords.length > 1) { %>
                   Formats : <% for (index=0;index<mywords.length;++index) { %>
@@ -106,7 +106,7 @@
                   <% }} else { %>
                   <i>Format non précisé</i>
                   <% } %></div></p>
-                
+
                 <% if(COUV_GEO) { %><p>Couverture géo : <%= COUV_GEO %></p><% } %>
             </div>
           </div>
