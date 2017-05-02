@@ -1,6 +1,37 @@
 [
   {
     "TYPE_ENTITE": "Administration centrale",
+    "NOM_ENTITE": "CGEDD",
+    "NOM_BASE": "Données AQST",
+    "DESCRIPTIF_COURT": "Des indicateurs statistiques de régularité et ponctualité, des causes de retard, etc. dans les modes de transports aérien, ferroviaire, urbain, etc.",
+    "DESCRIPTIF_LONG": "La base est cumulative au sens où à chaque période temporelle régulière viennent s’ajouter de nouveaux éléments et révisable au sens où de nouveaux indicateurs sont ajoutés au fur et à mesure de l’extension de la compétence de l’AQST.\n\nCela concerne la période : septembre 2011 à aujourd'hui.\n\nDes données mensuelles d’une liaison précise : nombre d’annulés, de retardés, de ponctuels, taux et durée moyenne des retards au départ et à l’arrivée, etc. Des données agrégées sur l’ensemble des liaisons.\n\nLes données sont fournies par les transporteurs ou par l’administration comme dans le secteur aérien où c’est la DGAC qui les transmet à l’AQST. La procédure de collecte et de diffusion des données se fonde sur une convention bilatérale entre le fournisseur et l’AQST.\nLa transparence de diffusion est la garantie du site de l’AQST.",
+    "POLPUBLIQUE": "Transport ferroviaire",
+    "STATUT": "Vérifié",
+    "MOTS_CLEFS": "régularité ; transport ; retard ; aérien ; ferroviaire",
+    "ORIGINE": "Transporteurs ou administration",
+    "EXTENSION": "",
+    "COUV_GEO": "France métropolitaine",
+    "PROD_TEMPS": "Depuis 2011",
+    "VOLUMETRIE": "Environ 50 Mo",
+    "SOCLE_TECH": "",
+    "MOE": "CGEDD",
+    "EFFORT_EXPORT": "Simple",
+    "CONFIDENTIALITE": "",
+    "SENSIBILITE": "Données publiques",
+    "DIFFUSION_ACTUELLE": "Données agrégées",
+    "PERSP_OPENDATA": "",
+    "EFFORT_REUSE": "",
+    "URL_DATA": "http://www.qualitetransports.gouv.fr/",
+    "LICENCE": "Licence ouverte / Open Data Commons Open Database License (ODbL)",
+    "FORMATS": "XLS ; PDF",
+    "PERIODICITE": "Tous les six mois",
+    "NOMBRE": "",
+    "OBS": "",
+    "QUALITE": 74,
+    "DATEMAJ": "27/02/2017"
+  },
+  {
+    "TYPE_ENTITE": "Administration centrale",
     "NOM_ENTITE": "DGAC",
     "NOM_BASE": "ASUR",
     "DESCRIPTIF_COURT": "Suivi des réclamations passagers (vols au départ ou arrivée en France)",
@@ -27,7 +58,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 56
+    "QUALITE": 56,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -57,7 +89,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 52
+    "QUALITE": 52,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -87,7 +120,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 52
+    "QUALITE": 52,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -117,7 +151,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 56
+    "QUALITE": 56,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -147,7 +182,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 52
+    "QUALITE": 52,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -177,7 +213,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 48
+    "QUALITE": 48,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -207,7 +244,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 52
+    "QUALITE": 52,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -237,7 +275,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 56
+    "QUALITE": 56,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -267,7 +306,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 41
+    "QUALITE": 41,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -297,7 +337,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 44
+    "QUALITE": 44,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -327,7 +368,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 44
+    "QUALITE": 44,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -357,7 +399,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 41
+    "QUALITE": 41,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -387,7 +430,8 @@
     "PERIODICITE": "Annuelle",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 48
+    "QUALITE": 48,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -417,7 +461,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 52
+    "QUALITE": 52,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -447,7 +492,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 41
+    "QUALITE": 41,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -477,7 +523,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 41
+    "QUALITE": 41,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -507,7 +554,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 67
+    "QUALITE": 67,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -537,7 +585,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 41
+    "QUALITE": 41,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -567,7 +616,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 48
+    "QUALITE": 48,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -597,7 +647,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 37
+    "QUALITE": 37,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -627,7 +678,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 37
+    "QUALITE": 37,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -657,7 +709,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 33
+    "QUALITE": 33,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -687,7 +740,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
-    "QUALITE": 33
+    "QUALITE": 33,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -717,7 +771,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
-    "QUALITE": 37
+    "QUALITE": 37,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -747,7 +802,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
-    "QUALITE": 37
+    "QUALITE": 37,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -777,7 +833,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
-    "QUALITE": 37
+    "QUALITE": 37,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -807,7 +864,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -837,7 +895,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -867,7 +926,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
-    "QUALITE": 30
+    "QUALITE": 30,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -897,7 +957,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
-    "QUALITE": 30
+    "QUALITE": 30,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -927,7 +988,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
-    "QUALITE": 30
+    "QUALITE": 30,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -957,7 +1019,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
-    "QUALITE": 52
+    "QUALITE": 52,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -987,7 +1050,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
-    "QUALITE": 22
+    "QUALITE": 22,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -1017,7 +1081,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
-    "QUALITE": 30
+    "QUALITE": 30,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -1047,7 +1112,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -1077,7 +1143,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -1107,7 +1174,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -1137,7 +1205,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -1167,7 +1236,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
-    "QUALITE": 22
+    "QUALITE": 22,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -1197,7 +1267,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
-    "QUALITE": 30
+    "QUALITE": 30,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -1227,7 +1298,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
-    "QUALITE": 22
+    "QUALITE": 22,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -1257,7 +1329,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -1287,7 +1360,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -1317,7 +1391,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -1347,7 +1422,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -1377,7 +1453,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -1407,7 +1484,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -1437,7 +1515,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -1467,7 +1546,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
-    "QUALITE": 30
+    "QUALITE": 30,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -1497,7 +1577,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -1527,37 +1608,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
-    "QUALITE": 37
-  },
-  {
-    "TYPE_ENTITE": "Administration centrale",
-    "NOM_ENTITE": "DGALN / DEB",
-    "NOM_BASE": "?? pb de copier/coller ?",
-    "DESCRIPTIF_COURT": "",
-    "DESCRIPTIF_LONG": "",
-    "POLPUBLIQUE": "",
-    "STATUT": "Non vérifié",
-    "MOTS_CLEFS": "",
-    "ORIGINE": "",
-    "EXTENSION": "",
-    "COUV_GEO": "",
-    "PROD_TEMPS": "",
-    "VOLUMETRIE": "",
-    "SOCLE_TECH": "",
-    "MOE": "voir MNHM",
-    "EFFORT_EXPORT": "",
-    "CONFIDENTIALITE": "",
-    "SENSIBILITE": "",
-    "DIFFUSION_ACTUELLE": "",
-    "PERSP_OPENDATA": "",
-    "EFFORT_REUSE": "",
-    "URL_DATA": "",
-    "LICENCE": "",
-    "FORMATS": "",
-    "PERIODICITE": "",
-    "NOMBRE": "",
-    "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
-    "QUALITE": 22
+    "QUALITE": 37,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -1587,7 +1639,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
-    "QUALITE": 30
+    "QUALITE": 30,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -1617,7 +1670,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 33
+    "QUALITE": 33,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -1647,7 +1701,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 33
+    "QUALITE": 33,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -1677,7 +1732,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 33
+    "QUALITE": 33,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -1707,67 +1763,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 37
-  },
-  {
-    "TYPE_ENTITE": "Administration centrale",
-    "NOM_ENTITE": "DGALN / DEB",
-    "NOM_BASE": "?? pb de copier/coller ?",
-    "DESCRIPTIF_COURT": "",
-    "DESCRIPTIF_LONG": "",
-    "POLPUBLIQUE": "",
-    "STATUT": "Non vérifié",
-    "MOTS_CLEFS": "",
-    "ORIGINE": "",
-    "EXTENSION": "",
-    "COUV_GEO": "",
-    "PROD_TEMPS": "",
-    "VOLUMETRIE": "",
-    "SOCLE_TECH": "Accès via internet",
-    "MOE": "",
-    "EFFORT_EXPORT": "",
-    "CONFIDENTIALITE": "",
-    "SENSIBILITE": "",
-    "DIFFUSION_ACTUELLE": "",
-    "PERSP_OPENDATA": "",
-    "EFFORT_REUSE": "",
-    "URL_DATA": "",
-    "LICENCE": "",
-    "FORMATS": "",
-    "PERIODICITE": "",
-    "NOMBRE": "",
-    "OBS": "",
-    "QUALITE": 19
-  },
-  {
-    "TYPE_ENTITE": "Administration centrale",
-    "NOM_ENTITE": "DGALN / DEB",
-    "NOM_BASE": "?? pb de copier/coller ?",
-    "DESCRIPTIF_COURT": "",
-    "DESCRIPTIF_LONG": "",
-    "POLPUBLIQUE": "",
-    "STATUT": "Non vérifié",
-    "MOTS_CLEFS": "",
-    "ORIGINE": "",
-    "EXTENSION": "",
-    "COUV_GEO": "",
-    "PROD_TEMPS": "",
-    "VOLUMETRIE": "",
-    "SOCLE_TECH": "",
-    "MOE": "voir MNHN",
-    "EFFORT_EXPORT": "",
-    "CONFIDENTIALITE": "",
-    "SENSIBILITE": "",
-    "DIFFUSION_ACTUELLE": "",
-    "PERSP_OPENDATA": "",
-    "EFFORT_REUSE": "",
-    "URL_DATA": "",
-    "LICENCE": "",
-    "FORMATS": "",
-    "PERIODICITE": "",
-    "NOMBRE": "",
-    "OBS": "",
-    "QUALITE": 19
+    "QUALITE": 37,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -1797,7 +1794,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 33
+    "QUALITE": 33,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -1827,7 +1825,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 33
+    "QUALITE": 33,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -1857,7 +1856,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -1887,7 +1887,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 30
+    "QUALITE": 30,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -1917,7 +1918,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 41
+    "QUALITE": 41,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -1947,7 +1949,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 33
+    "QUALITE": 33,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -1977,7 +1980,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 37
+    "QUALITE": 37,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -2007,7 +2011,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 52
+    "QUALITE": 52,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -2037,7 +2042,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 37
+    "QUALITE": 37,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -2067,7 +2073,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 37
+    "QUALITE": 37,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -2097,7 +2104,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 33
+    "QUALITE": 33,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -2127,7 +2135,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 41
+    "QUALITE": 41,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -2157,7 +2166,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 41
+    "QUALITE": 41,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -2187,7 +2197,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 37
+    "QUALITE": 37,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -2217,7 +2228,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 41
+    "QUALITE": 41,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -2247,7 +2259,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -2277,7 +2290,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 33
+    "QUALITE": 33,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -2307,7 +2321,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 33
+    "QUALITE": 33,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -2337,7 +2352,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
-    "QUALITE": 44
+    "QUALITE": 44,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -2367,7 +2383,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 41
+    "QUALITE": 41,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -2397,7 +2414,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 19
+    "QUALITE": 19,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -2427,7 +2445,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 19
+    "QUALITE": 19,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -2457,7 +2476,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 19
+    "QUALITE": 19,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -2487,7 +2507,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 22
+    "QUALITE": 22,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -2517,7 +2538,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 15
+    "QUALITE": 15,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -2547,7 +2569,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 19
+    "QUALITE": 19,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -2577,7 +2600,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 22
+    "QUALITE": 22,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -2607,7 +2631,8 @@
     "PERIODICITE": "Hebdomadaire",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 52
+    "QUALITE": 52,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -2637,7 +2662,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 48
+    "QUALITE": 48,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -2667,7 +2693,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 48
+    "QUALITE": 48,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -2697,7 +2724,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 48
+    "QUALITE": 48,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -2727,7 +2755,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 44
+    "QUALITE": 44,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -2757,7 +2786,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 56
+    "QUALITE": 56,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -2787,7 +2817,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 48
+    "QUALITE": 48,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -2817,7 +2848,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 44
+    "QUALITE": 44,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -2847,7 +2879,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 52
+    "QUALITE": 52,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -2877,7 +2910,8 @@
     "PERIODICITE": "Temps réel",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 67
+    "QUALITE": 67,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -2907,7 +2941,8 @@
     "PERIODICITE": "Annuel, depuis 1999 Années 2014-2016 en cours",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 52
+    "QUALITE": 52,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -2937,7 +2972,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 48
+    "QUALITE": 48,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -2967,7 +3003,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 44
+    "QUALITE": 44,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -2997,7 +3034,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 33
+    "QUALITE": 33,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -3027,7 +3065,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 30
+    "QUALITE": 30,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -3057,7 +3096,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 37
+    "QUALITE": 37,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -3087,7 +3127,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 33
+    "QUALITE": 33,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -3117,7 +3158,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 33
+    "QUALITE": 33,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -3147,7 +3189,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 33
+    "QUALITE": 33,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -3177,7 +3220,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 44
+    "QUALITE": 44,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -3207,7 +3251,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 44
+    "QUALITE": 44,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -3237,7 +3282,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 37
+    "QUALITE": 37,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -3267,37 +3313,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 44
-  },
-  {
-    "TYPE_ENTITE": "Administration centrale",
-    "NOM_ENTITE": "DGITM / SAG",
-    "NOM_BASE": "?? pb de copier/coller ?",
-    "DESCRIPTIF_COURT": "",
-    "DESCRIPTIF_LONG": "",
-    "POLPUBLIQUE": "",
-    "STATUT": "Non vérifié",
-    "MOTS_CLEFS": "",
-    "ORIGINE": "",
-    "EXTENSION": "",
-    "COUV_GEO": "",
-    "PROD_TEMPS": "",
-    "VOLUMETRIE": "",
-    "SOCLE_TECH": "",
-    "MOE": "",
-    "EFFORT_EXPORT": "",
-    "CONFIDENTIALITE": "Confidentiel (contrôles)",
-    "SENSIBILITE": "",
-    "DIFFUSION_ACTUELLE": "",
-    "PERSP_OPENDATA": "",
-    "EFFORT_REUSE": "",
-    "URL_DATA": "",
-    "LICENCE": "",
-    "FORMATS": "",
-    "PERIODICITE": "",
-    "NOMBRE": "",
-    "OBS": "",
-    "QUALITE": 19
+    "QUALITE": 44,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -3327,7 +3344,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 33
+    "QUALITE": 33,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -3357,7 +3375,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 44
+    "QUALITE": 44,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -3387,7 +3406,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 67
+    "QUALITE": 67,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -3417,7 +3437,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 44
+    "QUALITE": 44,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -3447,7 +3468,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 44
+    "QUALITE": 44,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -3477,7 +3499,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 59
+    "QUALITE": 59,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -3507,7 +3530,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 63
+    "QUALITE": 63,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -3537,7 +3561,8 @@
     "PERIODICITE": "Temps réel",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 67
+    "QUALITE": 67,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -3567,7 +3592,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 44
+    "QUALITE": 44,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -3597,7 +3623,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 63
+    "QUALITE": 63,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -3627,7 +3654,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 67
+    "QUALITE": 67,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -3657,7 +3685,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 48
+    "QUALITE": 48,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -3687,7 +3716,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 44
+    "QUALITE": 44,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -3717,7 +3747,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 44
+    "QUALITE": 44,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -3747,7 +3778,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 44
+    "QUALITE": 44,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -3777,7 +3809,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 44
+    "QUALITE": 44,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -3807,7 +3840,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 59
+    "QUALITE": 59,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -3837,7 +3871,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 44
+    "QUALITE": 44,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -3867,7 +3902,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 44
+    "QUALITE": 44,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -3897,7 +3933,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 48
+    "QUALITE": 48,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -3927,7 +3964,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 48
+    "QUALITE": 48,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -3957,7 +3995,8 @@
     "PERIODICITE": "Annuelle",
     "NOMBRE": "47 établissements",
     "OBS": "",
-    "QUALITE": 33
+    "QUALITE": 33,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -3987,7 +4026,8 @@
     "PERIODICITE": "Annuelle",
     "NOMBRE": "7 000 établissements",
     "OBS": "",
-    "QUALITE": 33
+    "QUALITE": 33,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -4017,7 +4057,8 @@
     "PERIODICITE": "Apériodique",
     "NOMBRE": "4 727 individu",
     "OBS": "",
-    "QUALITE": 37
+    "QUALITE": 37,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -4047,7 +4088,8 @@
     "PERIODICITE": "",
     "NOMBRE": "2 400 chefs de famille",
     "OBS": "",
-    "QUALITE": 30
+    "QUALITE": 30,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -4077,7 +4119,8 @@
     "PERIODICITE": "Trimestrielle",
     "NOMBRE": "12 000 programmes par trimestre",
     "OBS": "",
-    "QUALITE": 37
+    "QUALITE": 37,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -4107,7 +4150,8 @@
     "PERIODICITE": "Annuelle",
     "NOMBRE": "4,8 millions de logements / 800 bailleurs sociaux",
     "OBS": "",
-    "QUALITE": 37
+    "QUALITE": 37,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -4137,7 +4181,8 @@
     "PERIODICITE": "Annuelle",
     "NOMBRE": "110 000 permis en 2009",
     "OBS": "",
-    "QUALITE": 37
+    "QUALITE": 37,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -4167,7 +4212,8 @@
     "PERIODICITE": "Supérieure à un an",
     "NOMBRE": "Environ 7 500 établissements",
     "OBS": "",
-    "QUALITE": 33
+    "QUALITE": 33,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -4197,7 +4243,8 @@
     "PERIODICITE": "Apériodique",
     "NOMBRE": "8 000 logements",
     "OBS": "",
-    "QUALITE": 30
+    "QUALITE": 30,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -4227,7 +4274,8 @@
     "PERIODICITE": "Mensuelle",
     "NOMBRE": "2 600 entreprises",
     "OBS": "",
-    "QUALITE": 33
+    "QUALITE": 33,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -4257,7 +4305,8 @@
     "PERIODICITE": "Mensuelle",
     "NOMBRE": "7 800 entreprises",
     "OBS": "",
-    "QUALITE": 37
+    "QUALITE": 37,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -4287,7 +4336,8 @@
     "PERIODICITE": "Trimestrielle",
     "NOMBRE": "5 800 permis",
     "OBS": "",
-    "QUALITE": 37
+    "QUALITE": 37,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -4317,7 +4367,8 @@
     "PERIODICITE": "",
     "NOMBRE": "7 506 entreprises",
     "OBS": "",
-    "QUALITE": 33
+    "QUALITE": 33,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -4347,7 +4398,8 @@
     "PERIODICITE": "",
     "NOMBRE": "80 000 véhicules",
     "OBS": "",
-    "QUALITE": 33
+    "QUALITE": 33,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -4377,7 +4429,8 @@
     "PERIODICITE": "Trimestrielle",
     "NOMBRE": "30 entreprises",
     "OBS": "",
-    "QUALITE": 37
+    "QUALITE": 37,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -4407,7 +4460,8 @@
     "PERIODICITE": "Trimestrielle",
     "NOMBRE": "Près de 2000 établissements et 20 000 conducteurs routiers",
     "OBS": "",
-    "QUALITE": 41
+    "QUALITE": 41,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -4437,7 +4491,8 @@
     "PERIODICITE": "Tous les 5 à 6 ans",
     "NOMBRE": "25 000 véhicules en 2012",
     "OBS": "",
-    "QUALITE": 37
+    "QUALITE": 37,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -4467,7 +4522,8 @@
     "PERIODICITE": "Tous les 10 à 15 ans",
     "NOMBRE": "20 200 ménages",
     "OBS": "",
-    "QUALITE": 37
+    "QUALITE": 37,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -4497,7 +4553,8 @@
     "PERIODICITE": "Apériodique",
     "NOMBRE": "15 000 autocars",
     "OBS": "",
-    "QUALITE": 37
+    "QUALITE": 37,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -4527,7 +4584,8 @@
     "PERIODICITE": "Apériodique",
     "NOMBRE": "2 000 unités sur 4 000 entrepôts",
     "OBS": "",
-    "QUALITE": 37
+    "QUALITE": 37,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -4557,7 +4615,8 @@
     "PERIODICITE": "Apériodique",
     "NOMBRE": "4 789 entreprises",
     "OBS": "",
-    "QUALITE": 37
+    "QUALITE": 37,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -4587,7 +4646,8 @@
     "PERIODICITE": "Apériodique",
     "NOMBRE": "30 500 véhicules",
     "OBS": "",
-    "QUALITE": 37
+    "QUALITE": 37,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -4617,7 +4677,8 @@
     "PERIODICITE": "Apériodique",
     "NOMBRE": "20 000 véhicules automoteurs spécialisés",
     "OBS": "",
-    "QUALITE": 37
+    "QUALITE": 37,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -4647,7 +4708,8 @@
     "PERIODICITE": "Trimestrielle",
     "NOMBRE": "20 chargeurs",
     "OBS": "",
-    "QUALITE": 37
+    "QUALITE": 37,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -4677,7 +4739,8 @@
     "PERIODICITE": "Annuelle",
     "NOMBRE": "245 opérateurs",
     "OBS": "",
-    "QUALITE": 37
+    "QUALITE": 37,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -4707,7 +4770,8 @@
     "PERIODICITE": "Annuelle",
     "NOMBRE": "150 entreprises en 201",
     "OBS": "",
-    "QUALITE": 37
+    "QUALITE": 37,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -4737,7 +4801,8 @@
     "PERIODICITE": "Annuelle",
     "NOMBRE": "4900 centrales",
     "OBS": "",
-    "QUALITE": 37
+    "QUALITE": 37,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -4767,7 +4832,8 @@
     "PERIODICITE": "Annuelle",
     "NOMBRE": "47 établissements en 2014",
     "OBS": "",
-    "QUALITE": 33
+    "QUALITE": 33,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -4797,7 +4863,8 @@
     "PERIODICITE": "Mensuelle",
     "NOMBRE": "47 établissements",
     "OBS": "",
-    "QUALITE": 33
+    "QUALITE": 33,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -4827,7 +4894,8 @@
     "PERIODICITE": "Semestrielle",
     "NOMBRE": "170 fournisseurs",
     "OBS": "",
-    "QUALITE": 33
+    "QUALITE": 33,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -4857,7 +4925,8 @@
     "PERIODICITE": "Annuelle",
     "NOMBRE": "520 établissements",
     "OBS": "",
-    "QUALITE": 33
+    "QUALITE": 33,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -4887,7 +4956,8 @@
     "PERIODICITE": "Annuelle",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 30
+    "QUALITE": 30,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -4917,7 +4987,8 @@
     "PERIODICITE": "Annuelle",
     "NOMBRE": "50 unités environ",
     "OBS": "",
-    "QUALITE": 33
+    "QUALITE": 33,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -4947,7 +5018,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -4977,7 +5049,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 30
+    "QUALITE": 30,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -5007,7 +5080,8 @@
     "PERIODICITE": "Tous les quatre ans",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 78
+    "QUALITE": 78,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -5037,7 +5111,8 @@
     "PERIODICITE": "Annuelle",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 70
+    "QUALITE": 70,
+    "DATEMAJ": "02/05/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -5067,7 +5142,8 @@
     "PERIODICITE": "Annuelle",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 67
+    "QUALITE": 67,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -5097,7 +5173,8 @@
     "PERIODICITE": "Mensuelle ; Annuelle",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 67
+    "QUALITE": 67,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -5127,7 +5204,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 52
+    "QUALITE": 52,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -5157,7 +5235,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 22
+    "QUALITE": 22,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -5187,7 +5266,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 48
+    "QUALITE": 48,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -5217,7 +5297,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 41
+    "QUALITE": 41,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -5247,7 +5328,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 44
+    "QUALITE": 44,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -5277,7 +5359,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 48
+    "QUALITE": 48,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -5307,7 +5390,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 30
+    "QUALITE": 30,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -5337,7 +5421,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 44
+    "QUALITE": 44,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -5367,7 +5452,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 30
+    "QUALITE": 30,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -5397,7 +5483,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 30
+    "QUALITE": 30,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -5427,7 +5514,8 @@
     "PERIODICITE": "Tous les 10 ans",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 41
+    "QUALITE": 41,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -5457,7 +5545,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 41
+    "QUALITE": 41,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -5487,7 +5576,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 37
+    "QUALITE": 37,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -5517,7 +5607,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 33
+    "QUALITE": 33,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -5547,7 +5638,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 41
+    "QUALITE": 41,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -5577,7 +5669,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 41
+    "QUALITE": 41,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -5607,7 +5700,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 37
+    "QUALITE": 37,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -5637,7 +5731,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr",
-    "QUALITE": 52
+    "QUALITE": 52,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -5667,7 +5762,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr",
-    "QUALITE": 44
+    "QUALITE": 44,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -5697,7 +5793,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr",
-    "QUALITE": 41
+    "QUALITE": 41,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -5727,7 +5824,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr",
-    "QUALITE": 37
+    "QUALITE": 37,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -5757,7 +5855,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr",
-    "QUALITE": 41
+    "QUALITE": 41,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -5787,7 +5886,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr",
-    "QUALITE": 41
+    "QUALITE": 41,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -5817,7 +5917,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr",
-    "QUALITE": 44
+    "QUALITE": 44,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -5847,7 +5948,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr",
-    "QUALITE": 41
+    "QUALITE": 41,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -5877,7 +5979,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr",
-    "QUALITE": 41
+    "QUALITE": 41,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -5907,7 +6010,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr",
-    "QUALITE": 48
+    "QUALITE": 48,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -5937,7 +6041,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr",
-    "QUALITE": 52
+    "QUALITE": 52,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -5967,7 +6072,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr",
-    "QUALITE": 44
+    "QUALITE": 44,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -5997,7 +6103,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr",
-    "QUALITE": 41
+    "QUALITE": 41,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -6027,7 +6134,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr",
-    "QUALITE": 48
+    "QUALITE": 48,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -6057,7 +6165,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr",
-    "QUALITE": 44
+    "QUALITE": 44,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -6087,7 +6196,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr",
-    "QUALITE": 37
+    "QUALITE": 37,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -6117,7 +6227,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr",
-    "QUALITE": 48
+    "QUALITE": 48,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -6147,7 +6258,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr",
-    "QUALITE": 48
+    "QUALITE": 48,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -6177,7 +6289,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr",
-    "QUALITE": 48
+    "QUALITE": 48,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -6207,7 +6320,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr",
-    "QUALITE": 44
+    "QUALITE": 44,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -6237,7 +6351,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr",
-    "QUALITE": 41
+    "QUALITE": 41,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -6267,7 +6382,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr",
-    "QUALITE": 41
+    "QUALITE": 41,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -6297,7 +6413,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr",
-    "QUALITE": 41
+    "QUALITE": 41,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -6327,7 +6444,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr",
-    "QUALITE": 41
+    "QUALITE": 41,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -6357,7 +6475,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr",
-    "QUALITE": 41
+    "QUALITE": 41,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -6387,7 +6506,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr",
-    "QUALITE": 41
+    "QUALITE": 41,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -6417,7 +6537,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr",
-    "QUALITE": 41
+    "QUALITE": 41,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -6447,7 +6568,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr",
-    "QUALITE": 44
+    "QUALITE": 44,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -6477,7 +6599,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr",
-    "QUALITE": 48
+    "QUALITE": 48,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -6507,7 +6630,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr",
-    "QUALITE": 48
+    "QUALITE": 48,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -6537,7 +6661,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 41
+    "QUALITE": 41,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -6567,7 +6692,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 37
+    "QUALITE": 37,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -6597,7 +6723,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 33
+    "QUALITE": 33,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -6627,7 +6754,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 33
+    "QUALITE": 33,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -6657,7 +6785,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 37
+    "QUALITE": 37,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -6687,7 +6816,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 33
+    "QUALITE": 33,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -6717,7 +6847,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 41
+    "QUALITE": 41,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -6747,7 +6878,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 44
+    "QUALITE": 44,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -6777,7 +6909,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 33
+    "QUALITE": 33,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -6807,7 +6940,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 41
+    "QUALITE": 41,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -6837,7 +6971,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 41
+    "QUALITE": 41,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -6867,7 +7002,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 44
+    "QUALITE": 44,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -6897,7 +7033,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 44
+    "QUALITE": 44,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -6927,7 +7064,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 44
+    "QUALITE": 44,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -6957,7 +7095,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 44
+    "QUALITE": 44,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -6987,7 +7126,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 44
+    "QUALITE": 44,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -7017,7 +7157,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 44
+    "QUALITE": 44,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -7047,7 +7188,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Données IGN Gratuites pour tous les usages",
-    "QUALITE": 22
+    "QUALITE": 22,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -7077,7 +7219,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Données IGN Gratuites pour tous les usages",
-    "QUALITE": 22
+    "QUALITE": 22,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -7107,7 +7250,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Données IGN Gratuites pour tous les usages",
-    "QUALITE": 22
+    "QUALITE": 22,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -7137,7 +7281,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Données IGN Gratuites pour tous les usages",
-    "QUALITE": 22
+    "QUALITE": 22,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -7167,7 +7312,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Données IGN Gratuites pour tous les usages",
-    "QUALITE": 22
+    "QUALITE": 22,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -7197,7 +7343,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Données IGN Gratuites pour tous les usages",
-    "QUALITE": 22
+    "QUALITE": 22,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -7227,7 +7374,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Données IGN Gratuites pour tous les usages",
-    "QUALITE": 22
+    "QUALITE": 22,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -7257,7 +7405,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Données IGN Gratuites pour tous les usages",
-    "QUALITE": 22
+    "QUALITE": 22,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -7287,7 +7436,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Données IGN Gratuites pour tous les usages",
-    "QUALITE": 22
+    "QUALITE": 22,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -7317,7 +7467,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Données IGN Gratuites pour tous les usages",
-    "QUALITE": 22
+    "QUALITE": 22,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -7347,7 +7498,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Données IGN avec redevance, gratuites pour les missions de service public",
-    "QUALITE": 22
+    "QUALITE": 22,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -7377,7 +7529,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Données IGN avec redevance, gratuites pour les missions de service public",
-    "QUALITE": 22
+    "QUALITE": 22,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -7407,7 +7560,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Données IGN avec redevance, gratuites pour les missions de service public",
-    "QUALITE": 22
+    "QUALITE": 22,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -7437,7 +7591,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Données IGN avec redevance, gratuites pour les missions de service public",
-    "QUALITE": 37
+    "QUALITE": 37,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -7467,7 +7622,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Données IGN avec redevance, gratuites pour les missions de service public",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -7497,7 +7653,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Données IGN avec redevance, gratuites pour les missions de service public",
-    "QUALITE": 37
+    "QUALITE": 37,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -7527,7 +7684,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Données IGN avec redevance, gratuites pour les missions de service public",
-    "QUALITE": 37
+    "QUALITE": 37,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -7557,7 +7715,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Données IGN avec redevance, gratuites pour les missions de service public",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -7587,7 +7746,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Données IGN avec redevance, gratuites pour les missions de service public",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -7617,7 +7777,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Données IGN avec redevance, gratuites pour les missions de service public",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -7647,7 +7808,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Données IGN avec redevance",
-    "QUALITE": 37
+    "QUALITE": 37,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -7677,7 +7839,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Données IGN avec redevance",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -7707,7 +7870,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Données IGN avec redevance",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -7737,7 +7901,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Données IGN avec redevance",
-    "QUALITE": 44
+    "QUALITE": 44,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -7767,7 +7932,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Données IGN avec redevance",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -7797,7 +7963,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Données IGN avec redevance",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -7827,7 +7994,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Données IGN avec redevance",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -7857,7 +8025,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Données IGN avec redevance",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -7887,7 +8056,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Données IGN avec redevance",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -7917,7 +8087,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Données IGN avec redevance",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -7947,7 +8118,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Données IGN avec redevance",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -7977,7 +8149,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Données IGN avec redevance",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -8007,7 +8180,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Données IGN avec redevance",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -8037,7 +8211,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Données IGN avec redevance",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -8067,7 +8242,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Données IGN avec redevance",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -8097,7 +8273,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Données IGN avec redevance",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -8127,7 +8304,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Données IGN avec redevance",
-    "QUALITE": 37
+    "QUALITE": 37,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -8157,7 +8335,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Données IGN avec redevance",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -8187,7 +8366,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Données IGN avec redevance",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -8217,7 +8397,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Données IGN avec redevance",
-    "QUALITE": 41
+    "QUALITE": 41,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -8247,7 +8428,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 30
+    "QUALITE": 30,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -8277,37 +8459,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 33
-  },
-  {
-    "TYPE_ENTITE": "Etablissement public",
-    "NOM_ENTITE": "INERIS",
-    "NOM_BASE": "?? pb de copier/coller ?",
-    "DESCRIPTIF_COURT": "",
-    "DESCRIPTIF_LONG": "",
-    "POLPUBLIQUE": "",
-    "STATUT": "Non vérifié",
-    "MOTS_CLEFS": "",
-    "ORIGINE": "",
-    "EXTENSION": "",
-    "COUV_GEO": "",
-    "PROD_TEMPS": "",
-    "VOLUMETRIE": "",
-    "SOCLE_TECH": "",
-    "MOE": "",
-    "EFFORT_EXPORT": "",
-    "CONFIDENTIALITE": "Émissions hors seuil publiques",
-    "SENSIBILITE": "",
-    "DIFFUSION_ACTUELLE": "",
-    "PERSP_OPENDATA": "",
-    "EFFORT_REUSE": "",
-    "URL_DATA": "",
-    "LICENCE": "",
-    "FORMATS": "",
-    "PERIODICITE": "",
-    "NOMBRE": "",
-    "OBS": "",
-    "QUALITE": 19
+    "QUALITE": 33,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -8337,37 +8490,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 37
-  },
-  {
-    "TYPE_ENTITE": "Etablissement public",
-    "NOM_ENTITE": "INERIS",
-    "NOM_BASE": "?? pb de copier/coller ?",
-    "DESCRIPTIF_COURT": "",
-    "DESCRIPTIF_LONG": "",
-    "POLPUBLIQUE": "",
-    "STATUT": "Non vérifié",
-    "MOTS_CLEFS": "",
-    "ORIGINE": "",
-    "EXTENSION": "",
-    "COUV_GEO": "",
-    "PROD_TEMPS": "2 années + année en cours",
-    "VOLUMETRIE": "",
-    "SOCLE_TECH": "",
-    "MOE": "",
-    "EFFORT_EXPORT": "",
-    "CONFIDENTIALITE": "",
-    "SENSIBILITE": "",
-    "DIFFUSION_ACTUELLE": "",
-    "PERSP_OPENDATA": "",
-    "EFFORT_REUSE": "",
-    "URL_DATA": "",
-    "LICENCE": "",
-    "FORMATS": "",
-    "PERIODICITE": "",
-    "NOMBRE": "",
-    "OBS": "",
-    "QUALITE": 19
+    "QUALITE": 37,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -8397,7 +8521,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 44
+    "QUALITE": 44,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -8427,7 +8552,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 37
+    "QUALITE": 37,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -8457,7 +8583,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 41
+    "QUALITE": 41,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -8487,7 +8614,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 33
+    "QUALITE": 33,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -8517,7 +8645,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 37
+    "QUALITE": 37,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -8547,7 +8676,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 52
+    "QUALITE": 52,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -8577,7 +8707,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 37
+    "QUALITE": 37,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -8607,7 +8738,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 37
+    "QUALITE": 37,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -8637,7 +8769,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 37
+    "QUALITE": 37,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -8667,7 +8800,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 37
+    "QUALITE": 37,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -8697,7 +8831,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 41
+    "QUALITE": 41,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -8727,7 +8862,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 30
+    "QUALITE": 30,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -8757,7 +8893,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 30
+    "QUALITE": 30,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -8787,7 +8924,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 30
+    "QUALITE": 30,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -8817,7 +8955,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 30
+    "QUALITE": 30,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -8847,7 +8986,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 30
+    "QUALITE": 30,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -8877,7 +9017,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 30
+    "QUALITE": 30,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -8907,7 +9048,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 30
+    "QUALITE": 30,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -8937,7 +9079,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 30
+    "QUALITE": 30,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -8967,7 +9110,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 30
+    "QUALITE": 30,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -8997,7 +9141,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 30
+    "QUALITE": 30,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -9027,7 +9172,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 30
+    "QUALITE": 30,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -9057,7 +9203,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 30
+    "QUALITE": 30,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -9087,7 +9234,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 30
+    "QUALITE": 30,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -9117,7 +9265,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 30
+    "QUALITE": 30,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -9147,7 +9296,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 30
+    "QUALITE": 30,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -9177,7 +9327,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 30
+    "QUALITE": 30,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -9207,7 +9358,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 30
+    "QUALITE": 30,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -9237,7 +9389,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 30
+    "QUALITE": 30,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -9267,7 +9420,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 30
+    "QUALITE": 30,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -9297,7 +9451,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 37
+    "QUALITE": 37,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -9327,7 +9482,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 37
+    "QUALITE": 37,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -9357,7 +9513,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 33
+    "QUALITE": 33,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -9387,7 +9544,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 37
+    "QUALITE": 37,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -9417,7 +9575,8 @@
     "PERIODICITE": "Annuelle",
     "NOMBRE": "",
     "OBS": "Est-ce un doublon avec la BDCathage de l'IGN ?",
-    "QUALITE": 52
+    "QUALITE": 52,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -9447,7 +9606,8 @@
     "PERIODICITE": "Bi-annuel",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 41
+    "QUALITE": 41,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -9477,7 +9637,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 37
+    "QUALITE": 37,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -9507,7 +9668,8 @@
     "PERIODICITE": "Annuelle",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 44
+    "QUALITE": 44,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -9537,7 +9699,8 @@
     "PERIODICITE": "Annuelle",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 41
+    "QUALITE": 41,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -9567,7 +9730,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 41
+    "QUALITE": 41,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -9597,7 +9761,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 37
+    "QUALITE": 37,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -9627,7 +9792,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 33
+    "QUALITE": 33,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -9657,7 +9823,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 33
+    "QUALITE": 33,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -9687,7 +9854,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 37
+    "QUALITE": 37,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -9717,7 +9885,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 30
+    "QUALITE": 30,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -9747,7 +9916,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 37
+    "QUALITE": 37,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -9777,7 +9947,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 37
+    "QUALITE": 37,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -9807,7 +9978,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 41
+    "QUALITE": 41,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -9837,7 +10009,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 37
+    "QUALITE": 37,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -9867,7 +10040,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 37
+    "QUALITE": 37,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -9897,7 +10071,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 41
+    "QUALITE": 41,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -9927,7 +10102,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 41
+    "QUALITE": 41,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -9957,7 +10133,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 41
+    "QUALITE": 41,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -9987,7 +10164,8 @@
     "PERIODICITE": "Tous les 6 ans",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 48
+    "QUALITE": 48,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -10017,7 +10195,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 41
+    "QUALITE": 41,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -10047,7 +10226,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 37
+    "QUALITE": 37,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -10077,7 +10257,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 37
+    "QUALITE": 37,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -10107,7 +10288,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 37
+    "QUALITE": 37,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -10137,7 +10319,8 @@
     "PERIODICITE": "Annuelle",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 48
+    "QUALITE": 48,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -10167,7 +10350,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 44
+    "QUALITE": 44,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -10197,7 +10381,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 37
+    "QUALITE": 37,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -10227,7 +10412,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 37
+    "QUALITE": 37,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -10257,7 +10443,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 37
+    "QUALITE": 37,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -10287,7 +10474,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 41
+    "QUALITE": 41,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -10317,7 +10505,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 41
+    "QUALITE": 41,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -10347,37 +10536,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 41
-  },
-  {
-    "TYPE_ENTITE": "Etablissement public",
-    "NOM_ENTITE": "ONEMA",
-    "NOM_BASE": "?? pb de copier/coller ?",
-    "DESCRIPTIF_COURT": "Obligation de déclaration dans le cadre de la gestion piscicole en application du cahier des charges pour l’exploitation du DPF »",
-    "DESCRIPTIF_LONG": "",
-    "POLPUBLIQUE": "Biodiversité et paysage",
-    "STATUT": "Non vérifié",
-    "MOTS_CLEFS": "",
-    "ORIGINE": "",
-    "EXTENSION": "",
-    "COUV_GEO": "",
-    "PROD_TEMPS": "",
-    "VOLUMETRIE": "",
-    "SOCLE_TECH": "",
-    "MOE": "",
-    "EFFORT_EXPORT": "",
-    "CONFIDENTIALITE": "",
-    "SENSIBILITE": "",
-    "DIFFUSION_ACTUELLE": "",
-    "PERSP_OPENDATA": "",
-    "EFFORT_REUSE": "",
-    "URL_DATA": "",
-    "LICENCE": "",
-    "FORMATS": "",
-    "PERIODICITE": "",
-    "NOMBRE": "",
-    "OBS": "",
-    "QUALITE": 22
+    "QUALITE": 41,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -10407,7 +10567,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 33
+    "QUALITE": 33,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -10437,7 +10598,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 37
+    "QUALITE": 37,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -10467,7 +10629,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 41
+    "QUALITE": 41,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -10497,7 +10660,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 37
+    "QUALITE": 37,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -10527,7 +10691,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 37
+    "QUALITE": 37,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -10557,7 +10722,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 37
+    "QUALITE": 37,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Etablissement public",
@@ -10587,7 +10753,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 37
+    "QUALITE": 37,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -10617,7 +10784,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "RPD : Réseau public de distribution - DCP* : données confidentielles au titre de la réglementation relative à la protection des Informations Commercialement Sensibles - ICS** : données confidentielles au titre de la protection des Données à Caractère Personnel, conformément aux lois Informatique et Libertés - Indus***. : données confidentielles au titre de la protection du secret industriel et commercial - Sec**** : données confidentielles au titre de la préservation de la sécurité des biens et des personnes",
-    "QUALITE": 41
+    "QUALITE": 41,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -10647,7 +10815,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "RPD : Réseau public de distribution - DCP* : données confidentielles au titre de la réglementation relative à la protection des Informations Commercialement Sensibles - ICS** : données confidentielles au titre de la protection des Données à Caractère Personnel, conformément aux lois Informatique et Libertés - Indus***. : données confidentielles au titre de la protection du secret industriel et commercial - Sec**** : données confidentielles au titre de la préservation de la sécurité des biens et des personnes",
-    "QUALITE": 41
+    "QUALITE": 41,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -10677,7 +10846,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "RPD : Réseau public de distribution - DCP* : données confidentielles au titre de la réglementation relative à la protection des Informations Commercialement Sensibles - ICS** : données confidentielles au titre de la protection des Données à Caractère Personnel, conformément aux lois Informatique et Libertés - Indus***. : données confidentielles au titre de la protection du secret industriel et commercial - Sec**** : données confidentielles au titre de la préservation de la sécurité des biens et des personnes",
-    "QUALITE": 41
+    "QUALITE": 41,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -10707,7 +10877,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "RPD : Réseau public de distribution - DCP* : données confidentielles au titre de la réglementation relative à la protection des Informations Commercialement Sensibles - ICS** : données confidentielles au titre de la protection des Données à Caractère Personnel, conformément aux lois Informatique et Libertés - Indus***. : données confidentielles au titre de la protection du secret industriel et commercial - Sec**** : données confidentielles au titre de la préservation de la sécurité des biens et des personnes",
-    "QUALITE": 41
+    "QUALITE": 41,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -10737,7 +10908,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "RPD : Réseau public de distribution - DCP* : données confidentielles au titre de la réglementation relative à la protection des Informations Commercialement Sensibles - ICS** : données confidentielles au titre de la protection des Données à Caractère Personnel, conformément aux lois Informatique et Libertés - Indus***. : données confidentielles au titre de la protection du secret industriel et commercial - Sec**** : données confidentielles au titre de la préservation de la sécurité des biens et des personnes",
-    "QUALITE": 41
+    "QUALITE": 41,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -10767,7 +10939,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "RPD : Réseau public de distribution - DCP* : données confidentielles au titre de la réglementation relative à la protection des Informations Commercialement Sensibles - ICS** : données confidentielles au titre de la protection des Données à Caractère Personnel, conformément aux lois Informatique et Libertés - Indus***. : données confidentielles au titre de la protection du secret industriel et commercial - Sec**** : données confidentielles au titre de la préservation de la sécurité des biens et des personnes",
-    "QUALITE": 41
+    "QUALITE": 41,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -10797,7 +10970,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "RPD : Réseau public de distribution - DCP* : données confidentielles au titre de la réglementation relative à la protection des Informations Commercialement Sensibles - ICS** : données confidentielles au titre de la protection des Données à Caractère Personnel, conformément aux lois Informatique et Libertés - Indus***. : données confidentielles au titre de la protection du secret industriel et commercial - Sec**** : données confidentielles au titre de la préservation de la sécurité des biens et des personnes",
-    "QUALITE": 41
+    "QUALITE": 41,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -10827,7 +11001,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "RPD : Réseau public de distribution - DCP* : données confidentielles au titre de la réglementation relative à la protection des Informations Commercialement Sensibles - ICS** : données confidentielles au titre de la protection des Données à Caractère Personnel, conformément aux lois Informatique et Libertés - Indus***. : données confidentielles au titre de la protection du secret industriel et commercial - Sec**** : données confidentielles au titre de la préservation de la sécurité des biens et des personnes",
-    "QUALITE": 41
+    "QUALITE": 41,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -10857,7 +11032,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "RPD : Réseau public de distribution - DCP* : données confidentielles au titre de la réglementation relative à la protection des Informations Commercialement Sensibles - ICS** : données confidentielles au titre de la protection des Données à Caractère Personnel, conformément aux lois Informatique et Libertés - Indus***. : données confidentielles au titre de la protection du secret industriel et commercial - Sec**** : données confidentielles au titre de la préservation de la sécurité des biens et des personnes",
-    "QUALITE": 41
+    "QUALITE": 41,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -10887,7 +11063,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "RPD : Réseau public de distribution - DCP* : données confidentielles au titre de la réglementation relative à la protection des Informations Commercialement Sensibles - ICS** : données confidentielles au titre de la protection des Données à Caractère Personnel, conformément aux lois Informatique et Libertés - Indus***. : données confidentielles au titre de la protection du secret industriel et commercial - Sec**** : données confidentielles au titre de la préservation de la sécurité des biens et des personnes",
-    "QUALITE": 41
+    "QUALITE": 41,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -10917,7 +11094,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "RPD : Réseau public de distribution - DCP* : données confidentielles au titre de la réglementation relative à la protection des Informations Commercialement Sensibles - ICS** : données confidentielles au titre de la protection des Données à Caractère Personnel, conformément aux lois Informatique et Libertés - Indus***. : données confidentielles au titre de la protection du secret industriel et commercial - Sec**** : données confidentielles au titre de la préservation de la sécurité des biens et des personnes",
-    "QUALITE": 44
+    "QUALITE": 44,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -10947,7 +11125,8 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "RPD : Réseau public de distribution - DCP* : données confidentielles au titre de la réglementation relative à la protection des Informations Commercialement Sensibles - ICS** : données confidentielles au titre de la protection des Données à Caractère Personnel, conformément aux lois Informatique et Libertés - Indus***. : données confidentielles au titre de la protection du secret industriel et commercial - Sec**** : données confidentielles au titre de la préservation de la sécurité des biens et des personnes",
-    "QUALITE": 41
+    "QUALITE": 41,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -10977,7 +11156,8 @@
     "PERIODICITE": "",
     "NOMBRE": 42,
     "OBS": "https://data.erdf.fr",
-    "QUALITE": 48
+    "QUALITE": 48,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -11007,7 +11187,8 @@
     "PERIODICITE": "",
     "NOMBRE": 50,
     "OBS": "https://data.erdf.fr",
-    "QUALITE": 48
+    "QUALITE": 48,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -11037,7 +11218,8 @@
     "PERIODICITE": "",
     "NOMBRE": 72,
     "OBS": "https://data.erdf.fr",
-    "QUALITE": 48
+    "QUALITE": 48,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -11067,7 +11249,8 @@
     "PERIODICITE": "",
     "NOMBRE": 50,
     "OBS": "https://data.erdf.fr",
-    "QUALITE": 48
+    "QUALITE": 48,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -11097,7 +11280,8 @@
     "PERIODICITE": "",
     "NOMBRE": 24,
     "OBS": "https://data.erdf.fr",
-    "QUALITE": 48
+    "QUALITE": 48,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -11127,7 +11311,8 @@
     "PERIODICITE": "",
     "NOMBRE": 1827,
     "OBS": "https://data.erdf.fr",
-    "QUALITE": 48
+    "QUALITE": 48,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -11157,7 +11342,8 @@
     "PERIODICITE": "",
     "NOMBRE": 87696,
     "OBS": "https://data.erdf.fr",
-    "QUALITE": 48
+    "QUALITE": 48,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -11187,7 +11373,8 @@
     "PERIODICITE": "",
     "NOMBRE": 87696,
     "OBS": "https://data.erdf.fr",
-    "QUALITE": 48
+    "QUALITE": 48,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -11217,7 +11404,8 @@
     "PERIODICITE": "",
     "NOMBRE": 71,
     "OBS": "https://data.erdf.fr",
-    "QUALITE": 48
+    "QUALITE": 48,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -11247,7 +11435,8 @@
     "PERIODICITE": "",
     "NOMBRE": 7,
     "OBS": "https://data.erdf.fr",
-    "QUALITE": 48
+    "QUALITE": 48,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -11277,7 +11466,8 @@
     "PERIODICITE": "",
     "NOMBRE": 3,
     "OBS": "https://data.erdf.fr",
-    "QUALITE": 48
+    "QUALITE": 48,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -11307,7 +11497,8 @@
     "PERIODICITE": "",
     "NOMBRE": 10,
     "OBS": "https://data.erdf.fr",
-    "QUALITE": 48
+    "QUALITE": 48,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -11337,7 +11528,8 @@
     "PERIODICITE": "",
     "NOMBRE": 87696,
     "OBS": "https://data.erdf.fr",
-    "QUALITE": 48
+    "QUALITE": 48,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -11367,7 +11559,8 @@
     "PERIODICITE": "",
     "NOMBRE": 9,
     "OBS": "https://data.erdf.fr",
-    "QUALITE": 48
+    "QUALITE": 48,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -11397,7 +11590,8 @@
     "PERIODICITE": "",
     "NOMBRE": 7308,
     "OBS": "https://data.erdf.fr",
-    "QUALITE": 48
+    "QUALITE": 48,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -11427,7 +11621,8 @@
     "PERIODICITE": "",
     "NOMBRE": 2,
     "OBS": "",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -11457,7 +11652,8 @@
     "PERIODICITE": "",
     "NOMBRE": 880,
     "OBS": "",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -11487,7 +11683,8 @@
     "PERIODICITE": "",
     "NOMBRE": 1643,
     "OBS": "",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -11517,7 +11714,8 @@
     "PERIODICITE": "",
     "NOMBRE": 1,
     "OBS": "",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -11547,7 +11745,8 @@
     "PERIODICITE": "",
     "NOMBRE": 1,
     "OBS": "",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -11577,7 +11776,8 @@
     "PERIODICITE": "",
     "NOMBRE": 1,
     "OBS": "",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -11607,7 +11807,8 @@
     "PERIODICITE": "",
     "NOMBRE": 5900,
     "OBS": "",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -11637,7 +11838,8 @@
     "PERIODICITE": "",
     "NOMBRE": 559,
     "OBS": "",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -11667,7 +11869,8 @@
     "PERIODICITE": "",
     "NOMBRE": 365,
     "OBS": "",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -11697,7 +11900,8 @@
     "PERIODICITE": "",
     "NOMBRE": 1550,
     "OBS": "",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -11727,7 +11931,8 @@
     "PERIODICITE": "",
     "NOMBRE": 454,
     "OBS": "",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -11757,7 +11962,8 @@
     "PERIODICITE": "",
     "NOMBRE": 10,
     "OBS": "",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -11787,7 +11993,8 @@
     "PERIODICITE": "",
     "NOMBRE": 6319,
     "OBS": "",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -11817,7 +12024,8 @@
     "PERIODICITE": "",
     "NOMBRE": 17,
     "OBS": "",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -11847,7 +12055,8 @@
     "PERIODICITE": "",
     "NOMBRE": 47758,
     "OBS": "",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -11877,7 +12086,8 @@
     "PERIODICITE": "",
     "NOMBRE": 6,
     "OBS": "",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -11907,7 +12117,8 @@
     "PERIODICITE": "",
     "NOMBRE": 10,
     "OBS": "",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -11937,7 +12148,8 @@
     "PERIODICITE": "",
     "NOMBRE": 34,
     "OBS": "",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -11967,7 +12179,8 @@
     "PERIODICITE": "",
     "NOMBRE": 1,
     "OBS": "",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -11997,7 +12210,8 @@
     "PERIODICITE": "",
     "NOMBRE": 812.32,
     "OBS": "",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -12027,7 +12241,8 @@
     "PERIODICITE": "",
     "NOMBRE": 15,
     "OBS": "",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -12057,7 +12272,8 @@
     "PERIODICITE": "",
     "NOMBRE": 3,
     "OBS": "",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -12087,7 +12303,8 @@
     "PERIODICITE": "",
     "NOMBRE": 76,
     "OBS": "",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -12117,7 +12334,8 @@
     "PERIODICITE": "",
     "NOMBRE": 80,
     "OBS": "",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -12147,7 +12365,8 @@
     "PERIODICITE": "",
     "NOMBRE": 22,
     "OBS": "",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -12177,7 +12396,8 @@
     "PERIODICITE": "",
     "NOMBRE": 218,
     "OBS": "",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -12207,7 +12427,8 @@
     "PERIODICITE": "",
     "NOMBRE": 16,
     "OBS": "",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -12237,7 +12458,8 @@
     "PERIODICITE": "",
     "NOMBRE": 755989,
     "OBS": "",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -12267,7 +12489,8 @@
     "PERIODICITE": "",
     "NOMBRE": 57,
     "OBS": "",
-    "QUALITE": 33
+    "QUALITE": 33,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -12297,7 +12520,8 @@
     "PERIODICITE": "",
     "NOMBRE": 10,
     "OBS": "",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -12327,7 +12551,8 @@
     "PERIODICITE": "",
     "NOMBRE": 1455,
     "OBS": "",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -12357,7 +12582,8 @@
     "PERIODICITE": "",
     "NOMBRE": 3032,
     "OBS": "",
-    "QUALITE": 30
+    "QUALITE": 30,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -12387,7 +12613,8 @@
     "PERIODICITE": "",
     "NOMBRE": 2980,
     "OBS": "",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -12417,7 +12644,8 @@
     "PERIODICITE": "",
     "NOMBRE": 19,
     "OBS": "",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -12447,7 +12675,8 @@
     "PERIODICITE": "",
     "NOMBRE": 507,
     "OBS": "",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -12477,7 +12706,8 @@
     "PERIODICITE": "",
     "NOMBRE": 55,
     "OBS": "",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -12507,7 +12737,8 @@
     "PERIODICITE": "",
     "NOMBRE": 5,
     "OBS": "",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -12537,7 +12768,8 @@
     "PERIODICITE": "",
     "NOMBRE": 50,
     "OBS": "",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -12567,7 +12799,8 @@
     "PERIODICITE": "",
     "NOMBRE": 55,
     "OBS": "",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -12597,7 +12830,8 @@
     "PERIODICITE": "",
     "NOMBRE": 84,
     "OBS": "",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -12627,7 +12861,8 @@
     "PERIODICITE": "",
     "NOMBRE": 225,
     "OBS": "",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -12657,7 +12892,8 @@
     "PERIODICITE": "",
     "NOMBRE": 30,
     "OBS": "",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -12687,7 +12923,8 @@
     "PERIODICITE": "",
     "NOMBRE": 20,
     "OBS": "",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -12717,7 +12954,8 @@
     "PERIODICITE": "",
     "NOMBRE": 320,
     "OBS": "",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -12747,7 +12985,8 @@
     "PERIODICITE": "",
     "NOMBRE": 516,
     "OBS": "",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -12777,7 +13016,8 @@
     "PERIODICITE": "",
     "NOMBRE": 76445,
     "OBS": "",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -12807,7 +13047,8 @@
     "PERIODICITE": "",
     "NOMBRE": 687454,
     "OBS": "",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -12837,7 +13078,8 @@
     "PERIODICITE": "",
     "NOMBRE": 151,
     "OBS": "",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -12867,7 +13109,8 @@
     "PERIODICITE": "",
     "NOMBRE": 14,
     "OBS": "",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -12897,7 +13140,8 @@
     "PERIODICITE": "",
     "NOMBRE": 44,
     "OBS": "",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -12927,7 +13171,8 @@
     "PERIODICITE": "",
     "NOMBRE": 1,
     "OBS": "",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -12957,7 +13202,8 @@
     "PERIODICITE": "",
     "NOMBRE": 22,
     "OBS": "",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -12987,7 +13233,8 @@
     "PERIODICITE": "",
     "NOMBRE": 22,
     "OBS": "",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -13017,7 +13264,8 @@
     "PERIODICITE": "",
     "NOMBRE": 1176,
     "OBS": "",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -13047,7 +13295,8 @@
     "PERIODICITE": "",
     "NOMBRE": 9652,
     "OBS": "",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -13077,7 +13326,8 @@
     "PERIODICITE": "",
     "NOMBRE": 1,
     "OBS": "",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -13107,7 +13357,8 @@
     "PERIODICITE": "",
     "NOMBRE": 508,
     "OBS": "",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -13137,7 +13388,8 @@
     "PERIODICITE": "",
     "NOMBRE": 88,
     "OBS": "",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -13167,7 +13419,8 @@
     "PERIODICITE": "",
     "NOMBRE": 1,
     "OBS": "",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -13197,7 +13450,8 @@
     "PERIODICITE": "",
     "NOMBRE": 264,
     "OBS": "",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -13227,7 +13481,8 @@
     "PERIODICITE": "",
     "NOMBRE": 69,
     "OBS": "",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -13257,7 +13512,8 @@
     "PERIODICITE": "",
     "NOMBRE": 379,
     "OBS": "",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -13287,7 +13543,8 @@
     "PERIODICITE": "",
     "NOMBRE": 26,
     "OBS": "",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -13317,7 +13574,8 @@
     "PERIODICITE": "",
     "NOMBRE": 401,
     "OBS": "",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -13347,7 +13605,8 @@
     "PERIODICITE": "",
     "NOMBRE": 18,
     "OBS": "",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -13377,7 +13636,8 @@
     "PERIODICITE": "",
     "NOMBRE": 10,
     "OBS": "",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -13407,7 +13667,8 @@
     "PERIODICITE": "",
     "NOMBRE": 25,
     "OBS": "",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -13437,7 +13698,8 @@
     "PERIODICITE": "",
     "NOMBRE": 11,
     "OBS": "",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -13467,7 +13729,8 @@
     "PERIODICITE": "",
     "NOMBRE": 108,
     "OBS": "",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -13497,7 +13760,8 @@
     "PERIODICITE": "",
     "NOMBRE": 19,
     "OBS": "",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -13527,7 +13791,8 @@
     "PERIODICITE": "",
     "NOMBRE": 10,
     "OBS": "",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -13557,7 +13822,8 @@
     "PERIODICITE": "",
     "NOMBRE": 11,
     "OBS": "",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -13587,7 +13853,8 @@
     "PERIODICITE": "",
     "NOMBRE": 273,
     "OBS": "",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -13617,7 +13884,8 @@
     "PERIODICITE": "",
     "NOMBRE": 88,
     "OBS": "",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -13647,7 +13915,8 @@
     "PERIODICITE": "",
     "NOMBRE": 295,
     "OBS": "",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -13677,7 +13946,8 @@
     "PERIODICITE": "",
     "NOMBRE": 505,
     "OBS": "",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -13707,7 +13977,8 @@
     "PERIODICITE": "",
     "NOMBRE": 20,
     "OBS": "",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -13737,7 +14008,8 @@
     "PERIODICITE": "",
     "NOMBRE": 1,
     "OBS": "",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -13767,7 +14039,8 @@
     "PERIODICITE": "",
     "NOMBRE": 1,
     "OBS": "",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -13797,7 +14070,8 @@
     "PERIODICITE": "",
     "NOMBRE": 5,
     "OBS": "",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -13827,7 +14101,8 @@
     "PERIODICITE": "",
     "NOMBRE": 30,
     "OBS": "",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -13857,6 +14132,7 @@
     "PERIODICITE": "",
     "NOMBRE": 14,
     "OBS": "",
-    "QUALITE": 26
+    "QUALITE": 26,
+    "DATEMAJ": "27/02/2017"
   }
 ]

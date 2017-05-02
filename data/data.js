@@ -1,6 +1,6 @@
 
-//var myurljson = "https://meem-mlhd.github.io/dataroom/data/data.json" ;
-var myurljson = "data/data.json" ;
+var myurljson = "https://meem-mlhd.github.io/dataroom/data/data.json" ;
+//var myurljson = "data/data.json" ;
 
 var mydata = (function () {
     var json = null;
