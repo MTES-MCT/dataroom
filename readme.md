@@ -7,6 +7,11 @@ cvstojson to generate json from cvs.
 
 
 ## Journal
+13/05/2017
+* Nettoyage du code
+* Migration jquery, jquery-ui, semantic, mustache
+* Ajout logo marianne et dataroom (svg)
+
 08/05/2017
 * Ajout d'une date de mise à jour
 
