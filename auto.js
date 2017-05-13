@@ -15,6 +15,7 @@ $(document).ready(function(){
 
     return `${day}/${month}/${year}`;
   }
+
   var arr = $.map(mydata, function (o){ return toDate(o['DATEMAJ']); });
   var datemax = new Date(Math.max.apply(this,arr)) ;
   $('#mydata_maxdatemaj').text(formattedDate(datemax));

@@ -47,7 +47,7 @@
             <input type="text" id="searchbox" placeholder="Chercher&hellip;" fjs-search>
           </div>
           <div class="ui container">
-            <div class="ui container"><a href="#" onclick="javascript:window.location.reload()">(supprimer les filtres)</a></div>
+            <div class="ui container"><a href="#" onclick="javascript:window.location.reload();">(supprimer les filtres)</a></div>
           </div>
           <div class="ui container left aligned" id="target">Chargement...</div>
         </div>
@@ -72,7 +72,8 @@
             <button class="ui button orange"><a href="mailto:soes-webdata-contact@developpement-durable.gouv.fr?subject=(dataroom) anomalie signalée sur la source de donnée <%= NOM_BASE %>&body=Bonjour,%0A%0AMerci de bien vouloir prendre en compte les modifications suivantes%0A%0ADescription%20longue%0ACouverture%20géographique%0AProfondeur%20temporelle%0AElément de volumétrie%0AEffort pour accéder aux données dans le SI%0ASensibilité des données%0ANiveau de diffusion publique actuelle%0APerspective opendata%0ALien vers les données%0ALicence%0AFormat des données%0APériodicité"><i class="mail orange icon"></i> Signaler une anomalie</a></button>
             <% if(URL_DATA) { %><button class="ui button"><a target="_blank" href="<%= URL_DATA %>"><i class="external square blue icon"></i> Accès aux données</a></button><% } %>
           </div>
-          <div class="ui label <%= qualcolor(QUALITE) %>"><i class="dashboard icon"></i><%= QUALITE %>%</div>
+          <div class="ui label <%= qualcolor(QUALITE) %>" data-tooltip="Complétude des informations" data-position="top center"><i class="dashboard icon"></i><%= QUALITE %>%</div>
+          <div class="ui basic label" data-tooltip="Échelle de qualité des données ouvertes de Tim Berners-Lee" data-position="top center"><% for (index=0;index<QUALITE_OPENDATA;++index) { %>★<% } %></div>
       <p><%= DESCRIPTIF_COURT %></p>
       <div class="ui two column grid">
         <div class="column"> 
@@ -128,54 +129,6 @@
 <script id="template" type="x-tmpl-mustache">
 
   <div class="well">
-    <fieldset id="type_entite_criteria">
-      <legend>Types de service</legend>
-      {{#TYPE_ENTITE}}
-      <div id="type_entite">
-        <div class="radio" fjs-criteria="field=TYPE_ENTITE,ele=#type_entites input:radio">
-          <label>
-            <input type="radio" name="type_entite" value="{{.}}">
-            <span>{{.}}</span>
-          </label>
-        </div>
-      </div>
-      {{/TYPE_ENTITE}}
-    </fieldset>
-  </div>
-
-  <div class="well">
-    <fieldset id="licence_criteria">
-      <legend>Licence</legend>
-      {{#LICENCE}}{{#.}}
-      <div id="licence">
-        <div class="radio" fjs-criteria="field=LICENCE,ele=#licences input:radio">
-          <label>
-            <input type="radio" name="licence" value="{{.}}">
-            <span>{{.}}</span>
-          </label>
-        </div>
-      </div>
-      {{/.}}{{/LICENCE}}
-    </fieldset>
-  </div>
-
-  <div class="well">
-    <fieldset id="nom_entite_criteria">
-      <legend>Entité</legend>
-      {{#NOM_ENTITE}}{{#.}}
-      <div id="entite">
-        <div class="radio" fjs-criteria="field=NOM_ENTITE,ele=#entites input:radio">
-          <label>
-            <input type="radio" name="entite" value="{{.}}">
-            <span>{{.}}</span>
-          </label>
-        </div>
-      </div>
-      {{/.}}{{/NOM_ENTITE}}
-    </fieldset>
-  </div>
-
-  <div class="well">
     <fieldset id="polpublique_criteria">
       <legend>Politique publique</legend>
       {{#POLPUBLIQUE}}{{#.}}
@@ -204,6 +157,54 @@
         </div>
       </div>
       {{/.}}{{/COUV_GEO}}
+    </fieldset>
+  </div>
+
+  <div class="well">
+    <fieldset id="nom_entite_criteria">
+      <legend>Producteur</legend>
+      {{#NOM_ENTITE}}{{#.}}
+      <div id="entite">
+        <div class="radio" fjs-criteria="field=NOM_ENTITE,ele=#entites input:radio">
+          <label>
+            <input type="radio" name="entite" value="{{.}}">
+            <span>{{.}}</span>
+          </label>
+        </div>
+      </div>
+      {{/.}}{{/NOM_ENTITE}}
+    </fieldset>
+  </div>
+
+  <div class="well">
+    <fieldset id="type_entite_criteria">
+      <legend>Type de producteur</legend>
+      {{#TYPE_ENTITE}}
+      <div id="type_entite">
+        <div class="radio" fjs-criteria="field=TYPE_ENTITE,ele=#type_entites input:radio">
+          <label>
+            <input type="radio" name="type_entite" value="{{.}}">
+            <span>{{.}}</span>
+          </label>
+        </div>
+      </div>
+      {{/TYPE_ENTITE}}
+    </fieldset>
+  </div>
+
+  <div class="well">
+    <fieldset id="licence_criteria">
+      <legend>Licence</legend>
+      {{#LICENCE}}{{#.}}
+      <div id="licence">
+        <div class="radio" fjs-criteria="field=LICENCE,ele=#licences input:radio">
+          <label>
+            <input type="radio" name="licence" value="{{.}}">
+            <span>{{.}}</span>
+          </label>
+        </div>
+      </div>
+      {{/.}}{{/LICENCE}}
     </fieldset>
   </div>
 
