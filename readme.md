@@ -1,4 +1,4 @@
-# DataRoom - Inventaire des données détenues ou produites par le MEEM & le MLHD
+# DataRoom - Inventaire des données détenues ou produites par le MTES & le MCT
 
 cvstojson to generate json from cvs.
 
@@ -7,6 +7,9 @@ cvstojson to generate json from cvs.
 
 
 ## Journal
+30/05/2017
+* Prise en compte des périmètres ministériels
+
 13/05/2017
 * Nettoyage du code
 * Migration jquery, jquery-ui, semantic, mustache
