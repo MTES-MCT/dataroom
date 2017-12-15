@@ -4,7 +4,7 @@
     "NOM_ENTITE": "CGEDD",
     "NOM_BASE": "Données AQST",
     "DESCRIPTIF_COURT": "Des indicateurs statistiques de régularité et ponctualité, des causes de retard, etc. dans les modes de transports aérien, ferroviaire, urbain, etc.",
-    "DESCRIPTIF_LONG": "La base est cumulative au sens où à chaque période temporelle régulière viennent s’ajouter de nouveaux éléments et révisable au sens où de nouveaux indicateurs sont ajoutés au fur et à mesure de l’extension de la compétence de l’AQST.\n\nCela concerne la période : septembre 2011 à aujourd'hui.\n\nDes données mensuelles d’une liaison précise : nombre d’annulés, de retardés, de ponctuels, taux et durée moyenne des retards au départ et à l’arrivée, etc. Des données agrégées sur l’ensemble des liaisons.\n\nLes données sont fournies par les transporteurs ou par l’administration comme dans le secteur aérien où c’est la DGAC qui les transmet à l’AQST. La procédure de collecte et de diffusion des données se fonde sur une convention bilatérale entre le fournisseur et l’AQST.\nLa transparence de diffusion est la garantie du site de l’AQST.",
+    "DESCRIPTIF_LONG": "La base est cumulative au sens où à chaque période temporelle régulière viennent s’ajouter de nouveaux éléments et révisable au sens où de nouveaux indicateurs sont ajoutés au fur et à mesure de l’extension de la compétence de l’AQST.\n\nCela concerne la période : septembre 2011 à aujourd'hui.\n\nDes données mensuelles d’une liaison précise : nombre d’annulés, de retardés, de ponctuels, taux et durée moyenne des retards au départ et à l’arrivée, etc. Des données agrégées sur l’ensemble des liaisons.http://www.csvjson.com/csv2json#\n\nLes données sont fournies par les transporteurs ou par l’administration comme dans le secteur aérien où c’est la DGAC qui les transmet à l’AQST. La procédure de collecte et de diffusion des données se fonde sur une convention bilatérale entre le fournisseur et l’AQST.\nLa transparence de diffusion est la garantie du site de l’AQST.",
     "POLPUBLIQUE": "Transport ferroviaire",
     "STATUT": "Vérifié",
     "MOTS_CLEFS": "régularité ; transport ; retard ; aérien ; ferroviaire",
@@ -27,7 +27,7 @@
     "PERIODICITE": "Tous les six mois",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 74,
+    "QUALITE": 74,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -59,7 +59,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 56,
+    "QUALITE": 56,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -91,7 +91,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 52,
+    "QUALITE": 52,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -123,7 +123,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 56,
+    "QUALITE": 56,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -155,7 +155,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 56,
+    "QUALITE": 56,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -187,7 +187,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 52,
+    "QUALITE": 52,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -219,7 +219,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 48,
+    "QUALITE": 48,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -251,7 +251,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 52,
+    "QUALITE": 52,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -283,7 +283,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 56,
+    "QUALITE": 56,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -315,7 +315,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 41,
+    "QUALITE": 41,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -347,7 +347,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 44,
+    "QUALITE": 44,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -379,7 +379,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 44,
+    "QUALITE": 44,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -411,7 +411,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 41,
+    "QUALITE": 41,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -443,7 +443,7 @@
     "PERIODICITE": "Annuelle",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 48,
+    "QUALITE": 48,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -475,7 +475,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 52,
+    "QUALITE": 52,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -507,7 +507,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 41,
+    "QUALITE": 41,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -539,7 +539,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 41,
+    "QUALITE": 41,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -571,7 +571,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 67,
+    "QUALITE": 67,
     "QUALITE_OPENDATA": 3,
     "DATEMAJ": "27/02/2017"
   },
@@ -603,7 +603,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 41,
+    "QUALITE": 41,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -635,7 +635,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 48,
+    "QUALITE": 48,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -667,7 +667,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 37,
+    "QUALITE": 37,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -699,7 +699,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 37,
+    "QUALITE": 37,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -731,7 +731,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 33,
+    "QUALITE": 33,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -763,7 +763,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
-    "UALITE": 37,
+    "QUALITE": 37,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -795,7 +795,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
-    "UALITE": 37,
+    "QUALITE": 37,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -827,7 +827,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
-    "UALITE": 37,
+    "QUALITE": 37,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -859,7 +859,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
-    "UALITE": 37,
+    "QUALITE": 37,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -891,7 +891,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
-    "UALITE": 30,
+    "QUALITE": 30,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -923,7 +923,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
-    "UALITE": 30,
+    "QUALITE": 30,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -955,7 +955,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
-    "UALITE": 33,
+    "QUALITE": 33,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -987,7 +987,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
-    "UALITE": 33,
+    "QUALITE": 33,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -1019,7 +1019,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
-    "UALITE": 33,
+    "QUALITE": 33,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -1051,7 +1051,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
-    "UALITE": 56,
+    "QUALITE": 56,
     "QUALITE_OPENDATA": 2,
     "DATEMAJ": "27/02/2017"
   },
@@ -1083,7 +1083,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
-    "UALITE": 22,
+    "QUALITE": 22,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -1115,7 +1115,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
-    "UALITE": 30,
+    "QUALITE": 30,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -1147,7 +1147,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -1179,7 +1179,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -1211,7 +1211,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
-    "UALITE": 30,
+    "QUALITE": 30,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -1243,7 +1243,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
-    "UALITE": 30,
+    "QUALITE": 30,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -1275,7 +1275,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
-    "UALITE": 22,
+    "QUALITE": 22,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -1307,7 +1307,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
-    "UALITE": 33,
+    "QUALITE": 33,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -1339,7 +1339,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
-    "UALITE": 22,
+    "QUALITE": 22,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -1371,7 +1371,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
-    "UALITE": 30,
+    "QUALITE": 30,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -1403,7 +1403,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 30,
+    "QUALITE": 30,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -1435,7 +1435,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 30,
+    "QUALITE": 30,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -1467,7 +1467,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
-    "UALITE": 30,
+    "QUALITE": 30,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -1499,7 +1499,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
-    "UALITE": 30,
+    "QUALITE": 30,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -1531,7 +1531,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
-    "UALITE": 30,
+    "QUALITE": 30,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -1563,7 +1563,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
-    "UALITE": 30,
+    "QUALITE": 30,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -1595,7 +1595,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
-    "UALITE": 33,
+    "QUALITE": 33,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -1627,7 +1627,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
-    "UALITE": 30,
+    "QUALITE": 30,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -1659,7 +1659,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
-    "UALITE": 41,
+    "QUALITE": 41,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -1691,7 +1691,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
-    "UALITE": 33,
+    "QUALITE": 33,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -1723,7 +1723,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 37,
+    "QUALITE": 37,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -1755,7 +1755,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 33,
+    "QUALITE": 33,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -1787,7 +1787,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 33,
+    "QUALITE": 33,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -1819,7 +1819,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 37,
+    "QUALITE": 37,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -1851,7 +1851,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 37,
+    "QUALITE": 37,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -1883,7 +1883,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 37,
+    "QUALITE": 37,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -1915,7 +1915,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -1947,7 +1947,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 33,
+    "QUALITE": 33,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -1979,7 +1979,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 41,
+    "QUALITE": 41,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -2011,7 +2011,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 37,
+    "QUALITE": 37,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -2043,7 +2043,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 37,
+    "QUALITE": 37,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -2075,7 +2075,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 52,
+    "QUALITE": 52,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -2107,7 +2107,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 41,
+    "QUALITE": 41,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -2139,7 +2139,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 41,
+    "QUALITE": 41,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -2171,7 +2171,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 33,
+    "QUALITE": 33,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -2203,7 +2203,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 44,
+    "QUALITE": 44,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -2235,7 +2235,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 41,
+    "QUALITE": 41,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -2267,7 +2267,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 41,
+    "QUALITE": 41,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -2299,7 +2299,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 44,
+    "QUALITE": 44,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -2331,7 +2331,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -2363,7 +2363,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 41,
+    "QUALITE": 41,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -2395,7 +2395,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 37,
+    "QUALITE": 37,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -2427,7 +2427,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "la maîtrise d’ouvrage opérationnelle est assurée par un établissement public",
-    "UALITE": 48,
+    "QUALITE": 48,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -2459,7 +2459,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 41,
+    "QUALITE": 41,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -2491,7 +2491,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -2523,7 +2523,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -2555,7 +2555,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 19,
+    "QUALITE": 19,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -2587,7 +2587,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 30,
+    "QUALITE": 30,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -2619,7 +2619,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 15,
+    "QUALITE": 15,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -2651,7 +2651,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 19,
+    "QUALITE": 19,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -2683,7 +2683,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -2715,7 +2715,7 @@
     "PERIODICITE": "Hebdomadaire",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 52,
+    "QUALITE": 52,
     "QUALITE_OPENDATA": 2,
     "DATEMAJ": "27/02/2017"
   },
@@ -2747,7 +2747,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 48,
+    "QUALITE": 48,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -2779,7 +2779,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 48,
+    "QUALITE": 48,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -2811,7 +2811,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 48,
+    "QUALITE": 48,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -2843,7 +2843,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 44,
+    "QUALITE": 44,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -2875,7 +2875,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 56,
+    "QUALITE": 56,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -2907,7 +2907,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 48,
+    "QUALITE": 48,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -2939,7 +2939,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 44,
+    "QUALITE": 44,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -2971,7 +2971,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 52,
+    "QUALITE": 52,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -3003,7 +3003,7 @@
     "PERIODICITE": "Temps réel",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 67,
+    "QUALITE": 67,
     "QUALITE_OPENDATA": 3,
     "DATEMAJ": "27/02/2017"
   },
@@ -3035,7 +3035,7 @@
     "PERIODICITE": "Annuel, depuis 1999 Années 2014-2016 en cours",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 52,
+    "QUALITE": 52,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -3067,7 +3067,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 48,
+    "QUALITE": 48,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -3099,7 +3099,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 44,
+    "QUALITE": 44,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -3131,7 +3131,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 33,
+    "QUALITE": 33,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -3163,7 +3163,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 33,
+    "QUALITE": 33,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -3195,7 +3195,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 37,
+    "QUALITE": 37,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -3227,7 +3227,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 37,
+    "QUALITE": 37,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -3259,7 +3259,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 37,
+    "QUALITE": 37,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -3291,7 +3291,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 37,
+    "QUALITE": 37,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -3323,7 +3323,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 44,
+    "QUALITE": 44,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -3355,7 +3355,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 48,
+    "QUALITE": 48,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -3387,7 +3387,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 41,
+    "QUALITE": 41,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -3419,7 +3419,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 44,
+    "QUALITE": 44,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -3451,7 +3451,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 33,
+    "QUALITE": 33,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -3483,7 +3483,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 48,
+    "QUALITE": 48,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -3515,7 +3515,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 67,
+    "QUALITE": 67,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -3547,7 +3547,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 48,
+    "QUALITE": 48,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -3579,7 +3579,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 48,
+    "QUALITE": 48,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -3611,7 +3611,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 59,
+    "QUALITE": 59,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -3643,7 +3643,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 63,
+    "QUALITE": 63,
     "QUALITE_OPENDATA": 3,
     "DATEMAJ": "27/02/2017"
   },
@@ -3675,7 +3675,7 @@
     "PERIODICITE": "Temps réel",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 67,
+    "QUALITE": 67,
     "QUALITE_OPENDATA": 3,
     "DATEMAJ": "27/02/2017"
   },
@@ -3707,7 +3707,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 48,
+    "QUALITE": 48,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -3739,7 +3739,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 63,
+    "QUALITE": 63,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -3771,7 +3771,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 67,
+    "QUALITE": 67,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -3803,7 +3803,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 52,
+    "QUALITE": 52,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -3835,7 +3835,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 48,
+    "QUALITE": 48,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -3867,7 +3867,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 44,
+    "QUALITE": 44,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -3899,7 +3899,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 44,
+    "QUALITE": 44,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -3931,7 +3931,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 44,
+    "QUALITE": 44,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -3963,7 +3963,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 59,
+    "QUALITE": 59,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -3995,7 +3995,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 48,
+    "QUALITE": 48,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -4027,7 +4027,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 44,
+    "QUALITE": 44,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -4059,7 +4059,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 52,
+    "QUALITE": 52,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -4091,7 +4091,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 52,
+    "QUALITE": 52,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -4123,7 +4123,7 @@
     "PERIODICITE": "Annuelle",
     "NOMBRE": "47 établissements",
     "OBS": "",
-    "UALITE": 33,
+    "QUALITE": 33,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -4155,7 +4155,7 @@
     "PERIODICITE": "Annuelle",
     "NOMBRE": "7 000 établissements",
     "OBS": "",
-    "UALITE": 33,
+    "QUALITE": 33,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -4187,7 +4187,7 @@
     "PERIODICITE": "Apériodique",
     "NOMBRE": "4 727 individu",
     "OBS": "",
-    "UALITE": 37,
+    "QUALITE": 37,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -4219,7 +4219,7 @@
     "PERIODICITE": "",
     "NOMBRE": "2 400 chefs de famille",
     "OBS": "",
-    "UALITE": 30,
+    "QUALITE": 30,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -4251,7 +4251,7 @@
     "PERIODICITE": "Trimestrielle",
     "NOMBRE": "12 000 programmes par trimestre",
     "OBS": "",
-    "UALITE": 37,
+    "QUALITE": 37,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -4283,7 +4283,7 @@
     "PERIODICITE": "Annuelle",
     "NOMBRE": "4,8 millions de logements / 800 bailleurs sociaux",
     "OBS": "",
-    "UALITE": 37,
+    "QUALITE": 37,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -4315,7 +4315,7 @@
     "PERIODICITE": "Annuelle",
     "NOMBRE": "110 000 permis en 2009",
     "OBS": "",
-    "UALITE": 37,
+    "QUALITE": 37,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -4347,7 +4347,7 @@
     "PERIODICITE": "Supérieure à un an",
     "NOMBRE": "Environ 7 500 établissements",
     "OBS": "",
-    "UALITE": 52,
+    "QUALITE": 52,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "15/12/2017"
   },
@@ -4379,7 +4379,7 @@
     "PERIODICITE": "Apériodique",
     "NOMBRE": "8 000 logements",
     "OBS": "",
-    "UALITE": 30,
+    "QUALITE": 30,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -4411,7 +4411,7 @@
     "PERIODICITE": "Mensuelle",
     "NOMBRE": "2 600 entreprises",
     "OBS": "",
-    "UALITE": 33,
+    "QUALITE": 33,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -4443,7 +4443,7 @@
     "PERIODICITE": "Mensuelle",
     "NOMBRE": "7 800 entreprises",
     "OBS": "",
-    "UALITE": 37,
+    "QUALITE": 37,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -4475,7 +4475,7 @@
     "PERIODICITE": "Trimestrielle",
     "NOMBRE": "5 800 permis",
     "OBS": "",
-    "UALITE": 37,
+    "QUALITE": 37,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -4507,7 +4507,7 @@
     "PERIODICITE": "",
     "NOMBRE": "7 506 entreprises",
     "OBS": "",
-    "UALITE": 33,
+    "QUALITE": 33,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -4539,7 +4539,7 @@
     "PERIODICITE": "",
     "NOMBRE": "80 000 véhicules",
     "OBS": "",
-    "UALITE": 33,
+    "QUALITE": 33,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -4571,7 +4571,7 @@
     "PERIODICITE": "Trimestrielle",
     "NOMBRE": "30 entreprises",
     "OBS": "",
-    "UALITE": 37,
+    "QUALITE": 37,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -4603,7 +4603,7 @@
     "PERIODICITE": "Trimestrielle",
     "NOMBRE": "Près de 2000 établissements et 20 000 conducteurs routiers",
     "OBS": "",
-    "UALITE": 41,
+    "QUALITE": 41,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -4635,7 +4635,7 @@
     "PERIODICITE": "Tous les 5 à 6 ans",
     "NOMBRE": "25 000 véhicules en 2012",
     "OBS": "",
-    "UALITE": 37,
+    "QUALITE": 37,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -4667,7 +4667,7 @@
     "PERIODICITE": "Tous les 10 à 15 ans",
     "NOMBRE": "20 200 ménages",
     "OBS": "",
-    "UALITE": 37,
+    "QUALITE": 37,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -4699,7 +4699,7 @@
     "PERIODICITE": "Apériodique",
     "NOMBRE": "15 000 autocars",
     "OBS": "",
-    "UALITE": 37,
+    "QUALITE": 37,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -4731,7 +4731,7 @@
     "PERIODICITE": "Apériodique",
     "NOMBRE": "2 000 unités sur 4 000 entrepôts",
     "OBS": "",
-    "UALITE": 37,
+    "QUALITE": 37,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -4763,7 +4763,7 @@
     "PERIODICITE": "Apériodique",
     "NOMBRE": "4 789 entreprises",
     "OBS": "",
-    "UALITE": 41,
+    "QUALITE": 41,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "15/12/2017"
   },
@@ -4795,7 +4795,7 @@
     "PERIODICITE": "Apériodique",
     "NOMBRE": "30 500 véhicules",
     "OBS": "",
-    "UALITE": 37,
+    "QUALITE": 37,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -4827,7 +4827,7 @@
     "PERIODICITE": "Apériodique",
     "NOMBRE": "20 000 véhicules automoteurs spécialisés",
     "OBS": "",
-    "UALITE": 37,
+    "QUALITE": 37,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -4859,7 +4859,7 @@
     "PERIODICITE": "Trimestrielle",
     "NOMBRE": "20 chargeurs",
     "OBS": "",
-    "UALITE": 37,
+    "QUALITE": 37,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -4891,7 +4891,7 @@
     "PERIODICITE": "Annuelle",
     "NOMBRE": "245 opérateurs",
     "OBS": "",
-    "UALITE": 37,
+    "QUALITE": 37,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -4923,7 +4923,7 @@
     "PERIODICITE": "Annuelle",
     "NOMBRE": "150 entreprises en 201",
     "OBS": "",
-    "UALITE": 37,
+    "QUALITE": 37,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -4955,7 +4955,7 @@
     "PERIODICITE": "Annuelle",
     "NOMBRE": "4900 centrales",
     "OBS": "",
-    "UALITE": 37,
+    "QUALITE": 37,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -4987,7 +4987,7 @@
     "PERIODICITE": "Annuelle",
     "NOMBRE": "47 établissements en 2014",
     "OBS": "",
-    "UALITE": 33,
+    "QUALITE": 33,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -5019,7 +5019,7 @@
     "PERIODICITE": "Mensuelle",
     "NOMBRE": "47 établissements",
     "OBS": "",
-    "UALITE": 33,
+    "QUALITE": 33,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -5051,7 +5051,7 @@
     "PERIODICITE": "Semestrielle",
     "NOMBRE": "170 fournisseurs",
     "OBS": "",
-    "UALITE": 37,
+    "QUALITE": 37,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -5083,7 +5083,7 @@
     "PERIODICITE": "Annuelle",
     "NOMBRE": "520 établissements",
     "OBS": "",
-    "UALITE": 37,
+    "QUALITE": 37,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -5115,7 +5115,7 @@
     "PERIODICITE": "Annuelle",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 33,
+    "QUALITE": 33,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -5147,7 +5147,7 @@
     "PERIODICITE": "Annuelle",
     "NOMBRE": "50 unités environ",
     "OBS": "",
-    "UALITE": 37,
+    "QUALITE": 37,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -5179,7 +5179,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 30,
+    "QUALITE": 30,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -5211,7 +5211,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 30,
+    "QUALITE": 30,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -5243,7 +5243,7 @@
     "PERIODICITE": "Tous les quatre ans",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 78,
+    "QUALITE": 78,
     "QUALITE_OPENDATA": 3,
     "DATEMAJ": "27/02/2017"
   },
@@ -5275,7 +5275,7 @@
     "PERIODICITE": "Annuelle",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 70,
+    "QUALITE": 70,
     "QUALITE_OPENDATA": 2,
     "DATEMAJ": "02/05/2017"
   },
@@ -5307,7 +5307,7 @@
     "PERIODICITE": "Annuelle",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 67,
+    "QUALITE": 67,
     "QUALITE_OPENDATA": 2,
     "DATEMAJ": "27/02/2017"
   },
@@ -5339,7 +5339,7 @@
     "PERIODICITE": "Mensuelle ; Annuelle",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 67,
+    "QUALITE": 67,
     "QUALITE_OPENDATA": 2,
     "DATEMAJ": "27/02/2017"
   },
@@ -5371,7 +5371,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 52,
+    "QUALITE": 52,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -5403,7 +5403,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 22,
+    "QUALITE": 22,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -5435,7 +5435,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 48,
+    "QUALITE": 48,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -5467,7 +5467,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 44,
+    "QUALITE": 44,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -5499,7 +5499,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 44,
+    "QUALITE": 44,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -5531,7 +5531,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 48,
+    "QUALITE": 48,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -5563,7 +5563,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 30,
+    "QUALITE": 30,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -5595,7 +5595,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 44,
+    "QUALITE": 44,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -5627,7 +5627,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 30,
+    "QUALITE": 30,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -5659,7 +5659,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 30,
+    "QUALITE": 30,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -5691,7 +5691,7 @@
     "PERIODICITE": "Tous les 10 ans",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 41,
+    "QUALITE": 41,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -5723,7 +5723,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 41,
+    "QUALITE": 41,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -5755,7 +5755,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 37,
+    "QUALITE": 37,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -5787,7 +5787,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 41,
+    "QUALITE": 41,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -5819,7 +5819,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 44,
+    "QUALITE": 44,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -5851,7 +5851,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 44,
+    "QUALITE": 44,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -5883,7 +5883,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 37,
+    "QUALITE": 37,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -5915,7 +5915,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr",
-    "UALITE": 56,
+    "QUALITE": 56,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -5947,7 +5947,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr",
-    "UALITE": 44,
+    "QUALITE": 44,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -5979,7 +5979,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr",
-    "UALITE": 41,
+    "QUALITE": 41,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -6011,7 +6011,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr",
-    "UALITE": 37,
+    "QUALITE": 37,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -6043,7 +6043,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr",
-    "UALITE": 44,
+    "QUALITE": 44,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -6075,7 +6075,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr",
-    "UALITE": 41,
+    "QUALITE": 41,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -6107,7 +6107,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr",
-    "UALITE": 48,
+    "QUALITE": 48,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -6139,7 +6139,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr",
-    "UALITE": 41,
+    "QUALITE": 41,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -6171,7 +6171,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr",
-    "UALITE": 41,
+    "QUALITE": 41,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -6203,7 +6203,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr",
-    "UALITE": 48,
+    "QUALITE": 48,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -6235,7 +6235,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr",
-    "UALITE": 52,
+    "QUALITE": 52,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -6267,7 +6267,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr",
-    "UALITE": 44,
+    "QUALITE": 44,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -6299,7 +6299,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr",
-    "UALITE": 41,
+    "QUALITE": 41,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -6331,7 +6331,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr",
-    "UALITE": 48,
+    "QUALITE": 48,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -6363,7 +6363,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr",
-    "UALITE": 44,
+    "QUALITE": 44,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -6395,7 +6395,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr",
-    "UALITE": 37,
+    "QUALITE": 37,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -6427,7 +6427,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr",
-    "UALITE": 48,
+    "QUALITE": 48,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -6459,7 +6459,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr",
-    "UALITE": 48,
+    "QUALITE": 48,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -6491,7 +6491,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr",
-    "UALITE": 52,
+    "QUALITE": 52,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -6523,7 +6523,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr",
-    "UALITE": 48,
+    "QUALITE": 48,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -6555,7 +6555,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr",
-    "UALITE": 41,
+    "QUALITE": 41,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -6587,7 +6587,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr",
-    "UALITE": 41,
+    "QUALITE": 41,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -6619,7 +6619,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr",
-    "UALITE": 41,
+    "QUALITE": 41,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -6651,7 +6651,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr",
-    "UALITE": 41,
+    "QUALITE": 41,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -6683,7 +6683,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr",
-    "UALITE": 41,
+    "QUALITE": 41,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -6715,7 +6715,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr",
-    "UALITE": 41,
+    "QUALITE": 41,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -6747,7 +6747,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr",
-    "UALITE": 41,
+    "QUALITE": 41,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -6779,7 +6779,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr",
-    "UALITE": 44,
+    "QUALITE": 44,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -6811,7 +6811,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr",
-    "UALITE": 48,
+    "QUALITE": 48,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -6843,7 +6843,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Disponibles publiquement sur le Géocatalogue : www.geocatalogue.fr",
-    "UALITE": 48,
+    "QUALITE": 48,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -6875,7 +6875,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 41,
+    "QUALITE": 41,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -6907,7 +6907,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 37,
+    "QUALITE": 37,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -6939,7 +6939,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 33,
+    "QUALITE": 33,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -6971,7 +6971,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 33,
+    "QUALITE": 33,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -7003,7 +7003,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 37,
+    "QUALITE": 37,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -7035,7 +7035,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 33,
+    "QUALITE": 33,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -7067,7 +7067,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 41,
+    "QUALITE": 41,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -7099,7 +7099,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 44,
+    "QUALITE": 44,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -7131,7 +7131,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 33,
+    "QUALITE": 33,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -7163,7 +7163,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 41,
+    "QUALITE": 41,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -7195,7 +7195,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 41,
+    "QUALITE": 41,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -7227,7 +7227,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 44,
+    "QUALITE": 44,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -7259,7 +7259,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 44,
+    "QUALITE": 44,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -7291,7 +7291,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 44,
+    "QUALITE": 44,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -7323,7 +7323,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 44,
+    "QUALITE": 44,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -7355,7 +7355,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 44,
+    "QUALITE": 44,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -7387,7 +7387,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 44,
+    "QUALITE": 44,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -7419,7 +7419,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Données IGN Gratuites pour tous les usages",
-    "UALITE": 22,
+    "QUALITE": 22,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -7451,7 +7451,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Données IGN Gratuites pour tous les usages",
-    "UALITE": 22,
+    "QUALITE": 22,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -7483,7 +7483,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Données IGN Gratuites pour tous les usages",
-    "UALITE": 22,
+    "QUALITE": 22,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -7515,7 +7515,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Données IGN Gratuites pour tous les usages",
-    "UALITE": 22,
+    "QUALITE": 22,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -7547,7 +7547,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Données IGN Gratuites pour tous les usages",
-    "UALITE": 22,
+    "QUALITE": 22,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -7579,7 +7579,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Données IGN Gratuites pour tous les usages",
-    "UALITE": 22,
+    "QUALITE": 22,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -7611,7 +7611,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Données IGN Gratuites pour tous les usages",
-    "UALITE": 22,
+    "QUALITE": 22,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -7643,7 +7643,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Données IGN Gratuites pour tous les usages",
-    "UALITE": 22,
+    "QUALITE": 22,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -7675,7 +7675,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Données IGN Gratuites pour tous les usages",
-    "UALITE": 22,
+    "QUALITE": 22,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -7707,7 +7707,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Données IGN Gratuites pour tous les usages",
-    "UALITE": 22,
+    "QUALITE": 22,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -7739,7 +7739,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Données IGN avec redevance, gratuites pour les missions de service public",
-    "UALITE": 22,
+    "QUALITE": 22,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -7771,7 +7771,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Données IGN avec redevance, gratuites pour les missions de service public",
-    "UALITE": 22,
+    "QUALITE": 22,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -7803,7 +7803,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Données IGN avec redevance, gratuites pour les missions de service public",
-    "UALITE": 22,
+    "QUALITE": 22,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -7835,7 +7835,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Données IGN avec redevance, gratuites pour les missions de service public",
-    "UALITE": 37,
+    "QUALITE": 37,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -7867,7 +7867,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Données IGN avec redevance, gratuites pour les missions de service public",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -7899,7 +7899,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Données IGN avec redevance, gratuites pour les missions de service public",
-    "UALITE": 37,
+    "QUALITE": 37,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -7931,7 +7931,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Données IGN avec redevance, gratuites pour les missions de service public",
-    "UALITE": 37,
+    "QUALITE": 37,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -7963,7 +7963,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Données IGN avec redevance, gratuites pour les missions de service public",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -7995,7 +7995,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Données IGN avec redevance, gratuites pour les missions de service public",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -8027,7 +8027,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Données IGN avec redevance, gratuites pour les missions de service public",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -8059,7 +8059,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Données IGN avec redevance",
-    "UALITE": 37,
+    "QUALITE": 37,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -8091,7 +8091,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Données IGN avec redevance",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -8123,7 +8123,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Données IGN avec redevance",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -8155,7 +8155,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Données IGN avec redevance",
-    "UALITE": 44,
+    "QUALITE": 44,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -8187,7 +8187,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Données IGN avec redevance",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -8219,7 +8219,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Données IGN avec redevance",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -8251,7 +8251,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Données IGN avec redevance",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -8283,7 +8283,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Données IGN avec redevance",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -8315,7 +8315,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Données IGN avec redevance",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -8347,7 +8347,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Données IGN avec redevance",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -8379,7 +8379,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Données IGN avec redevance",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -8411,7 +8411,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Données IGN avec redevance",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -8443,7 +8443,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Données IGN avec redevance",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -8475,7 +8475,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Données IGN avec redevance",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -8507,7 +8507,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Données IGN avec redevance",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -8539,7 +8539,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Données IGN avec redevance",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -8571,7 +8571,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Données IGN avec redevance",
-    "UALITE": 37,
+    "QUALITE": 37,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -8603,7 +8603,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Données IGN avec redevance",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -8635,7 +8635,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Données IGN avec redevance",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -8667,7 +8667,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "Données IGN avec redevance",
-    "UALITE": 41,
+    "QUALITE": 41,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -8699,7 +8699,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 30,
+    "QUALITE": 30,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -8731,7 +8731,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 37,
+    "QUALITE": 37,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -8763,7 +8763,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 41,
+    "QUALITE": 41,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -8795,7 +8795,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 48,
+    "QUALITE": 48,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -8827,7 +8827,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 41,
+    "QUALITE": 41,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -8859,7 +8859,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 44,
+    "QUALITE": 44,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -8891,7 +8891,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 37,
+    "QUALITE": 37,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -8923,7 +8923,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 41,
+    "QUALITE": 41,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -8955,7 +8955,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 56,
+    "QUALITE": 56,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -8987,7 +8987,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 41,
+    "QUALITE": 41,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -9019,7 +9019,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 41,
+    "QUALITE": 41,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -9051,7 +9051,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 37,
+    "QUALITE": 37,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -9083,7 +9083,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 41,
+    "QUALITE": 41,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -9115,7 +9115,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 44,
+    "QUALITE": 44,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -9147,7 +9147,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 30,
+    "QUALITE": 30,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -9179,7 +9179,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 33,
+    "QUALITE": 33,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -9211,7 +9211,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 30,
+    "QUALITE": 30,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -9243,7 +9243,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 30,
+    "QUALITE": 30,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -9275,7 +9275,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 30,
+    "QUALITE": 30,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -9307,7 +9307,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 30,
+    "QUALITE": 30,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -9339,7 +9339,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 30,
+    "QUALITE": 30,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -9371,7 +9371,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 30,
+    "QUALITE": 30,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -9403,7 +9403,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 30,
+    "QUALITE": 30,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -9435,7 +9435,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 30,
+    "QUALITE": 30,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -9467,7 +9467,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 30,
+    "QUALITE": 30,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -9499,7 +9499,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 30,
+    "QUALITE": 30,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -9531,7 +9531,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 30,
+    "QUALITE": 30,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -9563,7 +9563,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 30,
+    "QUALITE": 30,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -9595,7 +9595,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 30,
+    "QUALITE": 30,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -9627,7 +9627,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 30,
+    "QUALITE": 30,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -9659,7 +9659,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 30,
+    "QUALITE": 30,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -9691,7 +9691,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 30,
+    "QUALITE": 30,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -9723,7 +9723,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 30,
+    "QUALITE": 30,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -9755,7 +9755,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 37,
+    "QUALITE": 37,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -9787,7 +9787,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 37,
+    "QUALITE": 37,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -9819,7 +9819,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 33,
+    "QUALITE": 33,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -9851,7 +9851,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 37,
+    "QUALITE": 37,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -9883,7 +9883,7 @@
     "PERIODICITE": "Annuelle",
     "NOMBRE": "",
     "OBS": "Est-ce un doublon avec la BDCathage de l'IGN ?",
-    "UALITE": 52,
+    "QUALITE": 52,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -9915,7 +9915,7 @@
     "PERIODICITE": "Bi-annuel",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 41,
+    "QUALITE": 41,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -9947,7 +9947,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 37,
+    "QUALITE": 37,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -9979,7 +9979,7 @@
     "PERIODICITE": "Annuelle",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 44,
+    "QUALITE": 44,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -10011,7 +10011,7 @@
     "PERIODICITE": "Annuelle",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 41,
+    "QUALITE": 41,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -10043,7 +10043,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 41,
+    "QUALITE": 41,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -10075,7 +10075,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 37,
+    "QUALITE": 37,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -10107,7 +10107,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 37,
+    "QUALITE": 37,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -10139,7 +10139,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 33,
+    "QUALITE": 33,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -10171,7 +10171,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 41,
+    "QUALITE": 41,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -10203,7 +10203,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 30,
+    "QUALITE": 30,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -10235,7 +10235,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 37,
+    "QUALITE": 37,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -10267,7 +10267,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 37,
+    "QUALITE": 37,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -10299,7 +10299,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 41,
+    "QUALITE": 41,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -10331,7 +10331,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 37,
+    "QUALITE": 37,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -10363,7 +10363,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 37,
+    "QUALITE": 37,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -10395,7 +10395,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 41,
+    "QUALITE": 41,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -10427,7 +10427,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 41,
+    "QUALITE": 41,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -10459,7 +10459,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 41,
+    "QUALITE": 41,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -10491,7 +10491,7 @@
     "PERIODICITE": "Tous les 6 ans",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 48,
+    "QUALITE": 48,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -10523,7 +10523,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 41,
+    "QUALITE": 41,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -10555,7 +10555,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 37,
+    "QUALITE": 37,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -10587,7 +10587,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 37,
+    "QUALITE": 37,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -10619,7 +10619,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 37,
+    "QUALITE": 37,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -10651,7 +10651,7 @@
     "PERIODICITE": "Annuelle",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 48,
+    "QUALITE": 48,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -10683,7 +10683,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 44,
+    "QUALITE": 44,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -10715,7 +10715,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 37,
+    "QUALITE": 37,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -10747,7 +10747,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 37,
+    "QUALITE": 37,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -10779,7 +10779,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 37,
+    "QUALITE": 37,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -10811,7 +10811,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 41,
+    "QUALITE": 41,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -10843,7 +10843,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 41,
+    "QUALITE": 41,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -10875,7 +10875,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 41,
+    "QUALITE": 41,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -10907,7 +10907,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 33,
+    "QUALITE": 33,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -10939,7 +10939,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 37,
+    "QUALITE": 37,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -10971,7 +10971,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 41,
+    "QUALITE": 41,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -11003,7 +11003,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 37,
+    "QUALITE": 37,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -11035,7 +11035,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 37,
+    "QUALITE": 37,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -11067,7 +11067,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 37,
+    "QUALITE": 37,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -11099,7 +11099,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "UALITE": 37,
+    "QUALITE": 37,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -11131,7 +11131,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "RPD : Réseau public de distribution - DCP* : données confidentielles au titre de la réglementation relative à la protection des Informations Commercialement Sensibles - ICS** : données confidentielles au titre de la protection des Données à Caractère Personnel, conformément aux lois Informatique et Libertés - Indus***. : données confidentielles au titre de la protection du secret industriel et commercial - Sec**** : données confidentielles au titre de la préservation de la sécurité des biens et des personnes",
-    "UALITE": 41,
+    "QUALITE": 41,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -11163,7 +11163,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "RPD : Réseau public de distribution - DCP* : données confidentielles au titre de la réglementation relative à la protection des Informations Commercialement Sensibles - ICS** : données confidentielles au titre de la protection des Données à Caractère Personnel, conformément aux lois Informatique et Libertés - Indus***. : données confidentielles au titre de la protection du secret industriel et commercial - Sec**** : données confidentielles au titre de la préservation de la sécurité des biens et des personnes",
-    "UALITE": 41,
+    "QUALITE": 41,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -11195,7 +11195,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "RPD : Réseau public de distribution - DCP* : données confidentielles au titre de la réglementation relative à la protection des Informations Commercialement Sensibles - ICS** : données confidentielles au titre de la protection des Données à Caractère Personnel, conformément aux lois Informatique et Libertés - Indus***. : données confidentielles au titre de la protection du secret industriel et commercial - Sec**** : données confidentielles au titre de la préservation de la sécurité des biens et des personnes",
-    "UALITE": 41,
+    "QUALITE": 41,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -11227,7 +11227,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "RPD : Réseau public de distribution - DCP* : données confidentielles au titre de la réglementation relative à la protection des Informations Commercialement Sensibles - ICS** : données confidentielles au titre de la protection des Données à Caractère Personnel, conformément aux lois Informatique et Libertés - Indus***. : données confidentielles au titre de la protection du secret industriel et commercial - Sec**** : données confidentielles au titre de la préservation de la sécurité des biens et des personnes",
-    "UALITE": 41,
+    "QUALITE": 41,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -11259,7 +11259,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "RPD : Réseau public de distribution - DCP* : données confidentielles au titre de la réglementation relative à la protection des Informations Commercialement Sensibles - ICS** : données confidentielles au titre de la protection des Données à Caractère Personnel, conformément aux lois Informatique et Libertés - Indus***. : données confidentielles au titre de la protection du secret industriel et commercial - Sec**** : données confidentielles au titre de la préservation de la sécurité des biens et des personnes",
-    "UALITE": 41,
+    "QUALITE": 41,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -11291,7 +11291,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "RPD : Réseau public de distribution - DCP* : données confidentielles au titre de la réglementation relative à la protection des Informations Commercialement Sensibles - ICS** : données confidentielles au titre de la protection des Données à Caractère Personnel, conformément aux lois Informatique et Libertés - Indus***. : données confidentielles au titre de la protection du secret industriel et commercial - Sec**** : données confidentielles au titre de la préservation de la sécurité des biens et des personnes",
-    "UALITE": 41,
+    "QUALITE": 41,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -11323,7 +11323,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "RPD : Réseau public de distribution - DCP* : données confidentielles au titre de la réglementation relative à la protection des Informations Commercialement Sensibles - ICS** : données confidentielles au titre de la protection des Données à Caractère Personnel, conformément aux lois Informatique et Libertés - Indus***. : données confidentielles au titre de la protection du secret industriel et commercial - Sec**** : données confidentielles au titre de la préservation de la sécurité des biens et des personnes",
-    "UALITE": 41,
+    "QUALITE": 41,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -11355,7 +11355,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "RPD : Réseau public de distribution - DCP* : données confidentielles au titre de la réglementation relative à la protection des Informations Commercialement Sensibles - ICS** : données confidentielles au titre de la protection des Données à Caractère Personnel, conformément aux lois Informatique et Libertés - Indus***. : données confidentielles au titre de la protection du secret industriel et commercial - Sec**** : données confidentielles au titre de la préservation de la sécurité des biens et des personnes",
-    "UALITE": 41,
+    "QUALITE": 41,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -11387,7 +11387,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "RPD : Réseau public de distribution - DCP* : données confidentielles au titre de la réglementation relative à la protection des Informations Commercialement Sensibles - ICS** : données confidentielles au titre de la protection des Données à Caractère Personnel, conformément aux lois Informatique et Libertés - Indus***. : données confidentielles au titre de la protection du secret industriel et commercial - Sec**** : données confidentielles au titre de la préservation de la sécurité des biens et des personnes",
-    "UALITE": 41,
+    "QUALITE": 41,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -11419,7 +11419,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "RPD : Réseau public de distribution - DCP* : données confidentielles au titre de la réglementation relative à la protection des Informations Commercialement Sensibles - ICS** : données confidentielles au titre de la protection des Données à Caractère Personnel, conformément aux lois Informatique et Libertés - Indus***. : données confidentielles au titre de la protection du secret industriel et commercial - Sec**** : données confidentielles au titre de la préservation de la sécurité des biens et des personnes",
-    "UALITE": 41,
+    "QUALITE": 41,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -11451,7 +11451,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "RPD : Réseau public de distribution - DCP* : données confidentielles au titre de la réglementation relative à la protection des Informations Commercialement Sensibles - ICS** : données confidentielles au titre de la protection des Données à Caractère Personnel, conformément aux lois Informatique et Libertés - Indus***. : données confidentielles au titre de la protection du secret industriel et commercial - Sec**** : données confidentielles au titre de la préservation de la sécurité des biens et des personnes",
-    "UALITE": 44,
+    "QUALITE": 44,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -11483,7 +11483,7 @@
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "RPD : Réseau public de distribution - DCP* : données confidentielles au titre de la réglementation relative à la protection des Informations Commercialement Sensibles - ICS** : données confidentielles au titre de la protection des Données à Caractère Personnel, conformément aux lois Informatique et Libertés - Indus***. : données confidentielles au titre de la protection du secret industriel et commercial - Sec**** : données confidentielles au titre de la préservation de la sécurité des biens et des personnes",
-    "UALITE": 41,
+    "QUALITE": 41,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -11515,7 +11515,7 @@
     "PERIODICITE": "",
     "NOMBRE": 42,
     "OBS": "https://data.erdf.fr",
-    "UALITE": 48,
+    "QUALITE": 48,
     "QUALITE_OPENDATA": 3,
     "DATEMAJ": "27/02/2017"
   },
@@ -11547,7 +11547,7 @@
     "PERIODICITE": "",
     "NOMBRE": 50,
     "OBS": "https://data.erdf.fr",
-    "UALITE": 48,
+    "QUALITE": 48,
     "QUALITE_OPENDATA": 3,
     "DATEMAJ": "27/02/2017"
   },
@@ -11579,7 +11579,7 @@
     "PERIODICITE": "",
     "NOMBRE": 72,
     "OBS": "https://data.erdf.fr",
-    "UALITE": 48,
+    "QUALITE": 48,
     "QUALITE_OPENDATA": 3,
     "DATEMAJ": "27/02/2017"
   },
@@ -11611,7 +11611,7 @@
     "PERIODICITE": "",
     "NOMBRE": 50,
     "OBS": "https://data.erdf.fr",
-    "UALITE": 48,
+    "QUALITE": 48,
     "QUALITE_OPENDATA": 3,
     "DATEMAJ": "27/02/2017"
   },
@@ -11643,7 +11643,7 @@
     "PERIODICITE": "",
     "NOMBRE": 24,
     "OBS": "https://data.erdf.fr",
-    "UALITE": 48,
+    "QUALITE": 48,
     "QUALITE_OPENDATA": 3,
     "DATEMAJ": "27/02/2017"
   },
@@ -11675,7 +11675,7 @@
     "PERIODICITE": "",
     "NOMBRE": 1827,
     "OBS": "https://data.erdf.fr",
-    "UALITE": 48,
+    "QUALITE": 48,
     "QUALITE_OPENDATA": 3,
     "DATEMAJ": "27/02/2017"
   },
@@ -11707,7 +11707,7 @@
     "PERIODICITE": "",
     "NOMBRE": 87696,
     "OBS": "https://data.erdf.fr",
-    "UALITE": 48,
+    "QUALITE": 48,
     "QUALITE_OPENDATA": 3,
     "DATEMAJ": "27/02/2017"
   },
@@ -11739,7 +11739,7 @@
     "PERIODICITE": "",
     "NOMBRE": 87696,
     "OBS": "https://data.erdf.fr",
-    "UALITE": 48,
+    "QUALITE": 48,
     "QUALITE_OPENDATA": 3,
     "DATEMAJ": "27/02/2017"
   },
@@ -11771,7 +11771,7 @@
     "PERIODICITE": "",
     "NOMBRE": 71,
     "OBS": "https://data.erdf.fr",
-    "UALITE": 48,
+    "QUALITE": 48,
     "QUALITE_OPENDATA": 3,
     "DATEMAJ": "27/02/2017"
   },
@@ -11803,7 +11803,7 @@
     "PERIODICITE": "",
     "NOMBRE": 7,
     "OBS": "https://data.erdf.fr",
-    "UALITE": 48,
+    "QUALITE": 48,
     "QUALITE_OPENDATA": 3,
     "DATEMAJ": "27/02/2017"
   },
@@ -11835,7 +11835,7 @@
     "PERIODICITE": "",
     "NOMBRE": 3,
     "OBS": "https://data.erdf.fr",
-    "UALITE": 48,
+    "QUALITE": 48,
     "QUALITE_OPENDATA": 3,
     "DATEMAJ": "27/02/2017"
   },
@@ -11867,7 +11867,7 @@
     "PERIODICITE": "",
     "NOMBRE": 10,
     "OBS": "https://data.erdf.fr",
-    "UALITE": 48,
+    "QUALITE": 48,
     "QUALITE_OPENDATA": 3,
     "DATEMAJ": "27/02/2017"
   },
@@ -11899,7 +11899,7 @@
     "PERIODICITE": "",
     "NOMBRE": 87696,
     "OBS": "https://data.erdf.fr",
-    "UALITE": 48,
+    "QUALITE": 48,
     "QUALITE_OPENDATA": 3,
     "DATEMAJ": "27/02/2017"
   },
@@ -11931,7 +11931,7 @@
     "PERIODICITE": "",
     "NOMBRE": 9,
     "OBS": "https://data.erdf.fr",
-    "UALITE": 48,
+    "QUALITE": 48,
     "QUALITE_OPENDATA": 3,
     "DATEMAJ": "27/02/2017"
   },
@@ -11963,7 +11963,7 @@
     "PERIODICITE": "",
     "NOMBRE": 7308,
     "OBS": "https://data.erdf.fr",
-    "UALITE": 48,
+    "QUALITE": 48,
     "QUALITE_OPENDATA": 3,
     "DATEMAJ": "27/02/2017"
   },
@@ -11995,7 +11995,7 @@
     "PERIODICITE": "",
     "NOMBRE": 2,
     "OBS": "",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -12027,7 +12027,7 @@
     "PERIODICITE": "",
     "NOMBRE": 880,
     "OBS": "",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -12059,7 +12059,7 @@
     "PERIODICITE": "",
     "NOMBRE": 1643,
     "OBS": "",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -12091,7 +12091,7 @@
     "PERIODICITE": "",
     "NOMBRE": 1,
     "OBS": "",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -12123,7 +12123,7 @@
     "PERIODICITE": "",
     "NOMBRE": 1,
     "OBS": "",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -12155,7 +12155,7 @@
     "PERIODICITE": "",
     "NOMBRE": 1,
     "OBS": "",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -12187,7 +12187,7 @@
     "PERIODICITE": "",
     "NOMBRE": 5900,
     "OBS": "",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -12219,7 +12219,7 @@
     "PERIODICITE": "",
     "NOMBRE": 559,
     "OBS": "",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -12251,7 +12251,7 @@
     "PERIODICITE": "",
     "NOMBRE": 365,
     "OBS": "",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -12283,7 +12283,7 @@
     "PERIODICITE": "",
     "NOMBRE": 1550,
     "OBS": "",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -12315,7 +12315,7 @@
     "PERIODICITE": "",
     "NOMBRE": 454,
     "OBS": "",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -12347,7 +12347,7 @@
     "PERIODICITE": "",
     "NOMBRE": 10,
     "OBS": "",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -12379,7 +12379,7 @@
     "PERIODICITE": "",
     "NOMBRE": 6319,
     "OBS": "",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -12411,7 +12411,7 @@
     "PERIODICITE": "",
     "NOMBRE": 17,
     "OBS": "",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -12443,7 +12443,7 @@
     "PERIODICITE": "",
     "NOMBRE": 47758,
     "OBS": "",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -12475,7 +12475,7 @@
     "PERIODICITE": "",
     "NOMBRE": 6,
     "OBS": "",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -12507,7 +12507,7 @@
     "PERIODICITE": "",
     "NOMBRE": 10,
     "OBS": "",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -12539,7 +12539,7 @@
     "PERIODICITE": "",
     "NOMBRE": 34,
     "OBS": "",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -12571,7 +12571,7 @@
     "PERIODICITE": "",
     "NOMBRE": 1,
     "OBS": "",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -12603,7 +12603,7 @@
     "PERIODICITE": "",
     "NOMBRE": 812.32,
     "OBS": "",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -12635,7 +12635,7 @@
     "PERIODICITE": "",
     "NOMBRE": 15,
     "OBS": "",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -12667,7 +12667,7 @@
     "PERIODICITE": "",
     "NOMBRE": 3,
     "OBS": "",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -12699,7 +12699,7 @@
     "PERIODICITE": "",
     "NOMBRE": 76,
     "OBS": "",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -12731,7 +12731,7 @@
     "PERIODICITE": "",
     "NOMBRE": 80,
     "OBS": "",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -12763,7 +12763,7 @@
     "PERIODICITE": "",
     "NOMBRE": 22,
     "OBS": "",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -12795,7 +12795,7 @@
     "PERIODICITE": "",
     "NOMBRE": 218,
     "OBS": "",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -12827,7 +12827,7 @@
     "PERIODICITE": "",
     "NOMBRE": 16,
     "OBS": "",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -12859,7 +12859,7 @@
     "PERIODICITE": "",
     "NOMBRE": 755.989,
     "OBS": "",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -12891,7 +12891,7 @@
     "PERIODICITE": "",
     "NOMBRE": 57,
     "OBS": "",
-    "UALITE": 33,
+    "QUALITE": 33,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -12923,7 +12923,7 @@
     "PERIODICITE": "",
     "NOMBRE": 10,
     "OBS": "",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -12955,7 +12955,7 @@
     "PERIODICITE": "",
     "NOMBRE": 1455,
     "OBS": "",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -12987,7 +12987,7 @@
     "PERIODICITE": "",
     "NOMBRE": 3032,
     "OBS": "",
-    "UALITE": 30,
+    "QUALITE": 30,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -13019,7 +13019,7 @@
     "PERIODICITE": "",
     "NOMBRE": 2980,
     "OBS": "",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -13051,7 +13051,7 @@
     "PERIODICITE": "",
     "NOMBRE": 19,
     "OBS": "",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -13083,7 +13083,7 @@
     "PERIODICITE": "",
     "NOMBRE": 507,
     "OBS": "",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -13115,7 +13115,7 @@
     "PERIODICITE": "",
     "NOMBRE": 55,
     "OBS": "",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -13147,7 +13147,7 @@
     "PERIODICITE": "",
     "NOMBRE": 5,
     "OBS": "",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -13179,7 +13179,7 @@
     "PERIODICITE": "",
     "NOMBRE": 50,
     "OBS": "",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -13211,7 +13211,7 @@
     "PERIODICITE": "",
     "NOMBRE": 55,
     "OBS": "",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -13243,7 +13243,7 @@
     "PERIODICITE": "",
     "NOMBRE": 84,
     "OBS": "",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -13275,7 +13275,7 @@
     "PERIODICITE": "",
     "NOMBRE": 225,
     "OBS": "",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -13307,7 +13307,7 @@
     "PERIODICITE": "",
     "NOMBRE": 30,
     "OBS": "",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -13339,7 +13339,7 @@
     "PERIODICITE": "",
     "NOMBRE": 20,
     "OBS": "",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -13371,7 +13371,7 @@
     "PERIODICITE": "",
     "NOMBRE": 320,
     "OBS": "",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -13403,7 +13403,7 @@
     "PERIODICITE": "",
     "NOMBRE": 516,
     "OBS": "",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -13435,7 +13435,7 @@
     "PERIODICITE": "",
     "NOMBRE": 76.445,
     "OBS": "",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -13467,7 +13467,7 @@
     "PERIODICITE": "",
     "NOMBRE": 687.454,
     "OBS": "",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -13499,7 +13499,7 @@
     "PERIODICITE": "",
     "NOMBRE": 151,
     "OBS": "",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -13531,7 +13531,7 @@
     "PERIODICITE": "",
     "NOMBRE": 14,
     "OBS": "",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -13563,7 +13563,7 @@
     "PERIODICITE": "",
     "NOMBRE": 44,
     "OBS": "",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -13595,7 +13595,7 @@
     "PERIODICITE": "",
     "NOMBRE": 1,
     "OBS": "",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -13627,7 +13627,7 @@
     "PERIODICITE": "",
     "NOMBRE": 22,
     "OBS": "",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -13659,7 +13659,7 @@
     "PERIODICITE": "",
     "NOMBRE": 22,
     "OBS": "",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -13691,7 +13691,7 @@
     "PERIODICITE": "",
     "NOMBRE": 1.176,
     "OBS": "",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -13723,7 +13723,7 @@
     "PERIODICITE": "",
     "NOMBRE": 9.652,
     "OBS": "",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -13755,7 +13755,7 @@
     "PERIODICITE": "",
     "NOMBRE": 1,
     "OBS": "",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -13787,7 +13787,7 @@
     "PERIODICITE": "",
     "NOMBRE": 508,
     "OBS": "",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -13819,7 +13819,7 @@
     "PERIODICITE": "",
     "NOMBRE": 88,
     "OBS": "",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -13851,7 +13851,7 @@
     "PERIODICITE": "",
     "NOMBRE": 1,
     "OBS": "",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -13883,7 +13883,7 @@
     "PERIODICITE": "",
     "NOMBRE": 264,
     "OBS": "",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -13915,7 +13915,7 @@
     "PERIODICITE": "",
     "NOMBRE": 69,
     "OBS": "",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -13947,7 +13947,7 @@
     "PERIODICITE": "",
     "NOMBRE": 379,
     "OBS": "",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -13979,7 +13979,7 @@
     "PERIODICITE": "",
     "NOMBRE": 26,
     "OBS": "",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -14011,7 +14011,7 @@
     "PERIODICITE": "",
     "NOMBRE": 401,
     "OBS": "",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -14043,7 +14043,7 @@
     "PERIODICITE": "",
     "NOMBRE": 18,
     "OBS": "",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -14075,7 +14075,7 @@
     "PERIODICITE": "",
     "NOMBRE": 10,
     "OBS": "",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -14107,7 +14107,7 @@
     "PERIODICITE": "",
     "NOMBRE": 25,
     "OBS": "",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -14139,7 +14139,7 @@
     "PERIODICITE": "",
     "NOMBRE": 11,
     "OBS": "",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -14171,7 +14171,7 @@
     "PERIODICITE": "",
     "NOMBRE": 108,
     "OBS": "",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -14203,7 +14203,7 @@
     "PERIODICITE": "",
     "NOMBRE": 19,
     "OBS": "",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -14235,7 +14235,7 @@
     "PERIODICITE": "",
     "NOMBRE": 10,
     "OBS": "",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -14267,7 +14267,7 @@
     "PERIODICITE": "",
     "NOMBRE": 11,
     "OBS": "",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -14299,7 +14299,7 @@
     "PERIODICITE": "",
     "NOMBRE": 273,
     "OBS": "",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -14331,7 +14331,7 @@
     "PERIODICITE": "",
     "NOMBRE": 88,
     "OBS": "",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -14363,7 +14363,7 @@
     "PERIODICITE": "",
     "NOMBRE": 295,
     "OBS": "",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -14395,7 +14395,7 @@
     "PERIODICITE": "",
     "NOMBRE": 505,
     "OBS": "",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -14427,7 +14427,7 @@
     "PERIODICITE": "",
     "NOMBRE": 20,
     "OBS": "",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -14459,7 +14459,7 @@
     "PERIODICITE": "",
     "NOMBRE": 1,
     "OBS": "",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -14491,7 +14491,7 @@
     "PERIODICITE": "",
     "NOMBRE": 1,
     "OBS": "",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -14523,7 +14523,7 @@
     "PERIODICITE": "",
     "NOMBRE": 5,
     "OBS": "",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -14555,7 +14555,7 @@
     "PERIODICITE": "",
     "NOMBRE": 30,
     "OBS": "",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   },
@@ -14587,7 +14587,7 @@
     "PERIODICITE": "",
     "NOMBRE": 14,
     "OBS": "",
-    "UALITE": 26,
+    "QUALITE": 26,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "27/02/2017"
   }
