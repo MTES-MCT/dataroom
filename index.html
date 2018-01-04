@@ -63,7 +63,7 @@
     </div>
     <div class="row center aligned container">
       <div class="sixteen wide column">
-        <span class="text-muted small">© 2017 - Ministère de l'Environnement, de l'Energie et de la Mer - Ministère du Logement et de l'Habitat Durable</span>
+        <span class="text-muted small">© 2017 - Ministère de la Transition Ecologique et Solidaire - Ministère de la Cohésion des territoires</span>
       </div>
     </div>
   </body>
@@ -72,10 +72,8 @@
   <script id="data-template" type="text/html">
     <div class="ui raised segment">
       <p class="ui blue ribbon label"><%= NOM_BASE %></p>
-          <div class="ui tiny basic icon buttons compact">
-            <button class="ui button orange"><a href="mailto:soes-webdata-contact@developpement-durable.gouv.fr?subject=(dataroom) anomalie signalée sur la source de donnée <%= NOM_BASE %>&body=Bonjour,%0A%0AMerci de bien vouloir prendre en compte les modifications suivantes%0A%0ADescription%20longue%0ACouverture%20géographique%0AProfondeur%20temporelle%0AElément de volumétrie%0AEffort pour accéder aux données dans le SI%0ASensibilité des données%0ANiveau de diffusion publique actuelle%0APerspective opendata%0ALien vers les données%0ALicence%0AFormat des données%0APériodicité"><i class="mail orange icon"></i> Signaler une anomalie</a></button>
-            <% if(URL_DATA) { %><button class="ui button"><a target="_blank" href="<%= URL_DATA %>"><i class="external square blue icon"></i> Accès aux données</a></button><% } %>
-          </div>
+		<a href="mailto:soes-webdata-contact@developpement-durable.gouv.fr"><i class="mail orange icon"></i> Signaler une anomalie</a>&nbsp;&nbsp;
+		<% if(URL_DATA) { %><a target="_blank" href="<%= URL_DATA %>"><i class="external square blue icon"></i> Accès aux données</a><% } %>
           <div class="ui label <%= qualcolor(QUALITE) %>" data-tooltip="Complétude des informations" data-position="top center"><i class="dashboard icon"></i><%= QUALITE %>%</div>
           <div class="ui basic label" data-tooltip="Échelle de qualité des données ouvertes de Tim Berners-Lee" data-position="top center"><% for (index=0;index<QUALITE_OPENDATA;++index) { %>★<% } %></div>
       <p><%= DESCRIPTIF_COURT %></p>
