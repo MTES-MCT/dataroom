@@ -1,4 +1,4 @@
-# DataRoom - Inventaire des données détenues ou produites par le MTES & le MCT
+# DataRoom - Inventaire des données détenues ou produites par le MTES & le MCTRCT
 
 cvstojson to generate json from cvs.
 
@@ -33,3 +33,7 @@ cvstojson to generate json from cvs.
 
 24/03/2017
 * Première version de l'inventaire et de l'interface
+
+02/01/2019
+* Montée de version de JQuery et de Mustache
+* Mise en qualité des jeux de données référencés
