@@ -12,6 +12,7 @@ $(document).ready(function() {
     if (day.length < 2) day = '0' + day;
     return `${day}/${month}/${year}`;
   }
+  
   var arr = $.map(mydata, function(o) {
     return toDate(o['DATEMAJ']);
   });
