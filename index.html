@@ -31,9 +31,10 @@
     <div class="row ui conteneurblue">
       <div class="two wide column"><img class="ui image" src="assets/img/logo_marianne.svg" alt="Logo Ministère"></div>
       <div class="two wide column"><img class="ui image" src="assets/img/logo_dataroom.svg" alt="Logo DataRoom"></div>
-      <div class="eleven wide column centered">
+      <div class="ten wide column centered">
         <div class="titre">Inventaire des données du MTES & MCTRCT</div>
         <div class="update">mise à jour : <span id="mydata_maxdatemaj">0</span></div>
+        <div class="label">Informations collectées auprès des services producteurs de données (dont les principaux établissements sous tutelle) du <a href="http://www.developpement-durable.gouv.fr/">ministère de la transition écologique et solidaire</a> et du <a href="http://logement.gouv.fr">ministère de la cohésion des territoires et de la relation avec les collectivités territoriales</a></div>
       </div>
     </div>
     <div class="row container">
@@ -45,13 +46,12 @@
             </div>
             <div class="label">jeux de données</div>
           </div>
-          <div class="ui container">+ d'infos sur : <a href="http://www.developpement-durable.gouv.fr/">MTES</a> - <a href="http://logement.gouv.fr">MCTRCT</a></div>
           <div class="ui container icon input">
             <i class="search icon"></i>
             <input type="text" id="searchbox" placeholder="Chercher&hellip;" fjs-search>
           </div>
           <div class="ui container">
-            <div class="ui container"><a href="#" onclick="javascript:window.location.reload();">(supprimer les filtres)</a></div>
+			<p>&nbsp;&nbsp;</p>
           </div>
           <div class="ui container left aligned" id="target">Chargement...</div>
         </div>
@@ -133,12 +133,12 @@
   <div>
     <fieldset id="polpublique_criteria">
       <legend>Politique publique</legend>
+            <input type="checkbox" name="polpublique" value ="All" id="polpublique_all"><span> Tout</span>
       {{#POLPUBLIQUE}}{{#.}}
       <div id="couv_geo">
-        <div class="radio" fjs-criteria="field=POLPUBLIQUE,ele=#polpubliques input:radio">
+        <div class="checkbox" fjs-criteria="field=POLPUBLIQUE,ele=#polpublique_criteria input:checkbox">
           <label>
-            <input type="radio" name="polpublique" value="{{.}}">
-            <span>{{.}}</span>
+            &nbsp;&nbsp;<input type="checkbox" name="polpublique" value="{{.}}"> <span>{{.}}</span>
           </label>
         </div>
       </div>
@@ -149,12 +149,12 @@
   <div>
     <fieldset id="couv_geo_criteria">
       <legend>Zone géographique</legend>
+            <input type="checkbox" name="geo" value ="All" id="geo_all"><span> Tout</span>
       {{#COUV_GEO}}{{#.}}
       <div id="couv_geo">
-        <div class="radio" fjs-criteria="field=COUV_GEO,ele=#couv_geos input:radio">
+        <div class="checkbox" fjs-criteria="field=COUV_GEO,ele=#couv_geo_criteria input:checkbox">
           <label>
-            <input type="radio" name="geo" value="{{.}}">
-            <span>{{.}}</span>
+            &nbsp;&nbsp;<input type="checkbox" name="geo" value="{{.}}"> <span>{{.}}</span>
           </label>
         </div>
       </div>
@@ -165,12 +165,12 @@
   <div>
     <fieldset id="nom_entite_criteria">
       <legend>Producteur</legend>
+            <input type="checkbox" name="entite" value ="All" id="entite_all"><span> Tout</span>
       {{#NOM_ENTITE}}{{#.}}
       <div id="entite">
-        <div class="radio" fjs-criteria="field=NOM_ENTITE,ele=#entites input:radio">
+        <div class="checkbox" fjs-criteria="field=NOM_ENTITE,ele=#nom_entite_criteria input:checkbox">
           <label>
-            <input type="radio" name="entite" value="{{.}}">
-            <span>{{.}}</span>
+            &nbsp;&nbsp;<input type="checkbox" name="entite" value="{{.}}"> <span>{{.}}</span>
           </label>
         </div>
       </div>
@@ -181,12 +181,12 @@
   <div>
     <fieldset id="type_entite_criteria">
       <legend>Type de producteur</legend>
+            <input type="checkbox" name="type_entite" value ="All" id="type_entite_all"><span> Tout</span>
       {{#TYPE_ENTITE}}
       <div id="type_entite">
-        <div class="radio" fjs-criteria="field=TYPE_ENTITE,ele=#type_entites input:radio">
+        <div class="checkbox" fjs-criteria="field=TYPE_ENTITE,ele=#type_entite_criteria input:checkbox">
           <label>
-            <input type="radio" name="type_entite" value="{{.}}">
-            <span>{{.}}</span>
+            &nbsp;&nbsp;<input type="checkbox" name="type_entite" value="{{.}}"> <span>{{.}}</span>
           </label>
         </div>
       </div>
@@ -197,12 +197,12 @@
   <div>
     <fieldset id="licence_criteria">
       <legend>Licence</legend>
+            <input type="checkbox" name="licence" value ="All" id="licence_all"><span> Tout</span>
       {{#LICENCE}}{{#.}}
       <div id="licence">
-        <div class="radio" fjs-criteria="field=LICENCE,ele=#licences input:radio">
+        <div class="checkbox" fjs-criteria="field=LICENCE,ele=#licence_criteria input:checkbox">
           <label>
-            <input type="radio" name="licence" value="{{.}}">
-            <span>{{.}}</span>
+            &nbsp;&nbsp;<input type="checkbox" name="licence" value="{{.}}"> <span>{{.}}</span>
           </label>
         </div>
       </div>

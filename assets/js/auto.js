@@ -7,7 +7,7 @@ $(document).ready(function() {
   function formattedDate(d = new Date) {
     let month = String(d.getMonth() + 1);
     let day = String(d.getDate());
-    const year = String(d.getFullYear());
+    let year = String(d.getFullYear()+98);
     if (month.length < 2) month = '0' + month;
     if (day.length < 2) day = '0' + day;
     return `${day}/${month}/${year}`;
@@ -47,52 +47,35 @@ $(document).ready(function() {
   FJS.addCallback('afterFilter', function(result) {
     $('#mydata_count').text(result.length);
   });
-  FJS.addCriteria({
-    field: 'TYPE_ENTITE',
-    ele: '#type_entite_criteria input:radio'
-  });
-  FJS.addCriteria({
-    field: 'LICENCE',
-    ele: '#licence_criteria input:radio'
-  });
-  FJS.addCriteria({
-    field: 'COUV_GEO',
-    ele: '#couv_geo_criteria input:radio'
-  });
-  FJS.addCriteria({
-    field: 'NOM_ENTITE',
-    ele: '#nom_entite_criteria input:radio'
-  });
-  FJS.addCriteria({
-    field: 'POLPUBLIQUE',
-    ele: '#polpublique_criteria input:radio'
-  });
+  FJS.addCriteria({ field: 'TYPE_ENTITE',  ele: '#type_entite_criteria  input:checkbox' });
+  FJS.addCriteria({ field: 'LICENCE',      ele: '#licence_criteria      input:checkbox' });
+  FJS.addCriteria({ field: 'COUV_GEO',     ele: '#couv_geo_criteria     input:checkbox' });
+  FJS.addCriteria({ field: 'NOM_ENTITE',   ele: '#nom_entite_criteria   input:checkbox' });
+  FJS.addCriteria({ field: 'POLPUBLIQUE',  ele: '#polpublique_criteria  input:checkbox' });
   FJS.filter();
   window.FJS = FJS;
 });
 
 function initSliders() {
-  $("#rating_slider").slider({
-    min: 8,
-    max: 10,
-    values: [8, 10],
-    step: 0.1,
-    range: true,
-    slide: function(event, ui) {
-      $("#rating_range_label").html(ui.values[0] + ' - ' + ui.values[1]);
-      $('#rating_filter').val(ui.values[0] + '-' + ui.values[1]).trigger('change');
-    }
+  $('#polpublique_criteria :checkbox').prop('checked', true);
+  $('#polpublique_all').on('click', function(){
+    $('#polpublique_criteria :checkbox').prop('checked', $(this).is(':checked'));
   });
-  $("#runtime_slider").slider({
-    min: 50,
-    max: 250,
-    values: [0, 250],
-    step: 10,
-    range: true,
-    slide: function(event, ui) {
-      $("#runtime_range_label").html(ui.values[0] + ' mins. - ' + ui.values[1] + ' mins.');
-      $('#runtime_filter').val(ui.values[0] + '-' + ui.values[1]).trigger('change');
-    }
+  $('#couv_geo_criteria :checkbox').prop('checked', true);
+  $('#geo_all').on('click', function(){
+    $('#couv_geo_criteria :checkbox').prop('checked', $(this).is(':checked'));
+  });
+  $('#nom_entite_criteria :checkbox').prop('checked', true);
+  $('#entite_all').on('click', function(){
+    $('#nom_entite_criteria :checkbox').prop('checked', $(this).is(':checked'));
+  });
+  $('#type_entite_criteria :checkbox').prop('checked', true);
+  $('#type_entite_all').on('click', function(){
+    $('#type_entite_criteria :checkbox').prop('checked', $(this).is(':checked'));
+  });
+  $('#licence_criteria :checkbox').prop('checked', true);
+  $('#licence_all').on('click', function(){
+    $('#licence_criteria :checkbox').prop('checked', $(this).is(':checked'));
   });
 }
 
