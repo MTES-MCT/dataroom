@@ -10,7 +10,9 @@
 
 * Remplacer les noms des colonnes par la liste ci-dessous
 
-* Convertir le CSV en JSON 
+* Vérifier que le fichier est au format UTF8 (avec NotePad++). Le convertir si besoin.
+
+* Convertir le CSV en JSON
 
 * Copier-coller le JSON dans le fichier data.json
 
