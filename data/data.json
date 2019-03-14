@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "TYPE_ENTITE": "Établissement public",
     "NOM_ENTITE": "ADEME",
@@ -17,12 +17,12 @@
     "MOE": "ADEME",
     "EFFORT_EXPORT": "",
     "CONFIDENTIALITE": "Accès public sous réserve d'inscription et d'acceptation de la licence",
-    "SENSIBILITE": "",
+    "SENSIBILITE": "Sensibilité des données",
     "STATUT_OPENDATA": "Non",
     "PERSP_OPENDATA": "Non",
     "DIFFUSION_ACTUELLE": "Accès public sous réserve d'inscription et d'acceptation de la licence",
     "EFFORT_REUSE": "",
-    "URL_DATA": "www.base-impacts.ademe.fr",
+    "URL_DATA": "http://www.base-impacts.ademe.fr",
     "LICENCE": "Licence d'utilisation préalable",
     "FORMATS": "Non précisé",
     "PERIODICITE": "",
@@ -393,7 +393,7 @@
     "OBS": "base de données",
     "QUALITE": 74,
     "QUALITE_OPENDATA": "",
-    "DATEMAJ": "7/1/18"
+    "DATEMAJ": ""
   },
   {
     "TYPE_ENTITE": "Établissement public",
@@ -426,7 +426,7 @@
     "OBS": "",
     "QUALITE": 67,
     "QUALITE_OPENDATA": "",
-    "DATEMAJ": "7/1/18"
+    "DATEMAJ": ""
   },
   {
     "TYPE_ENTITE": "Établissement public",
@@ -550,7 +550,7 @@
     "PERSP_OPENDATA": "(non pertinent)",
     "DIFFUSION_ACTUELLE": "",
     "EFFORT_REUSE": "",
-    "URL_DATA": "Service de consultation\nhttp://www.panache.eu.com/accueil_panache\nhttp://www.mpa.ospar.org \nhttp://www.maia-network.org/accueil\n\nhttp://cartographie.aires-marines.fr/?q=node/15",
+    "URL_DATA": "http://www.panache.eu.com/accueil_panache",
     "LICENCE": "Licence ouverte / Open Data Commons Open Database License (ODbL)",
     "FORMATS": "WFS ; WMS",
     "PERIODICITE": "",
@@ -682,13 +682,13 @@
     "PERSP_OPENDATA": "(non pertinent)",
     "DIFFUSION_ACTUELLE": "Données détaillées",
     "EFFORT_REUSE": "",
-    "URL_DATA": "http://www.sandre.eaufrance.fr/atlas/srv/fre/catalog.search#/metadata/49c7c071-7afb-4ff3-a00b-81af7425045f",
+    "URL_DATA": "",
     "LICENCE": "Licence ouverte / Open Data Commons Open Database License (ODbL)",
     "FORMATS": "WMS ; WFS ; WPS",
     "PERIODICITE": "Annuelle",
     "NOMBRE": "",
     "OBS": "Est-ce un doublon avec la BDCathage de l'IGN ?",
-    "QUALITE": 74,
+    "QUALITE": 70,
     "QUALITE_OPENDATA": 1,
     "DATEMAJ": "2/27/17"
   },
@@ -808,7 +808,7 @@
     "SOCLE_TECH": "catalogue ISO 19115; http://cartographie.aires-marines.fr/geosource/apps/search/?hl=fre&extent=-550000;5000000;1200000;7000000",
     "MOE": "",
     "EFFORT_EXPORT": "",
-    "CONFIDENTIALITE": "Données communicables au public; pour la plupart",
+    "CONFIDENTIALITE": "Données communicables au public pour la plupart",
     "SENSIBILITE": "",
     "STATUT_OPENDATA": "Oui",
     "PERSP_OPENDATA": "(non pertinent)",
@@ -1944,7 +1944,7 @@
     "OBS": "",
     "QUALITE": 56,
     "QUALITE_OPENDATA": "",
-    "DATEMAJ": "7/1/18"
+    "DATEMAJ": ""
   },
   {
     "TYPE_ENTITE": "Établissement public",
@@ -2175,7 +2175,7 @@
     "OBS": "",
     "QUALITE": 67,
     "QUALITE_OPENDATA": "",
-    "DATEMAJ": "7/1/18"
+    "DATEMAJ": ""
   },
   {
     "TYPE_ENTITE": "Établissement public",
@@ -2373,7 +2373,7 @@
     "OBS": "",
     "QUALITE": 44,
     "QUALITE_OPENDATA": "",
-    "DATEMAJ": "7/1/18"
+    "DATEMAJ": ""
   },
   {
     "TYPE_ENTITE": "Établissement public",
@@ -2710,7 +2710,7 @@
     "NOM_ENTITE": "BRGM",
     "NOM_BASE": "ADES",
     "DESCRIPTIF_COURT": "Accès aux Données sur les Eaux Souterraines",
-    "DESCRIPTIF_LONG": "il s'agit d'une banque nationale d’accès aux données sur les eaux souterraines qui rassemble sur un site internet public des données quantitatives et qualitatives relatives aux eaux souterraines.\n\nwww.ades.eaufrance.fr",
+    "DESCRIPTIF_LONG": "il s'agit d'une banque nationale d’accès aux données sur les eaux souterraines qui rassemble sur un site internet public des données quantitatives et qualitatives relatives aux eaux souterraines.",
     "POLPUBLIQUE": "Eau",
     "STATUT": "Non vérifié",
     "MOTS_CLEFS": "eau souterraine",
@@ -2901,7 +2901,7 @@
     "OBS": "",
     "QUALITE": 41,
     "QUALITE_OPENDATA": "",
-    "DATEMAJ": "7/1/18"
+    "DATEMAJ": ""
   },
   {
     "TYPE_ENTITE": "Établissement public",
@@ -3132,7 +3132,7 @@
     "OBS": "",
     "QUALITE": 56,
     "QUALITE_OPENDATA": "",
-    "DATEMAJ": "7/1/18"
+    "DATEMAJ": ""
   },
   {
     "TYPE_ENTITE": "Établissement public",
@@ -3165,7 +3165,7 @@
     "OBS": "",
     "QUALITE": 59,
     "QUALITE_OPENDATA": "",
-    "DATEMAJ": "7/1/18"
+    "DATEMAJ": ""
   },
   {
     "TYPE_ENTITE": "Établissement public",
@@ -3363,7 +3363,7 @@
     "OBS": "",
     "QUALITE": 59,
     "QUALITE_OPENDATA": "",
-    "DATEMAJ": "7/1/18"
+    "DATEMAJ": ""
   },
   {
     "TYPE_ENTITE": "Établissement public",
@@ -3594,7 +3594,7 @@
     "OBS": "",
     "QUALITE": 59,
     "QUALITE_OPENDATA": "",
-    "DATEMAJ": "7/1/18"
+    "DATEMAJ": ""
   },
   {
     "TYPE_ENTITE": "Établissement public",
@@ -3627,7 +3627,7 @@
     "OBS": "",
     "QUALITE": 56,
     "QUALITE_OPENDATA": "",
-    "DATEMAJ": "7/1/18"
+    "DATEMAJ": ""
   },
   {
     "TYPE_ENTITE": "Établissement public",
@@ -3726,7 +3726,7 @@
     "OBS": "",
     "QUALITE": 52,
     "QUALITE_OPENDATA": "",
-    "DATEMAJ": "7/1/18"
+    "DATEMAJ": ""
   },
   {
     "TYPE_ENTITE": "Établissement public",
@@ -3792,7 +3792,7 @@
     "OBS": "",
     "QUALITE": 48,
     "QUALITE_OPENDATA": "",
-    "DATEMAJ": "7/1/18"
+    "DATEMAJ": ""
   },
   {
     "TYPE_ENTITE": "Établissement public",
@@ -3825,7 +3825,7 @@
     "OBS": "",
     "QUALITE": 44,
     "QUALITE_OPENDATA": "",
-    "DATEMAJ": "7/1/18"
+    "DATEMAJ": ""
   },
   {
     "TYPE_ENTITE": "Établissement public",
@@ -3858,7 +3858,7 @@
     "OBS": "",
     "QUALITE": 56,
     "QUALITE_OPENDATA": "",
-    "DATEMAJ": "7/1/18"
+    "DATEMAJ": ""
   },
   {
     "TYPE_ENTITE": "Établissement public",
@@ -3891,7 +3891,7 @@
     "OBS": "",
     "QUALITE": 56,
     "QUALITE_OPENDATA": "",
-    "DATEMAJ": "7/1/18"
+    "DATEMAJ": ""
   },
   {
     "TYPE_ENTITE": "Établissement public",
@@ -3924,7 +3924,7 @@
     "OBS": "",
     "QUALITE": 56,
     "QUALITE_OPENDATA": "",
-    "DATEMAJ": "7/1/18"
+    "DATEMAJ": ""
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -4114,7 +4114,7 @@
     "PERSP_OPENDATA": "(non pertinent)",
     "DIFFUSION_ACTUELLE": "Données détaillées",
     "EFFORT_REUSE": "Simple",
-    "URL_DATA": "http://www.statistiques.developpement-durable.gouv.fr/donnees-ligne/li/1825.html",
+    "URL_DATA": "https://www.statistiques.developpement-durable.gouv.fr/donnees-doccupation-des-sols?rubrique=348",
     "LICENCE": "Licence ouverte / Open Data Commons Open Database License (ODbL)",
     "FORMATS": "WMS ; WMTS",
     "PERIODICITE": "Tous les quatre ans",
@@ -4708,7 +4708,7 @@
     "PERSP_OPENDATA": "(non pertinent)",
     "DIFFUSION_ACTUELLE": "Données agrégées à la commune",
     "EFFORT_REUSE": "Simple",
-    "URL_DATA": "http://www.statistiques.developpement-durable.gouv.fr/cartographie/ar/cartographie-interactive-geoidd-france.html",
+    "URL_DATA": "https://www.statistiques.developpement-durable.gouv.fr/cartographie-dynamique-geoidd",
     "LICENCE": "Licence ouverte / Open Data Commons Open Database License (ODbL)",
     "FORMATS": "TJS ; XLS ; CSV",
     "PERIODICITE": "Annuelle",
@@ -5376,7 +5376,7 @@
     "OBS": "base de données\nIntranet (accès uniquement en interne)",
     "QUALITE": 63,
     "QUALITE_OPENDATA": "",
-    "DATEMAJ": "7/1/18"
+    "DATEMAJ": ""
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -5409,7 +5409,7 @@
     "OBS": "base de données\nIntranet (accès uniquement en interne)",
     "QUALITE": 63,
     "QUALITE_OPENDATA": "",
-    "DATEMAJ": "7/1/18"
+    "DATEMAJ": ""
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -5442,7 +5442,7 @@
     "OBS": "base de données\nIntranet (accès uniquement en interne)",
     "QUALITE": 63,
     "QUALITE_OPENDATA": "",
-    "DATEMAJ": "7/1/18"
+    "DATEMAJ": ""
   },
   {
     "TYPE_ENTITE": "Opérateur",
@@ -5475,7 +5475,7 @@
     "OBS": "base de données\nIntranet (accès uniquement en interne)",
     "QUALITE": 63,
     "QUALITE_OPENDATA": "",
-    "DATEMAJ": "7/1/18"
+    "DATEMAJ": ""
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -5533,7 +5533,7 @@
     "PERSP_OPENDATA": "(non pertinent)",
     "DIFFUSION_ACTUELLE": "données détaillées",
     "EFFORT_REUSE": "",
-    "URL_DATA": "http://calipso.aviation-civile.gouv.fr/",
+    "URL_DATA": "https://calipso.dta.aviation-civile.gouv.fr/application-externe/",
     "LICENCE": "Licence ouverte / Open Data Commons Open Database License (ODbL)",
     "FORMATS": "Non précisé",
     "PERIODICITE": "",
@@ -6036,7 +6036,7 @@
     "OBS": "MySQL\nExtranet (possibilité d'accès externe)",
     "QUALITE": 70,
     "QUALITE_OPENDATA": "",
-    "DATEMAJ": "7/1/18"
+    "DATEMAJ": ""
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -6069,7 +6069,7 @@
     "OBS": "Base de données SQL + stockage des fiches RSET (format XML) préalablement anonymisées\nPas d'accès informatisé",
     "QUALITE": 63,
     "QUALITE_OPENDATA": "",
-    "DATEMAJ": "7/1/18"
+    "DATEMAJ": ""
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -6630,7 +6630,7 @@
     "OBS": "",
     "QUALITE": 63,
     "QUALITE_OPENDATA": "",
-    "DATEMAJ": "7/1/18"
+    "DATEMAJ": ""
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -7513,7 +7513,7 @@
     "PERSP_OPENDATA": "(non pertinent)",
     "DIFFUSION_ACTUELLE": "Données détaillées",
     "EFFORT_REUSE": "Moyen",
-    "URL_DATA": "http://www.sandre.eaufrance.fr/atlas/srv/fre/catalog.search#/metadata/ebef2115-bee5-40bb-b5cc-4593d82ba334\n; http://assainissement.developpement-durable.gouv.fr/services.php",
+    "URL_DATA": "http://www.sandre.eaufrance.fr/atlas/srv/fre/catalog.search#/metadata/ebef2115-bee5-40bb-b5cc-4593d82ba334",
     "LICENCE": "Licence ouverte / Open Data Commons Open Database License (ODbL)",
     "FORMATS": "CSV ; ODS ; WMS ; WFS ; KML",
     "PERIODICITE": "Annuelle",
@@ -7843,7 +7843,7 @@
     "PERSP_OPENDATA": "(non pertinent)",
     "DIFFUSION_ACTUELLE": "PLU sur geo.data.gouv.fr;\nAutres sur observatoire-des-territoires.gouv.fr",
     "EFFORT_REUSE": "",
-    "URL_DATA": "http://geo.data.gouv.fr\nhttp://observatoire-des-territoires.gouv.Fr",
+    "URL_DATA": "https://geo.data.gouv.fr/fr/search?availability=yes&q=sudocuh",
     "LICENCE": "Licence d'utilisation préalable",
     "FORMATS": "Non précisé",
     "PERIODICITE": "",
@@ -8239,13 +8239,13 @@
     "PERSP_OPENDATA": "(non pertinent)",
     "DIFFUSION_ACTUELLE": "Données agrégées",
     "EFFORT_REUSE": "Simple",
-    "URL_DATA": "http://www.equasis.org/EquasisWeb/public/HomePage",
+    "URL_DATA": "",
     "LICENCE": "Licence ouverte / Open Data Commons Open Database License (ODbL)",
     "FORMATS": "XLS",
     "PERIODICITE": "Hebdomadaire",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 63,
+    "QUALITE": 59,
     "QUALITE_OPENDATA": 2,
     "DATEMAJ": "2/27/17"
   },
@@ -8346,7 +8346,7 @@
     "OBS": "",
     "QUALITE": 52,
     "QUALITE_OPENDATA": "",
-    "DATEMAJ": "7/1/18"
+    "DATEMAJ": ""
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -8379,7 +8379,7 @@
     "OBS": "",
     "QUALITE": 44,
     "QUALITE_OPENDATA": "",
-    "DATEMAJ": "7/1/18"
+    "DATEMAJ": ""
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -8412,7 +8412,7 @@
     "OBS": "",
     "QUALITE": 52,
     "QUALITE_OPENDATA": "",
-    "DATEMAJ": "7/1/18"
+    "DATEMAJ": ""
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -8445,7 +8445,7 @@
     "OBS": "",
     "QUALITE": 52,
     "QUALITE_OPENDATA": "",
-    "DATEMAJ": "7/1/18"
+    "DATEMAJ": ""
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -8478,7 +8478,7 @@
     "OBS": "",
     "QUALITE": 48,
     "QUALITE_OPENDATA": "",
-    "DATEMAJ": "7/1/18"
+    "DATEMAJ": ""
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -8511,7 +8511,7 @@
     "OBS": "",
     "QUALITE": 48,
     "QUALITE_OPENDATA": "",
-    "DATEMAJ": "7/1/18"
+    "DATEMAJ": ""
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -8544,7 +8544,7 @@
     "OBS": "",
     "QUALITE": 52,
     "QUALITE_OPENDATA": "",
-    "DATEMAJ": "7/1/18"
+    "DATEMAJ": ""
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -8577,7 +8577,7 @@
     "OBS": "",
     "QUALITE": 48,
     "QUALITE_OPENDATA": "",
-    "DATEMAJ": "7/1/18"
+    "DATEMAJ": ""
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -8610,7 +8610,7 @@
     "OBS": "",
     "QUALITE": 52,
     "QUALITE_OPENDATA": "",
-    "DATEMAJ": "7/1/18"
+    "DATEMAJ": ""
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -8643,7 +8643,7 @@
     "OBS": "",
     "QUALITE": 52,
     "QUALITE_OPENDATA": "",
-    "DATEMAJ": "7/1/18"
+    "DATEMAJ": ""
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -8676,7 +8676,7 @@
     "OBS": "",
     "QUALITE": 44,
     "QUALITE_OPENDATA": "",
-    "DATEMAJ": "7/1/18"
+    "DATEMAJ": ""
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -8709,7 +8709,7 @@
     "OBS": "",
     "QUALITE": 41,
     "QUALITE_OPENDATA": "",
-    "DATEMAJ": "7/1/18"
+    "DATEMAJ": ""
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -8742,7 +8742,7 @@
     "OBS": "",
     "QUALITE": 48,
     "QUALITE_OPENDATA": "",
-    "DATEMAJ": "7/1/18"
+    "DATEMAJ": ""
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -8775,7 +8775,7 @@
     "OBS": "",
     "QUALITE": 52,
     "QUALITE_OPENDATA": "",
-    "DATEMAJ": "7/1/18"
+    "DATEMAJ": ""
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -8808,7 +8808,7 @@
     "OBS": "",
     "QUALITE": 48,
     "QUALITE_OPENDATA": "",
-    "DATEMAJ": "7/1/18"
+    "DATEMAJ": ""
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -8841,7 +8841,7 @@
     "OBS": "",
     "QUALITE": 48,
     "QUALITE_OPENDATA": "",
-    "DATEMAJ": "7/1/18"
+    "DATEMAJ": ""
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -8874,7 +8874,7 @@
     "OBS": "",
     "QUALITE": 44,
     "QUALITE_OPENDATA": "",
-    "DATEMAJ": "7/1/18"
+    "DATEMAJ": ""
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -8907,7 +8907,7 @@
     "OBS": "",
     "QUALITE": 44,
     "QUALITE_OPENDATA": "",
-    "DATEMAJ": "7/1/18"
+    "DATEMAJ": ""
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -8940,7 +8940,7 @@
     "OBS": "",
     "QUALITE": 48,
     "QUALITE_OPENDATA": "",
-    "DATEMAJ": "7/1/18"
+    "DATEMAJ": ""
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -8973,7 +8973,7 @@
     "OBS": "",
     "QUALITE": 44,
     "QUALITE_OPENDATA": "",
-    "DATEMAJ": "7/1/18"
+    "DATEMAJ": ""
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -9006,7 +9006,7 @@
     "OBS": "",
     "QUALITE": 48,
     "QUALITE_OPENDATA": "",
-    "DATEMAJ": "7/1/18"
+    "DATEMAJ": ""
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -9039,7 +9039,7 @@
     "OBS": "",
     "QUALITE": 44,
     "QUALITE_OPENDATA": "",
-    "DATEMAJ": "7/1/18"
+    "DATEMAJ": ""
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -9072,7 +9072,7 @@
     "OBS": "",
     "QUALITE": 41,
     "QUALITE_OPENDATA": "",
-    "DATEMAJ": "7/1/18"
+    "DATEMAJ": ""
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -9105,7 +9105,7 @@
     "OBS": "",
     "QUALITE": 41,
     "QUALITE_OPENDATA": "",
-    "DATEMAJ": "7/1/18"
+    "DATEMAJ": ""
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -9138,7 +9138,7 @@
     "OBS": "",
     "QUALITE": 44,
     "QUALITE_OPENDATA": "",
-    "DATEMAJ": "7/1/18"
+    "DATEMAJ": ""
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -9171,7 +9171,7 @@
     "OBS": "",
     "QUALITE": 44,
     "QUALITE_OPENDATA": "",
-    "DATEMAJ": "7/1/18"
+    "DATEMAJ": ""
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -9204,7 +9204,7 @@
     "OBS": "",
     "QUALITE": 44,
     "QUALITE_OPENDATA": "",
-    "DATEMAJ": "7/1/18"
+    "DATEMAJ": ""
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -9237,7 +9237,7 @@
     "OBS": "",
     "QUALITE": 48,
     "QUALITE_OPENDATA": "",
-    "DATEMAJ": "7/1/18"
+    "DATEMAJ": ""
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -9270,7 +9270,7 @@
     "OBS": "",
     "QUALITE": 52,
     "QUALITE_OPENDATA": "",
-    "DATEMAJ": "7/1/18"
+    "DATEMAJ": ""
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -9303,7 +9303,7 @@
     "OBS": "",
     "QUALITE": 48,
     "QUALITE_OPENDATA": "",
-    "DATEMAJ": "7/1/18"
+    "DATEMAJ": ""
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -9336,7 +9336,7 @@
     "OBS": "",
     "QUALITE": 48,
     "QUALITE_OPENDATA": "",
-    "DATEMAJ": "7/1/18"
+    "DATEMAJ": ""
   },
   {
     "TYPE_ENTITE": "Administration centrale",
@@ -9394,13 +9394,13 @@
     "PERSP_OPENDATA": "(non pertinent)",
     "DIFFUSION_ACTUELLE": "Données détaillées",
     "EFFORT_REUSE": "",
-    "URL_DATA": "http://georisques.gouv.fr/services?&SERVICE=WMS&VERSION=1.3.0&REQUEST=GetCapabilities",
+    "URL_DATA": "",
     "LICENCE": "Licence ouverte / Open Data Commons Open Database License (ODbL)",
     "FORMATS": "WMS",
     "PERIODICITE": "",
     "NOMBRE": "",
     "OBS": "",
-    "QUALITE": 63,
+    "QUALITE": 59,
     "QUALITE_OPENDATA": 3,
     "DATEMAJ": "2/27/17"
   },
@@ -9724,7 +9724,7 @@
     "PERSP_OPENDATA": "(non pertinent)",
     "DIFFUSION_ACTUELLE": "Oui à préciser",
     "EFFORT_REUSE": "",
-    "URL_DATA": "http://macommune.prim.net/gaspar/",
+    "URL_DATA": "http://www.onrn.fr/site/basesdedonnees/mtes---gaspar.html",
     "LICENCE": "Licence ouverte / Open Data Commons Open Database License (ODbL)",
     "FORMATS": "Non précisé",
     "PERIODICITE": "",
@@ -9922,7 +9922,7 @@
     "PERSP_OPENDATA": "(non pertinent)",
     "DIFFUSION_ACTUELLE": "Données détaillées",
     "EFFORT_REUSE": "",
-    "URL_DATA": "http://www.aria.developpement-durable.gouv.fr",
+    "URL_DATA": "https://www.aria.developpement-durable.gouv.fr/",
     "LICENCE": "Licence ouverte / Open Data Commons Open Database License (ODbL)",
     "FORMATS": "Non précisé",
     "PERIODICITE": "",
@@ -9988,7 +9988,7 @@
     "PERSP_OPENDATA": "(non pertinent)",
     "DIFFUSION_ACTUELLE": "Données détaillées épurées",
     "EFFORT_REUSE": "",
-    "URL_DATA": "http://www.georisques.gouv.fr/cartes-aux-risques/donnees-industrielles",
+    "URL_DATA": "http://www.installationsclassees.developpement-durable.gouv.fr/rechercheICForm.php",
     "LICENCE": "Licence ouverte / Open Data Commons Open Database License (ODbL)",
     "FORMATS": "Non précisé",
     "PERIODICITE": "",
@@ -13593,7 +13593,7 @@
     "OBS": "",
     "QUALITE": 59,
     "QUALITE_OPENDATA": "",
-    "DATEMAJ": "7/1/18"
+    "DATEMAJ": ""
   },
   {
     "TYPE_ENTITE": "Établissement public",
@@ -13659,7 +13659,7 @@
     "OBS": "",
     "QUALITE": 58,
     "QUALITE_OPENDATA": "",
-    "DATEMAJ": "7/1/18"
+    "DATEMAJ": ""
   },
   {
     "TYPE_ENTITE": "Établissement public",
@@ -13890,7 +13890,7 @@
     "OBS": "",
     "QUALITE": 33,
     "QUALITE_OPENDATA": "",
-    "DATEMAJ": "7/1/18"
+    "DATEMAJ": ""
   },
   {
     "TYPE_ENTITE": "Établissement public",
@@ -14022,7 +14022,7 @@
     "OBS": "",
     "QUALITE": 56,
     "QUALITE_OPENDATA": "",
-    "DATEMAJ": "7/1/18"
+    "DATEMAJ": ""
   },
   {
     "TYPE_ENTITE": "Établissement public",
@@ -14187,7 +14187,7 @@
     "OBS": "",
     "QUALITE": 59,
     "QUALITE_OPENDATA": "",
-    "DATEMAJ": "7/1/18"
+    "DATEMAJ": ""
   },
   {
     "TYPE_ENTITE": "Établissement public",
@@ -14220,7 +14220,7 @@
     "OBS": "",
     "QUALITE": 56,
     "QUALITE_OPENDATA": "",
-    "DATEMAJ": "7/1/18"
+    "DATEMAJ": ""
   },
   {
     "TYPE_ENTITE": "Établissement public",
@@ -14253,7 +14253,7 @@
     "OBS": "",
     "QUALITE": 57,
     "QUALITE_OPENDATA": "",
-    "DATEMAJ": "7/1/18"
+    "DATEMAJ": ""
   },
   {
     "TYPE_ENTITE": "Établissement public",
